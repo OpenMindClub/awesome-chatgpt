@@ -1,6 +1,6 @@
 # 贡献指南
 
-请注意，本项目发布时包含 [Contributor Covenant Code of Conduct]（CODE_OF_CONDUCT.zh-cn.md）。如果你提交 Pull Request 就默认你同意遵守其条款。
+请注意，本项目发布时包含 [Contributor Covenant Code of Conduct](CODE_OF_CONDUCT.zh-cn.md)。如果你提交 Pull Request 就默认你同意遵守其条款。
 
 ---
 
