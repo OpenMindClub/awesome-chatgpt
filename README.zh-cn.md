@@ -271,23 +271,6 @@
 
 - 2023 [Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models](https://arxiv.org/abs/2303.04671)
 
-## TODO
-
-待整理材料：
-
-- [Multimodal Chain-of-Thought Reasoning in Language Models - Amazon](https://github.com/amazon-science/mm-cot)
-- [nanoGPT](https://github.com/karpathy/nanoGPT) - Andrej Karpathy（特斯拉前 AI 总监）从原理到代码，0-1 动手实践 GPT。
-- [AIGC 相关公开信源整理](https://p9ngzmlet4.feishu.cn/sheets/shtcnQUqryqHFn4lRLnhRiw1g2c) - 非常详细的一份飞书文档
-- [No.1 - 关于 AI 的 107 个人，61 个工具和 28 个通讯](https://mp.weixin.qq.com/s?__biz=MzkzNDQxOTU2MQ==&mid=2247483679&idx=1&sn=b562067e590a3e861de078a782eb265f&chksm=c2bccc19f5cb450f2d638b0f0ae80644d46acef7e69462733c67878c93dcc0809531916d38ac&mpshare=1&scene=1&srcid=031171Lcp6OPrX74ntuhqkpE&sharer_sharetime=1678518930914&sharer_shareid=a697a75b41763c317bec849da7e5a35a#rd)
-
-其他一些待归类的资料，应该属于大语言模型的应用层产品：
-
-- [造梦日记 - AI 一下，妙笔生画](https://printidea.art/) - 「造梦日记」是西湖心辰（杭州）科技有限公司和西湖大学深度学习实验室共同推出的一款 AI 绘画平台。由前谷歌人工智能研究院科学家、NLP 自然语言处理领域预训练语言模型“ALBERT”第一作者——蓝振忠博士带队研发。
-- [NovelAI - The AI Storyteller](https://novelai.net/) - NovelAI 是一个每月订阅服务，提供 AI 辅助的作者、故事讲述、虚拟陪伴，或者仅仅是一个供你想象的 GPT 驱动的沙盒。
-- [百度文心一格](https://yige.baidu.com/)
-- [ai.google](https://ai.google/)
-- [research.facebook.com](https://research.facebook.com/publications/llama-open-and-efficient-foundation-language-models/)
-- [AlphaCode](https://www.science.org/stoken/author-tokens/ST-905/full)
 
 ## Contribute
 
