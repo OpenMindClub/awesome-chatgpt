@@ -214,12 +214,13 @@
 - [Bard](https://blog.google/technology/ai/bard-google-ai-search-updates/) - 谷歌推出的对话机器人。Bard 构建于 LaMDA 模型的基础上，相较于 ChatGPT，Bard 可以检索网页，从而能够回答有关最近发生事件的问题。
 - [YouChat](https://you.com/search?q=who+are+you&tbm=youchat&cfr=chat) - 由 You.com 推出的聊天机器人，是一款基于 GPT-3 的可用于编写电子邮件和其他文档的文本生成器。相较于 ChatGPT，YouChat 的回复中会带有引用，进而可以帮助用户追踪每条信息的来源。
 - [Perplexity AI](https://www.perplexity.ai/) - 核心是将大规模语言模型和搜索引擎结合来进行问答，通过连续对话的形式提供用户需要的答案。相较于 ChatGPT，Perplexity AI 能够提供信息的来源，但其答案的流畅度和完整度相较于 ChatGPT 略显逊色。
-- MOSS -可执行对话生成、编程、事实问答等一系列任务。
-- 其他中国企业正在研发的对话机器人
-    - 百度的文心一言：文心一言 (英文名:ERNIE Bot) 是百度基于文心大模型技术推出的生成式对话产品。
+- [MOSS](https://moss.fastnlp.top/) -可执行对话生成、编程、事实问答等一系列任务。
+- 中国企业正在研发的对话机器人
+    - 百度文心一言：文心一言 (英文名:ERNIE Bot) 是百度基于文心大模型技术推出的生成式对话产品。
     - 科大讯飞学习机：科大讯飞表示，其生成式预训练大模型技术将率先落地于 AI 学习机产品。
-    - 京东 ChatJD：2023 年 2 月 10 日，京东宣布将推出产业版 ChatGPT: ChatJD
+    - 京东 ChatJD：2023 年 2 月 10 日，京东宣布将推出产业版 ChatGPT: ChatJD。
     - 腾讯的混元助手：致力于开发腾讯对话式通用人工智能系统。
+    - [澜舟认知智能平台](https://langboat.com/technology/mengzi) 基于孟子预训练技术，解锁文图生成、文学辅助创作、营销文案写作、论文助写等全方位AIGC能力。
 
 ### 竞品：大语言模型
 
