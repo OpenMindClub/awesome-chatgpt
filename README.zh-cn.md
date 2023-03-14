@@ -15,7 +15,7 @@
     - [提示词](#提示词)
 - [官方资源](#官方资源)
     - [版本](#版本)
-    - [OpenAI产品等](#OpenAI产品等)
+    - [OpenAI 产品等](#openai-产品等)
     - [社交媒体](#社交媒体)
 - [渠道资源](#渠道资源)
     - [GitHub 项目](#github-项目)
@@ -27,12 +27,12 @@
     - [中文视频](#中文视频)
     - [英文图文](#英文图文)
     - [中文图文](#中文图文)
-- [公司分析/风险投资](#公司分析风险投资)
+- [公司分析与风险投资分析](#公司分析与风险投资分析)
     - [OpenAI 投资者](#openai-投资者)
     - [OpenAI 投资的公司](#openai-投资的公司)
     - [OpenAI 支持的公司](#openai-支持的公司)
-    - [OpenAI 生态/产品矩阵](#openai-生态产品矩阵)
-    - [竞品：对话式机器人 Competitors: AI ChatBot](#竞品对话式机器人-competitors-ai-chatbot)
+    - [OpenAI 生态与产品矩阵](#openai-生态与产品矩阵)
+    - [竞品：对话式机器人](#竞品对话式机器人)
     - [竞品：大语言模型](#竞品大语言模型)
     - [行研报告](#行研报告)
 - [学术分析](#学术分析)
@@ -40,11 +40,11 @@
     - [ChatGPT 的技术原理](#chatgpt-的技术原理)
     - [Prompt engineering 的最近进展](#prompt-engineering-的最近进展)
     - [LLMs 的最新进展](#llms-的最新进展)
-- [贡献](#contribute)
-- [贡献者](#contributors)
-- [联系](#contact)
-- [致谢](#credits)
-- [许可](#license)
+- [贡献](#贡献)
+- [贡献者](#贡献者)
+- [联系](#联系)
+- [致谢](#致谢)
+- [许可](#许可)
 
 ## 元资源
 
@@ -65,7 +65,7 @@
 ### 提示词
 
 - [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts) - 这是与 ChatGPT 模型一起使用的提示例子的集合。
-- [ChatGPT 中文调教指南](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - 这是在ChatGPT中使用的提示词。
+- [ChatGPT 中文调教指南](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - 这是在 ChatGPT 中使用的提示词。
 - [ChatGPT Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut) - 根据领域和功能划分的 ChatGPT 快捷指令表，可通过标签筛选、关键词搜索和一键复制来使用提示词。
 - [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 指南、论文、讲座和提示工程的资源。
 - [Prompt Marketplace](https://promptbase.com/) - PromptBase 是一个购买和销售优质 Prompts 的市场。
@@ -73,12 +73,15 @@
 - [ChatGPT 500 prompts](https://www.linkedin.com/pulse/chatgpt-500-prompts-make-you-top-1-copywriter-alexis-khvatov-) - 500 条对作家有帮助的 Prompts。
 
 ## 官方资源
+
 ### 版本
+
 - [ChatGPT](https://openai.com/blog/chatgpt) - 网页版。这是一个由 OpenAI 开发的人工智能聊天机器人，它允许你与 ChatGPT 进行 AI 对话。
-- [OpenAI API](https://openai.com/blog/openai-api) - API版。一个允许任何人访问 OpenAI 开发的新 AI 模型的平台。
+- [OpenAI API](https://openai.com/blog/openai-api) - API 版。一个允许任何人访问 OpenAI 开发的新 AI 模型的平台。
 - [VisualChatGPT](https://github.com/microsoft/visual-chatgpt) 是一个在 ChatGPT 基础上增加了视觉功能的版本。Visual ChatGPT 是一个由微软开发的项目，它可以在聊天中发送和接收图片。它是基于 ChatGPT 和一系列视觉基础模型的组合。
 
-### OpenAI产品等
+### OpenAI 产品等
+
 - [OpenAI](https://openai.com/) - OpenAI 的主页。
 - [OpenAI Product](https://openai.com/product) - 本页展示了 OpenAI 提供的产品，如 GPT 模型、DALL-E 2 和 Whisper。
 - [OpenAI API Documentation](https://platform.openai.com/docs) - OpenAI API 的文档，是学习和使用 OpenAI API 的重要资源。
@@ -165,11 +168,11 @@
 - [ChatGPT 商务速成 - 中译版](https://www.notion.so/8ce48bcb5aa94828a64c86a2dbfc307d)
 - [如何使用 Python 快速集成 ChatGPT API](https://mp.weixin.qq.com/s?__biz=MjM5MjU2NDk0Nw==&mid=2247507931&idx=2&sn=77f75026c365b73275f7ce3f2e7d0ab4&chksm=a6a6cc6791d14571df77a1a5c249bc46ffd03269b264aadbdfa43927e809b578d501a1c58f31&mpshare=1&scene=1&srcid=0308V8ZG15g6BE1TgRXPEWYa&sharer_sharetime=1678253425412&sharer_shareid=a697a75b41763c317bec849da7e5a35a#rd)
 
-## 公司分析/风险投资
+## 公司分析与风险投资分析
 
 ### OpenAI 投资者
 
-- Pre Seed轮：Y Combinator（创业孵化器）
+- Pre Seed 轮：Y Combinator（创业孵化器）
 - 种子轮：Reid Hoffman Foundation（莱德·霍夫曼基金会）
 - 种子轮：Khosla Ventures（卡斯拉风投）
 - 企业轮：Microsoft（微软）
@@ -190,7 +193,7 @@
 
 - [Virtuzone](https://launchpad.vz.ae/) - 阿联酋领先的公司成立专家和屡获殊荣的企业服务提供商，推出 SWYFT 计划，这是一个由 OpenAI 的 ChatGPT 支持的自动商业计划生成器，允许用户在 10 分钟内生成一个完整的商业计划。
 
-### OpenAI 生态/产品矩阵
+### OpenAI 生态与产品矩阵
 
 - 文本
     - ChatGPT - 一个名为 ChatGPT 的模型，它以对话的方式进行交互。对话格式使 ChatGPT 能够回答后续问题、承认错误、质疑不正确的前提并拒绝不适当的请求。
@@ -205,7 +208,7 @@
     - Jukebox - 一个神经网络，生成音乐作为原始音频在各种流派和艺术家的风格。
     - MuseNet - 这是一个深度神经网络，可以用 10 种不同的乐器生成 4 分钟的音乐作品。
 
-### 竞品：对话式机器人 Competitors: AI ChatBot
+### 竞品：对话式机器人
 
 - [OpenChatKit](https://github.com/togethercomputer/OpenChatKit) - 一个类 ChatGPT 开源工具包，基于 EleutherAI 的 GPT-NeoX-20B，内含一个 20B 参数量的大模型，而且该模型在 4300 万条指令上进行了微调。
 - [Jasper Chat](https://www.jasper.ai/chat) - Jasper AI 生态中的一项功能，与 ChatGPT 不同的是，它是付费服务。
@@ -220,12 +223,12 @@
     - 科大讯飞学习机：科大讯飞表示，其生成式预训练大模型技术将率先落地于 AI 学习机产品。
     - 京东 ChatJD：2023 年 2 月 10 日，京东宣布将推出产业版 ChatGPT: ChatJD。
     - 腾讯的混元助手：致力于开发腾讯对话式通用人工智能系统。
-    - [澜舟认知智能平台](https://langboat.com/technology/mengzi) 基于孟子预训练技术，解锁文图生成、文学辅助创作、营销文案写作、论文助写等全方位AIGC能力。
+    - [澜舟认知智能平台](https://langboat.com/technology/mengzi) 基于孟子预训练技术，解锁文图生成、文学辅助创作、营销文案写作、论文助写等全方位 AIGC 能力。
 
 ### 竞品：大语言模型
 
 - [LaMDA](https://blog.google/technology/ai/lamda/): **对话应用的语言模型**是一个由谷歌开发的对话大型语言模型系列。LaMDA 使用的是一个仅有解码器的变换器语言模型。
-- [LLaMA](https://github.com/facebookresearch/llama): 由 Meta AI开发，一个基础性的，650 亿参数的大型语言模型。旨在帮助研究人员推进他们在人工智能子领域的工作。
+- [LLaMA](https://github.com/facebookresearch/llama): 由 Meta AI 开发，一个基础性的，650 亿参数的大型语言模型。旨在帮助研究人员推进他们在人工智能子领域的工作。
 - [Gopher](https://arxiv.org/abs/2112.11446) - 由 DeepMind 提供的 2800 亿参数的变换器语言模型，名为 Gopher，是一个基于自回归变换器的密集型 LLM。
 - [GLM](https://github.com/THUDM/GLM-130B) - GLM 是清华大学开发的通用语言模型。GLM-130B 是 GLM 的开源双语（英文&中文）版本，拥有 1300 亿个参数，为拥有单个 A100 或 V100 服务器的用户设计。
 - [GPT-NeoXT-Chat-Base-20B](https://huggingface.co/togethercomputer/GPT-NeoXT-Chat-Base-20B) 一个可以进行聊天和图片生成的开源语言模型。
@@ -274,7 +277,6 @@
 ### LLMs 的最新进展
 
 - 2023 [Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models](https://arxiv.org/abs/2303.04671)
-
 
 ## 贡献
 

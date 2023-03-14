@@ -14,8 +14,8 @@
     - [The Principles of ChatGPT](#the-principles-of-chatgpt)
     - [Prompts](#prompts)
 - [OpenAI Official Rescources](#openai-official-rescources)
-    - [Version](#Version)
-    - [OpenAI Products and others](#OpenAI-Products-and-others)
+    - [Version](#version)
+    - [OpenAI-Products-and-others](#openai-products-and-others)
     - [Social Media](#social-media)
 - [Channel Resources](#channel-resources)
     - [GitHub Projects](#github-projects)
@@ -23,10 +23,10 @@
     - [App](#app)
     - [Web App](#web-app)
 - [Courses](#courses)
-    - [English Videos](#English-Videos)
-    - [Chinese Videos](#Chinese-Videos)
-    - [English Graphic and Textual](#English-Graphic-and-Textual)
-    - [Chinese Graphic and Textual](#Chinese-Graphic-and-Textual)
+    - [English-Videos](#english-videos)
+    - [Chinese-Videos](#chinese-videos)
+    - [English-Graphic-and-Textual](#english-graphic-and-textual)
+    - [Chinese-Graphic-and-Textual](#chinese-graphic-and-textual)
 - [Venture Capitalists](#venture-capitalists)
     - [OpenAI Investors](#openai-investors)
     - [OpenAI Investments](#openai-investments)
@@ -73,12 +73,15 @@
 - [ChatGPT 500 prompts](https://www.linkedin.com/pulse/chatgpt-500-prompts-make-you-top-1-copywriter-alexis-khvatov-) - 500 Prompts that are helpful for writers.
 
 ## OpenAI Official Rescources
+
 ### Version
+
 - [ChatGPT](https://openai.com/blog/chatgpt) - Website.This is an official online chat tool provided by OpenAI, which allows you to have AI conversations with ChatGPT.
 - [OpenAI API](https://openai.com/blog/openai-api) - OpenAI API, a platform that allows anyone to access new AI models developed by OpenAI.
 - [VisualChatGPT](https://github.com/microsoft/visual-chatgpt) - It is a version that adds visual features on top of ChatGPT.Visual ChatGPT is a project developed by Microsoft that enables the exchange of images during conversations. It is a combination of ChatGPT and a series of visual models.
 
 ### OpenAI-Products-and-others
+
 - [OpenAI](https://openai.com/) - The homepage of OpenAI.
 - [OpenAI Product](https://openai.com/product) - This page showcases the products offered by OpenAI, such as GPT models, DALL·E 2 and Whisper.
 - [OpenAI API Documentation](https://platform.openai.com/docs) - It's a documentation of the OpenAI API. This page is an important resource for learning and using the OpenAI API.
@@ -99,7 +102,7 @@
 ### GitHub Projects
 
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - ChatGPT Desktop Application
-- [manno/chatgpt-linux-assistant](https://github.com/manno/chatgpt-linux-assistant) - An ai assistant in your CLI. 
+- [manno/chatgpt-linux-assistant](https://github.com/manno/chatgpt-linux-assistant) - An ai assistant in your CLI.
 - [arc53/DocsGPT](https://github.com/arc53/docsgpt) - DocsGPT is a cutting-edge open-source solution that streamlines the process of finding information in project documentation.
 - [GanymedeNil/document.ai](https://github.com/GanymedeNil/document.ai) - A universal local knowledge base solution based on vector database and GPT-3.5.
 - [yihong0618/bilingual_book_maker](https://github.com/yihong0618/bilingual_book_maker) - Translate EPUB eBooks using the OpenAI API.
@@ -108,7 +111,7 @@
 
 - [sharegpt-google](https://chrome.google.com/webstore/detail/sharegpt-share-your-chatg/daiacboceoaocpibfodeljbdfacokfjb) - Sharing the ChatGPT chat history with others can generate various formats such as links, images, and PDFs.
 - [chatgpt-writer-google](https://chrome.google.com/webstore/detail/chatgpt-writer-write-mail/pdnenlnelpdomajfejgapbdpmjkfpjkp) - Use ChatGPT to generate complete emails and messagese. It is supported on all websites and has better support for Gmail.
-- [chatgpt-prompt-genius-google](https://chrome.google.com/webstore/detail/chatgpt-prompt-genius/jjdnakkfjnnbbckhifcfchagnpofjffo) - Discover, share, import, and use prompts that are most suitable for ChatGPT. 
+- [chatgpt-prompt-genius-google](https://chrome.google.com/webstore/detail/chatgpt-prompt-genius/jjdnakkfjnnbbckhifcfchagnpofjffo) - Discover, share, import, and use prompts that are most suitable for ChatGPT.
 - [ChatGPT for Google](https://chrome.google.com/webstore/detail/chatgpt-for-google/jgjaeacdkonaoafenlfkkkmbaopkbilf) - You can have search engine pages directly display ChatGPT's answers.
 - [AIPRM for ChatGPT](https://chrome.google.com/webstore/detail/aiprm-for-chatgpt/ojnbohmppadfgpejeebfnmnknjdlckgj/related) - [AIPRM](https://www.aiprm.com/) is a tool with multiple Prompt Templates and customizable Prompt Templates. It is a tool that ranks second when searching for ChatGPT directly in Google Chrome.
 - [immersive-translator](https://microsoftedge.microsoft.com/addons/detail/%E6%B2%89%E6%B5%B8%E5%BC%8F%E7%BF%BB%E8%AF%91/amkbmndfnliijdhojkpoglbnaaahippg?hl=zh-CN) - Translation add-on using the OpenAI API.
@@ -141,11 +144,12 @@
 - [ChatGPT 101: Learn ChatGPT Prompts & ChatGPT Smart Tips](https://www.udemy.com/course/trend-spotter/) - You will learn how to automate tasks, generate ideas, and streamline your workflow with ChatGPT’s prompts and commands. You will also learn about the impact of AI on society and the future of work from case studies and experts.
 - [ChatGPT: Complete ChatGPT Course For Work 2023 (Ethically)](https://www.udemy.com/course/chatgpt-complete-chatgpt-course-for-work-2023-ethically-chat-gpt/) - You will learn how to use ChatGPT to generate content, automate processes, communicate effectively, and educate yourself on different topics.
 - [ChatGPT Masterclass: Smart Tips & ChatGPT Insights & Future](https://www.udemy.com/course/chatgpt-masterclass-smart-tips-insights/) - In this course, you will learn how to improve your ChatGPT prompts skills,. In addition, this course will also teach you the background, development, ethics, applications and future of ChatGPT.
-- [ChatGPT Masterclass - Build Solutions and Apps with ChatGPT](https://www.udemy.com/course/chatgpt-build-solutions-and-apps-with-chatgpt-and-openai/) - This course teaches you how to build applications and solutions with OpenAI and ChatGPT using no-code methods. 
+- [ChatGPT Masterclass - Build Solutions and Apps with ChatGPT](https://www.udemy.com/course/chatgpt-build-solutions-and-apps-with-chatgpt-and-openai/) - This course teaches you how to build applications and solutions with OpenAI and ChatGPT using no-code methods.
 - [ChatGPT for Programmers: Build Python Apps in Seconds](https://www.udemy.com/course/chatgpt-for-programmers/) - This course teaches you how to use ChatGPT to build apps, fix bugs, and automate your workflow in Python or other programming languages.
 - More Courses: [Udemy → ChatGPT](https://www.udemy.com/courses/search/?src=ukw&q=ChatGPT)
 
 ### Chinese-Videos
+
 - [ChatGPT 保姆级使用教程：注册、体验、底层逻辑原理解读！](https://www.bilibili.com/video/BV1HT411R7Lj/) ChatGPT introduction, biased bottom technology, biased bottom layer principle.
 
 ### English-Graphic-and-Textual
@@ -156,6 +160,7 @@
 - [Full ChatGPT Prompts + Resources](https://www.notion.so/8aa78bb226b7467ab59b70d2b27042e9)
 
 ### Chinese-Graphic-and-Textual
+
 - [ChatGPT 终极指南 - 中译版](https://geekr.dev/posts/chatgpt-ultimate-guide)
 - [理解大语言模型——10 篇论文的简明清单](https://mp.weixin.qq.com/s/h7Pam1mepgd18aeqn7_3hw)
 - [拆解追溯 GPT-3.5 各项能力的起源 - 中译版](https://www.notion.so/360081d91ec245f29029d37b54573756)
