@@ -20,22 +20,18 @@
     - [浏览器插件 Add-Ons](#浏览器插件-add-ons)
     - [App](#app)
     - [Web App](#web-app)
-    - [小程序](#小程序)
-- [教程](#教程)
-    - [视频](#视频)
-        - [英文](#英文)
-        - [中文](#中文)
-    - [图文](#图文)
-        - [英文](#英文-1)
-        - [中文](#中文-1)
-- [公司分析/风险投资](#公司分析风险投资)
-    - [OpenAI 投资者](#openai-投资者)
-    - [OpenAI 投资的公司](#openai-投资的公司)
-    - [OpenAI 支持的公司](#openai-支持的公司)
-    - [OpenAI 生态/产品矩阵](#openai-生态产品矩阵)
-    - [竞品：对话式机器人](#竞品对话式机器人)
-    - [竞品：大语言模型](#竞品大语言模型)
-    - [行研报告](#行研报告)
+- [教程 Courses](#教程-courses)
+    - [英文 Videos](#英文-videos)
+    - [中文 Videos](#中文-videos)
+    - [英文图文 Graphic and Textual](#英文图文-graphic-and-textual)
+    - [中文图文 Graphic and Textual](#中文图文-graphic-and-textual)
+    - [OpenAI 投资者 OpenAI Investors](#openai-投资者-openai-investors)
+    - [OpenAI 投资的公司 OpenAI Investments](#openai-投资的公司-openai-investments)
+    - [OpenAI 支持的公司 Companies supported by OpenAI](#openai-支持的公司-companies-supported-by-openai)
+    - [OpenAI 生态/产品矩阵 OpenAI Products](#openai-生态产品矩阵-openai-products)
+    - [竞品：对话式机器人 Competitors: AI ChatBot](#竞品对话式机器人-competitors-ai-chatbot)
+    - [竞品：大语言模型 Competitors: LLMs](#竞品大语言模型-competitors-llms)
+    - [行研报告 Research report](#行研报告-research-report)
 - [学术分析](#学术分析)
     - [关键术语对照表](#关键术语对照表)
     - [ChatGPT 的技术原理](#chatgpt-的技术原理)
@@ -54,7 +50,7 @@
 
 ## 元资源 Meta Resources
 
-- [wikipedia-ChatGPT](https://en.wikipedia.org/w/index.php?title=ChatGPT&oldid=1144021256)  
+- [wikipedia-ChatGPT](https://en.wikipedia.org/w/index.php?title=ChatGPT&oldid=1144021256)
 
 ### 通用 General
 
@@ -99,7 +95,7 @@
 
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - ChatGPT Desktop Application
 - [manno/chatgpt-linux-assistant](https://github.com/manno/chatgpt-linux-assistant) - An ai assistant in your CLI. But it knows what's on your sys.
-- [arc53/DocsGPT](https://github.com/arc53/docsgpt) - DocsGPT is a cutting-edge open-source solution that streamlines the process of finding information in project documentation. With its integration of the powerful GPT models, developers can easily ask questions about a project and receive accurate answers.  
+- [arc53/DocsGPT](https://github.com/arc53/docsgpt) - DocsGPT is a cutting-edge open-source solution that streamlines the process of finding information in project documentation. With its integration of the powerful GPT models, developers can easily ask questions about a project and receive accurate answers.
 - [GanymedeNil/document.ai](https://github.com/GanymedeNil/document.ai) - 基于向量数据库与 GPT-3.5 的通用本地知识库方案。A universal local knowledge base solution based on vector database and GPT-3.5.
 - [yihong0618/bilingual_book_maker](https://github.com/yihong0618/bilingual_book_maker)
 
@@ -127,61 +123,44 @@
 - [Chat Simplifier](https://chat-simplifier.imzbb.cc/zh) - 国人开发，聊天简化器，提取对话重点。Chat simplifier, extracts key points from conversations.
 - [PandaGPT](https://www.pandagpt.io/) - 辅助阅读 PDF，自动回答问题。Assist in reading PDFs and automatically answering questions.
 
-### 小程序
+## 教程 Courses
 
-## 教程
+### 英文 Videos
 
-### 视频
+- [The Ultimate Chat GPT Course](https://www.notion.so/69ed24a317a942d288e740419b1ad6f6) - This guide course has more than 1000+ resources to help you learn how to use Chat GPT to enhance your life. (Free!)
+- [Advanced ChatGPT: Full Guide:](https://www.notion.so/ac6aa68840bc427c83f4611dd2642f83) - His guide includes beginner and advanced ChatGPT tutorials, as well as some practical tips and examples. (Free!)
+- [ChatGPT Tutorial - A Crash Course on Chat GPT for Beginners:](https://www.youtube.com/watch?v=JTxsNm9IdYU) - This Video explains the basic concepts and usage of ChatGPT. You will learn how to use ChatGPT to generate various types of text, such as shopping lists, JavaScript code, short stories, resumes, etc. You will also learn about the advantages and limitations of ChatGPT, and how to use it to create valuable content. (Free!)
+- [Complete ChatGPT Tutorial - [Become A Power User in 30 Minutes]](https://www.youtube.com/watch?v=jHv63Uvk5VA) - You can learn 10 major types of commands that let ChatGPT provide you with various useful information and services. (Free!)
+- [ChatGPT Tutorial for Developers - 38 Ways to 10x Your Productivity:](https://www.youtube.com/watch?v=sTeoEFzVNSc) - Learn how to use ChatGPT to 10x your productivity! 38 ChatGPT examples to help you learn how to use Python, JavaScript, HTML, CSS, React, SQL and more. (Free!)
+- [ChatGPT Masterclass: A Complete ChatGPT Guide for Beginners](https://www.udemy.com/course/chatgpt-masterclass-a-complete-chatgpt-guide-for-beginners/) - You will learn how to use ChatGPT and OpenAI to create various types of content, such as SEO, e-commerce, translation, Amazon, and sales copy. You will also learn how to use the OpenAI API to create apps and code, as well as how to use Dalle to create high-quality images.
+- [ChatGPT 101: Learn ChatGPT Prompts & ChatGPT Smart Tips](https://www.udemy.com/course/trend-spotter/) - You will learn how to automate tasks, generate ideas, and streamline your workflow with ChatGPT’s prompts and commands. You will also learn about the impact of AI on society and the future of work from case studies and experts.
+- [ChatGPT: Complete ChatGPT Course For Work 2023 (Ethically)](https://www.udemy.com/course/chatgpt-complete-chatgpt-course-for-work-2023-ethically-chat-gpt/) - You will learn how to use ChatGPT to generate content, automate processes, communicate effectively, and educate yourself on different topics.
+- [ChatGPT Masterclass: Smart Tips & ChatGPT Insights & Future](https://www.udemy.com/course/chatgpt-masterclass-smart-tips-insights/) - In this course, you will learn how to improve your ChatGPT prompts skills,. In addition, this course will also teach you the background, development, ethics, applications and future of ChatGPT.
+- [ChatGPT Masterclass - Build Solutions and Apps with ChatGPT](https://www.udemy.com/course/chatgpt-build-solutions-and-apps-with-chatgpt-and-openai/) - This course teaches you how to build applications and solutions with OpenAI and ChatGPT using no-code methods. You will learn how to integrate ChatGPT into platforms like Outlook, Power Apps, Bubble, and more, and create four real projects. No programming experience required.
+- [ChatGPT for Programmers: Build Python Apps in Seconds](https://www.udemy.com/course/chatgpt-for-programmers/) - This course teaches you how to use ChatGPT to build apps, fix bugs, and automate your workflow in Python or other programming languages.
+- More Courses: [Udemy → ChatGPT](https://www.udemy.com/courses/search/?src=ukw&q=ChatGPT)
 
-#### 英文
+### 中文 Videos
 
-- [The Ultimate Chat GPT Course](https://tested-salto-cab.notion.site/The-Ultimate-Chat-GPT-Course-69ed24a317a942d288e740419b1ad6f6)
-- [Advanced ChatGPT: Full Guide:](https://vaulted-polonium-23c.notion.site/Advanced-ChatGPT-Full-Guide-ac6aa68840bc427c83f4611dd2642f83)
-- [ChatGPT Tutorial - A Crash Course on Chat GPT for Beginners:](https://www.youtube.com/watch?v=JTxsNm9IdYU)
-- [Complete ChatGPT Tutorial - [Become A Power User in 30 Minutes]](https://www.youtube.com/watch?v=jHv63Uvk5VA)
-- [ChatGPT Tutorial for Developers - 38 Ways to 10x Your Productivity:](https://www.youtube.com/watch?v=sTeoEFzVNSc)
-- [ChatGPT Masterclass: A Complete ChatGPT Guide for Beginners](https://www.udemy.com/course/chatgpt-masterclass-a-complete-chatgpt-guide-for-beginners/)
-- [ChatGPT 101: Learn ChatGPT Prompts & ChatGPT Smart Tips](https://www.udemy.com/course/trend-spotter/)
-- [ChatGPT: Complete ChatGPT Course For Work 2023 (Ethically)](https://www.udemy.com/course/chatgpt-complete-chatgpt-course-for-work-2023-ethically-chat-gpt/)
-- [ChatGPT Masterclass: Smart Tips & ChatGPT Insights & Future](https://www.udemy.com/course/chatgpt-masterclass-smart-tips-insights/)
-- [ChatGPT Masterclass - Build Solutions and Apps with ChatGPT](https://www.udemy.com/course/chatgpt-build-solutions-and-apps-with-chatgpt-and-openai/)
-- [ChatGPT for Programmers: Build Python Apps in Seconds](https://www.udemy.com/course/chatgpt-for-programmers/)
-- More Courses: [Udemy→ChatGPT](https://www.udemy.com/courses/search/?src=ukw&q=ChatGPT)
-<a name="zrJM0"></a>
+- [【ChatGPT 保姆级使用教程】注册、体验、底层逻辑原理解读！](https://www.bilibili.com/video/BV1HT411R7Lj/) ChatGPT 介绍，偏底技术，偏底层原理。
 
-#### 中文
+### 英文图文 Graphic and Textual
 
-- [【Chat GPT 保姆级使用教程】注册、体验、底层逻辑原理解读！](https://www.bilibili.com/video/BV1HT411R7Lj/?spm_id_from=333.337.search-card.all.click&vd_source=6faef52e732ccc3a4a525fe406ce9808) ChatGPT 介绍，偏底技术，偏底层原理。
-<a name="u0w9q"></a>
+[The-Ultimate-ChatGPT-Guide](https://www.notion.so/8800517adc0d4c569d4a317c177185a1)
+[How does GPT Obtain its Ability? Tracing Emergent Abilities of Language Models to their Sources - 有中译版](https://www.notion.so/b9a57ac0fcf74f30a1ab9e3e36fa1dc1)
+[How to use ChatGPT APIs in Python](https://medium.com/@FrancescoZ/how-to-use-chatgpt-with-python-e7a8868e6034)
+[Full ChatGPT Prompts + Resources](https://www.notion.so/8aa78bb226b7467ab59b70d2b27042e9)
 
-### 图文
+### 中文图文 Graphic and Textual
 
-<a name="QVig5"></a>
+[ChatGPT 终极指南 - 中译版](https://geekr.dev/posts/chatgpt-ultimate-guide)
+[理解大语言模型——10 篇论文的简明清单](https://mp.weixin.qq.com/s/h7Pam1mepgd18aeqn7_3hw)
+[拆解追溯 GPT-3.5 各项能力的起源 - 中译版](https://www.notion.so/360081d91ec245f29029d37b54573756)
+[如何用 ChatGPT 构建你的专属知识问答机器人](https://blog.frankzhao.cn/build_gpt_bot_for_doc/)
+[ChatGPT 商务速成 - 中译版](https://www.notion.so/8ce48bcb5aa94828a64c86a2dbfc307d)
+[如何使用 Python 快速集成 ChatGPT API](https://mp.weixin.qq.com/s?__biz=MjM5MjU2NDk0Nw==&mid=2247507931&idx=2&sn=77f75026c365b73275f7ce3f2e7d0ab4&chksm=a6a6cc6791d14571df77a1a5c249bc46ffd03269b264aadbdfa43927e809b578d501a1c58f31&mpshare=1&scene=1&srcid=0308V8ZG15g6BE1TgRXPEWYa&sharer_sharetime=1678253425412&sharer_shareid=a697a75b41763c317bec849da7e5a35a#rd)
 
-#### 英文
-
-- [The-Ultimate-ChatGPT-Guide](https://tested-salto-cab.notion.site/The-Ultimate-ChatGPT-Guide-8800517adc0d4c569d4a317c177185a1)<br />  
-- [How does GPT Obtain its Ability? Tracing Emergent Abilities of Language Models to their Sources（有中译版）](https://yaofu.notion.site/How-does-GPT-Obtain-its-Ability-Tracing-Emergent-Abilities-of-Language-Models-to-their-Sources-b9a57ac0fcf74f30a1ab9e3e36fa1dc1)<br />  
-- [How to use ChatGPT APIs in Python](https://medium.com/@FrancescoZ/how-to-use-chatgpt-with-python-e7a8868e6034)<br />  
-- [Full ChatGPT Prompts + Resources](https://enchanting-trader-463.notion.site/Full-ChatGPT-Prompts-Resources-8aa78bb226b7467ab59b70d2b27042e9)
-<a name="JmMQM"></a>
-
-#### 中文
-
-- [ChatGPT 终极指南 - 中译版](https://geekr.dev/posts/chatgpt-ultimate-guide)<br />  
-- [理解大语言模型——10 篇论文的简明清单](https://mp.weixin.qq.com/s/h7Pam1mepgd18aeqn7_3hw)<br />  
-- [拆解追溯 GPT-3.5 各项能力的起源 - 中译版](https://yaofu.notion.site/GPT-3-5-360081d91ec245f29029d37b54573756#cf00f4e11d974187956122ce7d534386)<br />  
-- [如何用 ChatGPT 构建你的专属知识问答机器人](https://blog.frankzhao.cn/build_gpt_bot_for_doc/)<br />  
-- [ChatGPT 商务速成 - 中译版](https://adorable-antimony-856.notion.site/ChatGPT-8ce48bcb5aa94828a64c86a2dbfc307d)<br />  
-- [如何使用 Python 快速集成 ChatGPT API](https://mp.weixin.qq.com/s?__biz=MjM5MjU2NDk0Nw==&mid=2247507931&idx=2&sn=77f75026c365b73275f7ce3f2e7d0ab4&chksm=a6a6cc6791d14571df77a1a5c249bc46ffd03269b264aadbdfa43927e809b578d501a1c58f31&mpshare=1&scene=1&srcid=0308V8ZG15g6BE1TgRXPEWYa&sharer_sharetime=1678253425412&sharer_shareid=a697a75b41763c317bec849da7e5a35a#rd)
-  
-<a name="yfZRD"></a>
-
-## 公司分析/风险投资
-
-<a name="cRC2R"></a>
-
-### OpenAI 投资者
+### OpenAI 投资者 OpenAI Investors
 
 - Pre Seed Round: Y Combinator
 - Seed Round: Reid Hoffman Foundation
@@ -193,46 +172,42 @@
 - Second Market: Bedrock Capital
 - Second Market: Matthew Brown Companies
 - Corporate Round: Microsoft
-<a name="majFz"></a>
 
-### OpenAI 投资的公司
+### OpenAI 投资的公司 OpenAI Investments
 
-- [edgedb](https://www.edgedb.com/)
-- [Descript](https://www.descript.com/)
-- [Ambience Healthcare](https://www.ambiencehealthcare.com/)
-<a name="DrKgJ"></a>
+- [edgedb](https://www.edgedb.com/) - EdgeDB is a developer of the first open-source graph-relational database.EdgeDB is reinventing the relational database stack. Through a streamlined data model and powerful query language, they make working with data productive, pleasant, and efficient for developers and data engineers. It aims to solve some hard design problems that make existing databases unnecessarily onerous to use.
+- [Descript](https://www.descript.com/) - Descript is a collaborative audio and video editor that transcribes audio to a text document for editing. It also provides automated and manual transcribing solutions for voice audio files. In addition, the platform utilizes speech recognition technology to transcribe audio and video files in a short duration of time.
+- [Ambience Healthcare](https://www.ambiencehealthcare.com/) - Ambience Healthcare’s mission is to supercharge healthcare providers with AI superpowers.Our flagship product, Ambience AutoScribe, is a fully automated AI medical scribe that captures the nuances of provider-patient conversation in real-time into a comprehensive note and seamlessly fits into EMR workflows. Adopted by provider organizations across North America, Ambience reduces time spent on documentation by 76% so that providers can focus on what matters most: caring for patients. Ambience AutoScribe is used by providers everyday, even in some of the most challenging medical specialties (e.g., psychiatry and complex geriatric primary care). For the first time in years, our providers are able to get home on time for dinner and don’t need to spend hours late at night catching up on their charts.
 
-### OpenAI 支持的公司
+### OpenAI 支持的公司 Companies supported by OpenAI
 
-- [Virtuzone](https://launchpad.vz.ae/)
-<a name="WAJeZ"></a>
+- [Virtuzone](https://launchpad.vz.ae/) - The UAE's leading Company Formation Specialists and award-winning corporate services provider。 launching SWYFT Plan  which is an automated business plan builder powered by OpenAI's ChatGPT to allow users to generate a complete business plan in less than 10 minutes.
 
-### OpenAI 生态/产品矩阵
+### OpenAI 生态/产品矩阵 OpenAI Products
 
 - 文本
-    - ChatGPT：一个名为 ChatGPT 的模型，它以对话的方式进行交互。对话格式使 ChatGPT 能够回答后续问题、承认错误、质疑不正确的前提并拒绝不适当的请求。
-    - GPT:GPT 模型能够执行自然语言处理任务，比如文本生成、摘要和分析。
+    - ChatGPT - 一个名为 ChatGPT 的模型，它以对话的方式进行交互。对话格式使 ChatGPT 能够回答后续问题、承认错误、质疑不正确的前提并拒绝不适当的请求。A model which interacts in a conversational way. The dialogue format makes it possible for ChatGPT to answer follow-up questions, admit its mistakes, challenge incorrect premises, and reject inappropriate requests.
+    - GPT - GPT 模型能够执行自然语言处理任务，比如文本生成、摘要和分析。GPT 系列进化过程：GPT-1、GPT-2、GPT-3、Codex、InstructGPT、Code-davinci-002、Text-davinci-002、Text-davinci-003。GPT models are capable of natural language processing tasks such as text generation, summarization, and analysis.
+    - Embedding model - 新的模型取代了文本搜索、文本相似性和代码搜索的五个独立模型，并且在大多数任务上优于我们以前最强大的模型 Davinci，同时价格降低了 99.8%。The new model, text-embedding-ada-002, replaces five separate models for text search, text similarity, and code search, and outperforms our previous most capable model, Davinci, at most tasks, while being priced 99.8% lower.
 - 图像
-    - DALL·E:是一个人工智能系统，它可以通过自然语言的描述来创造逼真的图像和艺术。
-    - CLIP: 连接文本和图像。一个叫做 CLIP 的神经网络，它可以有效地从自然语言监控中学习视觉概念。CLIP 可以应用于任何可视化分类基准，只需提供要识别的可视化类别的名称，类似于 GPT-2 和 GPT-3 的“0-shot”功能。
+    - DALL·E - 是一个人工智能系统，它可以通过自然语言的描述来创造逼真的图像和艺术。DALL·E is an AI system that can create realistic images and art from a description in natural language.
+    - CLIP: 连接文本和图像。一个叫做 CLIP 的神经网络，它可以有效地从自然语言监控中学习视觉概念。CLIP 可以应用于任何可视化分类基准，只需提供要识别的可视化类别的名称，类似于 GPT-2 和 GPT-3 的“0-shot”功能。A neural network called CLIP which efficiently learns visual concepts from natural language supervision. CLIP can be applied to any visual classification benchmark by simply providing the names of the visual categories to be recognized, similar to the“zero-shot”capabilities of GPT-2 and GPT-3.
     - [Point-E](https://github.com/openai/point-e): [A System for Generating 3D Point Clouds from Complex Prompts](https://arxiv.org/abs/2212.08751) 一个从复杂提示生成 3D 点云的系统。
 - 音频
-    - Whisper: 是一种通用的语音识别模型，可以转录、识别和翻译多种语言。
-    - Jukebox: 一个神经网络，生成音乐作为原始音频在各种流派和艺术家的风格。
+    - Whisper - Whisper 是一种通用的语音识别模型，可以转录、识别和翻译多种语言。Whisper is a versatile speech recognition model that can transcribe, identify, and translate multiple languages.
+    - Jukebox - 一个神经网络，生成音乐作为原始音频在各种流派和艺术家的风格。A neural net that generates music as raw audio in a variety of genres and artist styles.
+    - MuseNet - 这是一个深度神经网络，可以用 10 种不同的乐器生成 4 分钟的音乐作品。A deep neural network that can generate 4-minute musical compositions with 10 different instruments.
 
-    - MuseNet: 这是一个深度神经网络，可以用 10 种不同的乐器生成 4 分钟的音乐作品。
-<a name="vZR70"></a>
+### 竞品：对话式机器人 Competitors: AI ChatBot
 
-### 竞品：对话式机器人
-
-- [OpenChatKit](https://github.com/togethercomputer/OpenChatKit): 一个类 ChatGPT 开源工具包，基于 EleutherAI 的 GPT-NeoX-20B，内含一个 20B 参数量的大模型，而且该模型在 4300 万条指令上进行了微调。
-- [Jasper Chat](https://www.jasper.ai/chat): Jasper AI 生态中的一项功能，与 ChatGPT 不同的是，它是付费服务。
-- [Character ai](https://beta.character.ai/): 创始人 Noam Shazeer、Daniel De Freitas 来自 Google 的 LaMDA。和 ChatGPT 不一样的是，它对聊天的对象（也就是机器人）做了细分，分了非常多的细分领域，在不同的领域你可以找相应领域的聊天机器人，比方说你可以找名人，也可以找游戏或者电影里的角色。它通过平台的方式让所有人都来参与创建，而不是完全由自己去创建去训练模型。
-- [Poe](https://quorablog.quora.com/Poe-1): Quora 推出的一个类似 ChatGPT 的对话机器人，产品里目前有 4 个机器人，包括 Sage、Claude、ChatGPT 以及 Dragonfly，有点类似于 Character AI 的路径。Poe 这些机器人的 AI 能力分别来自 OpenAI、Anthropic 的 Claude 以及其它一些 AI 模型，算是目前整合各家 AI 模型推出的一款产品。
-- [Bard](https://blog.google/technology/ai/bard-google-ai-search-updates/): 谷歌推出的对话机器人，2021 年 5 月，谷歌推出了面向对话的大语言模型 LaMDA。Bard 构建于 LaMDA 模型的基础上，相较于 ChatGPT，Bard 可以检索网页，从而能够回答有关最近发生事件的问题。目前，Bard 仅开放给受信任的测试人员。
-- [YouChat](https://you.com/search?q=who+are+you&tbm=youchat&cfr=chat): YouChat 是由 You.com 推出的聊天机器人，You.com 由语言和人工智能专家 Richard Socher 创立，2022 年 3 月，该公司推出了 YouWrite，这 是一款基于 GPT-3 的可用于编写电子邮件和其他文档的文本生成器。2022 年 12 月，该公司推出了基于 GPT-3.5 的聊天机器人 YouChat，它会使用谷歌检索较为通用的结果，同时使用微软必应搜索来处理更细粒度的请求，如代码片段检索等。相较于 ChatGPT，YouChat 的回复中会带有引用，进而可以帮助用户追踪每条信息的来源。
-- [Perplexity AI](https://www.perplexity.ai/) : 2022 年 12 月份，搜索引擎 Perplexity.AI 发布，其核心是将大规模语言模型和搜索引擎结合来进行问答，通过连续对话的形式提供用户需要的答案。相较于 ChatGPT，Perplexity AI 能够提供信息的来源 (包括维基百科、百度百科、知乎等)，但其答案的流畅度和完整度相较于 ChatGPT 略显逊色。
-- MOSS 2023 年 2 月 20 日，复旦大学自然语言处理实验室推出了国内第一个对话式大型语言模型——MOSS5，可执行对话生成、编程、事实问答等一系列任务。
+- [OpenChatKit](https://github.com/togethercomputer/OpenChatKit) - 一个类 ChatGPT 开源工具包，基于 EleutherAI 的 GPT-NeoX-20B，内含一个 20B 参数量的大模型，而且该模型在 4300 万条指令上进行了微调。A toolkit similar to ChatGPT, based on EleutherAI's GPT-NeoX-20B, containing a large model with 20 billion parameters that has been fine-tuned on 43 million prompts.
+- [Jasper Chat](https://www.jasper.ai/chat) - Jasper AI 生态中的一项功能，与 ChatGPT 不同的是，它是付费服务。A feature in the Jasper AI ecosystem, unlike ChatGPT, it is a paid service.
+- [Character ai](https://beta.character.ai/) - 创始人 Noam Shazeer、Daniel De Freitas 来自 Google 的 LaMDA。和 ChatGPT 不一样的是，它对聊天的对象（也就是机器人）做了细分，分了非常多的细分领域，在不同的领域你可以找相应领域的聊天机器人，比方说你可以找名人，也可以找游戏或者电影里的角色。它通过平台的方式让所有人都来参与创建，而不是完全由自己去创建去训练模型。Founder Noam Shazeer and Daniel De Freitas from Google's LaMDA. Unlike ChatGPT, it categorizes the chatbots into various subfields, offering a diverse range of chatbots to choose from depending on the specific domain, such as celebrities, characters from movies or games, etc. It allows people to participate in the creation process through a platform instead of solely relying on self-creation and model training.
+- [Poe](https://quorablog.quora.com/Poe-1) - Quora 推出的一个类似 ChatGPT 的对话机器人，产品里目前有 4 个机器人，包括 Sage、Claude、ChatGPT 以及 Dragonfly，有点类似于 Character AI 的路径。Poe 这些机器人的 AI 能力分别来自 OpenAI、Anthropic 的 Claude 以及其它一些 AI 模型，算是目前整合各家 AI 模型推出的一款产品。Quora has launched an AI chatbot tool similar to ChatGPT. The product currently includes four different bots, namely Sage, Claude, ChatGPT, and Dragonfly, which are somewhat similar to the offerings of Character AI. These bots draw their AI capabilities from various sources, including OpenAI, Anthropic's Claude, and other AI models, making it a product that integrates multiple AI models.
+- [Bard](https://blog.google/technology/ai/bard-google-ai-search-updates/) - 谷歌推出的对话机器人，2021 年 5 月，谷歌推出了面向对话的大语言模型 LaMDA。Bard 构建于 LaMDA 模型的基础上，相较于 ChatGPT，Bard 可以检索网页，从而能够回答有关最近发生事件的问题。目前，Bard 仅开放给受信任的测试人员。Bard is Google’s new AI chatbot service that uses LaMDA, a language model that can generate natural and informative responses. Bard can help users with creative tasks, explaining complex topics, and learning new things. Bard is Google’s answer to ChatGPT, Microsoft’s popular AI chatbot3.
+- [YouChat](https://you.com/search?q=who+are+you&tbm=youchat&cfr=chat) - YouChat 是由 You.com 推出的聊天机器人，You.com 由语言和人工智能专家 Richard Socher 创立，2022 年 3 月，该公司推出了 YouWrite，这 是一款基于 GPT-3 的可用于编写电子邮件和其他文档的文本生成器。2022 年 12 月，该公司推出了基于 GPT-3.5 的聊天机器人 YouChat，它会使用谷歌检索较为通用的结果，同时使用微软必应搜索来处理更细粒度的请求，如代码片段检索等。相较于 ChatGPT，YouChat 的回复中会带有引用，进而可以帮助用户追踪每条信息的来源。
+- [Perplexity AI](https://www.perplexity.ai/) - 2022 年 12 月份，搜索引擎 Perplexity.AI 发布，其核心是将大规模语言模型和搜索引擎结合来进行问答，通过连续对话的形式提供用户需要的答案。相较于 ChatGPT，Perplexity AI 能够提供信息的来源 (包括维基百科、百度百科、知乎等)，但其答案的流畅度和完整度相较于 ChatGPT 略显逊色。
+- MOSS - 2023 年 2 月 20 日，复旦大学自然语言处理实验室推出了国内第一个对话式大型语言模型——MOSS5，可执行对话生成、编程、事实问答等一系列任务。Fudan University's Natural Language Processing Laboratory has launched MOSS5, China's first large-scale conversational language model, capable of performing tasks such as dialogue generation, programming, and fact-based question-answering.
 - 其他一些国内企业正在研发的对话机器人
     - 百度的文心一言：文心一言 (英文名:ERNIE Bot) 是百度基于文心大模型 技术推出的生成式对话产品，据百度官方公众号的消息 6，百度计划于 2023 年 3 月 16 日 14 时在北京总部召开新闻发布会，主题围绕文心一言。
     - 科大讯飞学习机：科大讯飞表示，其生成式预训练大模型技术将率先落地于 AI 学习机产品，并将于 2023 年 5 月 6 日发布。
@@ -240,32 +215,23 @@
     - 腾讯的混元助手：2023 年 2 月，腾讯针对类 ChatGPT 对话式产品已成立“混元助手 (HunyuanAide)”项目组，致力于开发腾讯对话式通用人工智能系统。
 <a name="leSyQ"></a>
 
-### 竞品：大语言模型
+### 竞品：大语言模型 Competitors: LLMs
 
-- BARD
-- Bart：Meta
-- 会话神经语言模型 LaMDA: Google
-- LLaMA
-- Gopher：DeepMind
-- Claude：Anthropic
-- GLM: 清华大学
-- [AlphaCode](https://www.science.org/stoken/author-tokens/ST-905/full)
-- [togethercomputer/GPT-NeoXT-Chat-Base-20B · Hugging Face](https://huggingface.co/togethercomputer/GPT-NeoXT-Chat-Base-20B) 一个可以进行聊天和图片生成的开源语言模型。EleutherAI 公司
-- BLOOM: BigScience
-- OPT: Meta
-<a name="Yw0By"></a>
+- LaMDA: **Language Model for Dialogue Applications** is a family of conversational large language models developed by Google. LaMDA uses a decoder-only transformer language model.
+- LLaMA: by Meta AI , A foundational, 65-billion-parameter large language model. LLaMA (Large Language Model Meta AI) is a state-of-the-art foundational large language model designed to help researchers advance their work in this subfield of AI. Smaller, more performant models such as LLaMA enable others in the research community who don’t have access to large amounts of infrastructure to study these models, further democratizing access in this important, fast-changing field.
+- Gopher：by DeepMind, [a 280 billion parameter transformer language model called Gopher](https://arxiv.org/abs/2112.11446) *,*  is an autoregressive transformer-based dense LLM — basically
+- GLM: 清华大学：GLM is a General Language Model developed by Tsinghua University. It is pretrained with an autoregressive blank-filling objective and can be finetuned on various natural language understanding and generation tasks. GLM-130B is an open bilingual (English&Chinese) version of GLM with 130 billion parameters, designed for users with a single A100 or V100 server23. GLM 是清华大学开发的通用语言模型。它使用自回归的空白填充目标进行预训练，并且可以在各种自然语言理解和生成任务上进行微调 1。GLM-130B 是 GLM 的开源双语（英文&中文）版本，拥有 1300 亿个参数，为拥有单个 A100 或 V100 服务器的用户设计 23。
+- [togethercomputer/GPT-NeoXT-Chat-Base-20B · Hugging Face](https://huggingface.co/togethercomputer/GPT-NeoXT-Chat-Base-20B) 一个可以进行聊天和图片生成的开源语言模型。EleutherAI 公司（An open-source language model that can chat and generate images. Created by EleutherAI.）
+- BLOOM: by BigScience, BLOOM is an autoregressive Large Language Model (LLM), trained to continue text from a prompt on vast amounts of text data using industrial-scale computational resources. As such, it is able to output coherent text in 46 languages and 13 programming languages that is hardly distinguishable from text written by humans. BLOOM can also be instructed to perform text tasks it hasn't been explicitly trained for, by casting them as text generation tasks.
+- OPT: by Meta, The OPT model was proposed in [Open Pre-trained Transformer Language Models](https://arxiv.org/pdf/2205.01068) by Meta AI. OPT is a series of open-sourced large causal language models which perform similar in performance to GPT3. 利用元人工智能技术，在开放式预训变压器语言模型中提出了 OPT 模型。OPT 是一系列开源的大型因果语言模型，其性能与 GPT3 相似。
 
-### 行研报告
+### 行研报告 Research report
 
-- 230311 哈尔滨工业大学 ChatGPT 调研报告.pdf
-- 1_ChatGPT 团队背景研究报告.pdf
-- [持续更新~全网最全 ChatGPT...报告 +70 份论文](https://www.aliyundrive.com/s/V94kCe9qQnC)
-
-<a name="jjkvo"></a>
+- [230311 哈尔滨工业大学 ChatGPT 调研报告](assets/230311%20哈尔滨工业大学%20ChatGPT%20调研报告.pdf)
+- [230221 ChatGPT 团队背景研究报告](assets/230221%20ChatGPT%20团队背景研究报告.pdf)
+- [ChatGPT 报告 70 份论文](https://www.aliyundrive.com/s/V94kCe9qQnC)
 
 ## 学术分析
-
-<a name="SjAat"></a>
 
 ### 关键术语对照表
 
@@ -278,7 +244,6 @@
 - 思维链 Chain-of thought (COT)
 - 强化学习 Reinforcement learning
 - 基于人类反馈的强化学习 RFHF
-<a name="dqh4z"></a>
 
 ### ChatGPT 的技术原理
 
