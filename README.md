@@ -258,6 +258,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 Thank you to all contributors (in no particular order and in alphabetical order):
 
 - [Alex](https://github.com/Spehhhhh) - [@Spehhhhh](https://github.com/Spehhhhh)
+- [张天立](https://github.com/TL-Zhang) - [@TL-Zhang](https://github.com/TL-Zhang)
 - [林向东](https://github.com/eastling) - [@eastling](https://github.com/eastling)
 - [边心竹](https://reading.zhubai.love/) - [@bxz400](https://github.com/bxz400)
 - [郑嘻嘻](https://github.com/zhengxixuan) - [@zhengxixuan](https://github.com/zhengxixuan)
