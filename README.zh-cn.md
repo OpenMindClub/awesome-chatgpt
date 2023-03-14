@@ -62,12 +62,12 @@
 ### 提示词
 
 - [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts) - 这是与 ChatGPT 模型一起使用的提示例子的集合。
-- [ChatGPT 中文调教指南](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - 在此页面中，您将找到可与 ChatGPT 一起使用的各种提示词。This is a collection of Chinese prompt examples.
-- [ChatGPT Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut) - 根据领域和功能划分的 ChatGPT 快捷指令表，可通过标签筛选、关键词搜索和一键复制来使用提示词，旨在简化你的工作流程并提高生产力。即使是初学者，你只需复制提示词，稍加修改后发送给 ChatGPT，就能获得指定输出，让你的生产力加倍！A quick reference table of ChatGPT shortcuts is divided by domain and function, allowing users to filter by tags, search by keywords, and copy with a single click to utilize prompts.Even beginners can simply copy the prompt phrases, make minor modifications, and send them to ChatGPT to obtain the desired output.
-- [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 指南、论文、讲座和提示工程的资源。Guides, papers, lecture, and resources for prompt engineering.
-- [Prompt Marketplace](https://promptbase.com/) - PromptBase 是一个购买和销售优质 Prompts 的市场。PromptBase is a marketplace for buying and selling quality prompts.
-- [Prompt 编写模式：如何将思维框架赋予机器（中文）](https://github.com/prompt-engineering/prompt-patterns#prompt-%E7%BC%96%E5%86%99%E6%A8%A1%E5%BC%8F%E5%A6%82%E4%BD%95%E5%B0%86%E6%80%9D%E7%BB%B4%E6%A1%86%E6%9E%B6%E8%B5%8B%E4%BA%88%E6%9C%BA%E5%99%A8) - 介绍一系列的 Prompt 编写模式，以更好地应用 Prompt 对 AI 进行编程。Introduce a series of Prompt writing patterns to better apply Prompts to programming AI.
-- [ChatGPT 500 prompts](https://www.linkedin.com/pulse/chatgpt-500-prompts-make-you-top-1-copywriter-alexis-khvatov-) - 500 条对作家有帮助的 Prompts。500 Prompts that are helpful for writers.
+- [ChatGPT 中文调教指南](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - 在此页面中，您将找到可与 ChatGPT 一起使用的各种提示词。
+- [ChatGPT Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut) - 根据领域和功能划分的 ChatGPT 快捷指令表，可通过标签筛选、关键词搜索和一键复制来使用提示词，旨在简化你的工作流程并提高生产力。即使是初学者，你只需复制提示词，稍加修改后发送给 ChatGPT，就能获得指定输出，让你的生产力加倍！
+- [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 指南、论文、讲座和提示工程的资源。
+- [Prompt Marketplace](https://promptbase.com/) - PromptBase 是一个购买和销售优质 Prompts 的市场。
+- [Prompt 编写模式：如何将思维框架赋予机器（中文）](https://github.com/prompt-engineering/prompt-patterns#prompt-%E7%BC%96%E5%86%99%E6%A8%A1%E5%BC%8F%E5%A6%82%E4%BD%95%E5%B0%86%E6%80%9D%E7%BB%B4%E6%A1%86%E6%9E%B6%E8%B5%8B%E4%BA%88%E6%9C%BA%E5%99%A8) - 介绍一系列的 Prompt 编写模式，以更好地应用 Prompt 对 AI 进行编程。
+- [ChatGPT 500 prompts](https://www.linkedin.com/pulse/chatgpt-500-prompts-make-you-top-1-copywriter-alexis-khvatov-) - 500 条对作家有帮助的 Prompts。
 
 ## 官方资源
 
@@ -97,7 +97,7 @@
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - ChatGPT 桌面应用程序
 - [manno/chatgpt-linux-assistant](https://github.com/manno/chatgpt-linux-assistant) - 一个在你的 CLI 中的 AI 助手。
 - [arc53/DocsGPT](https://github.com/arc53/docsgpt) - DocsGPT 是一个尖端的开源解决方案，它简化了在项目文件中寻找信息的过程。由于它集成了强大的 GPT 模型，开发人员可以轻松地提出有关项目的问题，并得到准确的答案。
-- [GanymedeNil/document.ai](https://github.com/GanymedeNil/document.ai) - 基于向量数据库与 GPT-3.5 的通用本地知识库方案。A universal local knowledge base solution based on vector database and GPT-3.5.
+- [GanymedeNil/document.ai](https://github.com/GanymedeNil/document.ai) - 基于向量数据库与 GPT-3.5 的通用本地知识库方案。
 - [yihong0618/bilingual_book_maker](https://github.com/yihong0618/bilingual_book_maker) - 使用 OpenAI API 翻译 EPUB 电子书。
 
 ### 浏览器插件
@@ -116,7 +116,7 @@
 
 ### Web App
 
-- [OpenGPT - Create ChatGPT Application in seconds](https://open-gpt.app/) - 立即使用海量的 ChatGPT 应用，或在几秒钟内创建属于自己的应用。Access to a wide range of ChatGPT applications, or create your own App in seconds.
+- [OpenGPT - Create ChatGPT Application in seconds](https://open-gpt.app/) - 立即使用海量的 ChatGPT 应用，或在几秒钟内创建属于自己的应用。
 - [Mindshow.fun](https://www.mindshow.fun/#/templates) - 结合 ChatGPT 精简文字内容，利用 md 直接生成 ppt，还可以直接导入 logseq 文件。
 - [Chatpdf](https://www.chatpdf.com/) - ChatPDF 是一种快速而简单的方式，可以与任何 PDF 聊天，免费且无需登录。与书籍、研究报告、手册、论文、法律合同，任何你有的东西都可以交谈！情报革命在这里，ChatGPT 只是一个开始！
 - [YouChat](https://you.com/) - YouChat 是由 You.com 推出的聊天机器人，You.com 由语言和人工智能专家 Richard Socher 创立，2022 年 3 月，该公司推出了 YouWrite，这 是一款基于 GPT-3 的可用于编写电子邮件和其他文档的文本生成器。2022 年 12 月，该公司推出了基于 GPT-3.5 的聊天机器人 YouChat，它会使用谷歌检索较为通用的结果，同时使用微软必应搜索来处理更细粒度的请求，如代码片段检索等。相较于 ChatGPT，YouChat 的回复中会带有引用，进而可以帮助用户追踪每条信息的来源。
@@ -128,17 +128,17 @@
 
 ### 英文视频
 
-- [The Ultimate Chat GPT Course](https://www.notion.so/69ed24a317a942d288e740419b1ad6f6) - This guide course has more than 1000+ resources to help you learn how to use Chat GPT to enhance your life. (Free!)
-- [Advanced ChatGPT: Full Guide:](https://www.notion.so/ac6aa68840bc427c83f4611dd2642f83) - His guide includes beginner and advanced ChatGPT tutorials, as well as some practical tips and examples. (Free!)
-- [ChatGPT Tutorial - A Crash Course on Chat GPT for Beginners:](https://www.youtube.com/watch?v=JTxsNm9IdYU) - This Video explains the basic concepts and usage of ChatGPT. You will learn how to use ChatGPT to generate various types of text, such as shopping lists, JavaScript code, short stories, resumes, etc. You will also learn about the advantages and limitations of ChatGPT, and how to use it to create valuable content. (Free!)
-- [Complete ChatGPT Tutorial - [Become A Power User in 30 Minutes]](https://www.youtube.com/watch?v=jHv63Uvk5VA) - You can learn 10 major types of commands that let ChatGPT provide you with various useful information and services. (Free!)
-- [ChatGPT Tutorial for Developers - 38 Ways to 10x Your Productivity:](https://www.youtube.com/watch?v=sTeoEFzVNSc) - Learn how to use ChatGPT to 10x your productivity! 38 ChatGPT examples to help you learn how to use Python, JavaScript, HTML, CSS, React, SQL and more. (Free!)
-- [ChatGPT Masterclass: A Complete ChatGPT Guide for Beginners](https://www.udemy.com/course/chatgpt-masterclass-a-complete-chatgpt-guide-for-beginners/) - You will learn how to use ChatGPT and OpenAI to create various types of content, such as SEO, e-commerce, translation, Amazon, and sales copy. You will also learn how to use the OpenAI API to create apps and code, as well as how to use Dalle to create high-quality images.
-- [ChatGPT 101: Learn ChatGPT Prompts & ChatGPT Smart Tips](https://www.udemy.com/course/trend-spotter/) - You will learn how to automate tasks, generate ideas, and streamline your workflow with ChatGPT’s prompts and commands. You will also learn about the impact of AI on society and the future of work from case studies and experts.
-- [ChatGPT: Complete ChatGPT Course For Work 2023 (Ethically)](https://www.udemy.com/course/chatgpt-complete-chatgpt-course-for-work-2023-ethically-chat-gpt/) - You will learn how to use ChatGPT to generate content, automate processes, communicate effectively, and educate yourself on different topics.
-- [ChatGPT Masterclass: Smart Tips & ChatGPT Insights & Future](https://www.udemy.com/course/chatgpt-masterclass-smart-tips-insights/) - In this course, you will learn how to improve your ChatGPT prompts skills,. In addition, this course will also teach you the background, development, ethics, applications and future of ChatGPT.
-- [ChatGPT Masterclass - Build Solutions and Apps with ChatGPT](https://www.udemy.com/course/chatgpt-build-solutions-and-apps-with-chatgpt-and-openai/) - This course teaches you how to build applications and solutions with OpenAI and ChatGPT using no-code methods. You will learn how to integrate ChatGPT into platforms like Outlook, Power Apps, Bubble, and more, and create four real projects. No programming experience required.
-- [ChatGPT for Programmers: Build Python Apps in Seconds](https://www.udemy.com/course/chatgpt-for-programmers/) - This course teaches you how to use ChatGPT to build apps, fix bugs, and automate your workflow in Python or other programming languages.
+- [The Ultimate Chat GPT Course](https://www.notion.so/69ed24a317a942d288e740419b1ad6f6) - 这个指导课程有 1000 多个资源，帮助你学习如何使用 ChatGPT 来提高你的生活。(免费！)
+- [Advanced ChatGPT: Full Guide:](https://www.notion.so/ac6aa68840bc427c83f4611dd2642f83) - 他的指南包括初级和高级 ChatGPT 教程，以及一些实用的技巧和例子。(免费！)
+- [ChatGPT Tutorial - A Crash Course on Chat GPT for Beginners:](https://www.youtube.com/watch?v=JTxsNm9IdYU) - 本视频解释了 ChatGPT 的基本概念和用法。你将学习如何使用 ChatGPT 生成各种类型的文本，如购物清单、JavaScript 代码、小故事、简历等。你还将了解 ChatGPT 的优势和局限性，以及如何使用它来创造有价值的内容。(免费！)
+- [Complete ChatGPT Tutorial - [Become A Power User in 30 Minutes]](https://www.youtube.com/watch?v=jHv63Uvk5VA) - 你可以学习 10 大类命令，让 ChatGPT 为你提供各种有用的信息和服务。(免费！)
+- [ChatGPT Tutorial for Developers - 38 Ways to 10x Your Productivity:](https://www.youtube.com/watch?v=sTeoEFzVNSc) - 学习如何使用 ChatGPT，使你的工作效率提高 10 倍！38 个 ChatGPT 实例，帮助你学习如何使用 Python、JavaScript、HTML、CSS、React、SQL 等。(免费！)
+- [ChatGPT Masterclass: A Complete ChatGPT Guide for Beginners](https://www.udemy.com/course/chatgpt-masterclass-a-complete-chatgpt-guide-for-beginners/) - 你将学习如何使用 ChatGPT 和 OpenAI 来创建各种类型的内容，如 SEO、电子商务、翻译、亚马逊和销售副本。你还将学习如何使用 OpenAI API 来创建应用程序和代码，以及如何使用 Dalle 来创建高质量的图片。
+- [ChatGPT 101: Learn ChatGPT Prompts & ChatGPT Smart Tips](https://www.udemy.com/course/trend-spotter/) - 你将学习如何通过 ChatGPT 的提示和命令实现任务自动化，产生想法，并简化你的工作流程。你还将从案例研究和专家那里了解人工智能对社会和未来工作的影响。
+- [ChatGPT: Complete ChatGPT Course For Work 2023 (Ethically)](https://www.udemy.com/course/chatgpt-complete-chatgpt-course-for-work-2023-ethically-chat-gpt/) - 你将学习如何使用 ChatGPT 来生成内容，自动化流程，有效沟通，并就不同的主题进行教育。
+- [ChatGPT Masterclass: Smart Tips & ChatGPT Insights & Future](https://www.udemy.com/course/chatgpt-masterclass-smart-tips-insights/) - 在本课程中，您将学习如何提高您的 ChatGPT 提示技能，。此外，本课程还将教您 ChatGPT 的背景、发展、道德、应用和未来。
+- [ChatGPT Masterclass - Build Solutions and Apps with ChatGPT](https://www.udemy.com/course/chatgpt-build-solutions-and-apps-with-chatgpt-and-openai/) - 本课程教你如何用 OpenAI 和 ChatGPT 构建应用程序和解决方案，采用无代码的方法。您将学习如何将 ChatGPT 整合到 Outlook、Power Apps、Bubble 等平台，并创建四个真实的项目。不需要任何编程经验。
+- [ChatGPT for Programmers: Build Python Apps in Seconds](https://www.udemy.com/course/chatgpt-for-programmers/) - 本课程教你如何使用 ChatGPT 在 Python 或其他编程语言中构建应用程序，修复错误，并使你的工作流程自动化。
 - More Courses: [Udemy → ChatGPT](https://www.udemy.com/courses/search/?src=ukw&q=ChatGPT)
 
 ### 中文视频
@@ -182,7 +182,7 @@
 
 ### OpenAI 支持的公司
 
-- [Virtuzone](https://launchpad.vz.ae/) - The UAE's leading Company Formation Specialists and award-winning corporate services provider。 launching SWYFT Plan  which is an automated business plan builder powered by OpenAI's ChatGPT to allow users to generate a complete business plan in less than 10 minutes.
+- [Virtuzone](https://launchpad.vz.ae/) - 阿联酋领先的公司成立专家和屡获殊荣的企业服务提供商。推出 SWYFT 计划，这是一个由 OpenAI 的 ChatGPT 支持的自动商业计划生成器，允许用户在 10 分钟内生成一个完整的商业计划。
 
 ### OpenAI 生态/产品矩阵
 
@@ -284,7 +284,7 @@
 - [百度文心一格](https://yige.baidu.com/)
 - [ai.google](https://ai.google/)
 - [research.facebook.com](https://research.facebook.com/publications/llama-open-and-efficient-foundation-language-models/)
-- [AlphaCode](https://www.science.org/stoken/author-tokens/ST-905/full) - Yujia Li, David Choi, Junyoung Chung, and a team at DeepMind built AlphaCode, a system that beat roughly half of competitors in coding contests where many examples of program inputs and outputs were available. AlphaCode, which uses transformer-based language models to generate code at an unprecedented scale, and then smartly filters to a small set of promising programs.
+- [AlphaCode](https://www.science.org/stoken/author-tokens/ST-905/full)
 
 ## Contribute
 
