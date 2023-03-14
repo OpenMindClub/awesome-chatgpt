@@ -15,7 +15,7 @@
     - [Prompts](#prompts)
 - [OpenAI Official Rescources](#openai-official-rescources)
     - [Version](#Version)
-    - [OpenAI Products and others](#OpenAI Products and others)
+    - [OpenAI Products and others](#OpenAI-Products-and-others)
     - [Social Media](#social-media)
 - [Channel Resources](#channel-resources)
     - [GitHub Projects](#github-projects)
@@ -23,10 +23,10 @@
     - [App](#app)
     - [Web App](#web-app)
 - [Courses](#courses)
-    - [English Videos](#English Videos)
-    - [Chinese Videos](#Chinese Videos)
-    - [English Graphic and Textual](#English Graphic and Textual)
-    - [Chinese Graphic and Textual](#Chinese Graphic and Textual)
+    - [English Videos](#English-Videos)
+    - [Chinese Videos](#Chinese-Videos)
+    - [English Graphic and Textual](#English-Graphic-and-Textual)
+    - [Chinese Graphic and Textual](#Chinese-Graphic-and-Textual)
 - [Venture Capitalists](#venture-capitalists)
     - [OpenAI Investors](#openai-investors)
     - [OpenAI Investments](#openai-investments)
@@ -78,7 +78,7 @@
 - [OpenAI API](https://openai.com/blog/openai-api) - OpenAI API, a platform that allows anyone to access new AI models developed by OpenAI.
 - [VisualChatGPT](https://github.com/microsoft/visual-chatgpt) - It is a version that adds visual features on top of ChatGPT.Visual ChatGPT is a project developed by Microsoft that enables the exchange of images during conversations. It is a combination of ChatGPT and a series of visual models.
 
-### OpenAI Products and others
+### OpenAI-Products-and-others
 - [OpenAI](https://openai.com/) - The homepage of OpenAI.
 - [OpenAI Product](https://openai.com/product) - This page showcases the products offered by OpenAI, such as GPT models, DALL·E 2 and Whisper.
 - [OpenAI API Documentation](https://platform.openai.com/docs) - It's a documentation of the OpenAI API. This page is an important resource for learning and using the OpenAI API.
@@ -130,7 +130,7 @@
 
 ## Courses
 
-### English Videos
+### English-Videos
 
 - [The Ultimate Chat GPT Course](https://www.notion.so/69ed24a317a942d288e740419b1ad6f6) - This guide course has more than 1000+ resources to help you learn how to use Chat GPT to enhance your life. (Free!)
 - [Advanced ChatGPT: Full Guide:](https://www.notion.so/ac6aa68840bc427c83f4611dd2642f83) - His guide includes beginner and advanced ChatGPT tutorials, as well as some practical tips and examples. (Free!)
@@ -145,17 +145,17 @@
 - [ChatGPT for Programmers: Build Python Apps in Seconds](https://www.udemy.com/course/chatgpt-for-programmers/) - This course teaches you how to use ChatGPT to build apps, fix bugs, and automate your workflow in Python or other programming languages.
 - More Courses: [Udemy → ChatGPT](https://www.udemy.com/courses/search/?src=ukw&q=ChatGPT)
 
-### Chinese Videos
+### Chinese-Videos
 - [ChatGPT 保姆级使用教程：注册、体验、底层逻辑原理解读！](https://www.bilibili.com/video/BV1HT411R7Lj/) ChatGPT introduction, biased bottom technology, biased bottom layer principle.
 
-### English Graphic and Textual
+### English-Graphic-and-Textual
 
 - [The-Ultimate-ChatGPT-Guide](https://www.notion.so/8800517adc0d4c569d4a317c177185a1)
 - [How does GPT Obtain its Ability? Tracing Emergent Abilities of Language Models to their Sources - 有中译版](https://www.notion.so/b9a57ac0fcf74f30a1ab9e3e36fa1dc1)
 - [How to use ChatGPT APIs in Python](https://medium.com/@FrancescoZ/how-to-use-chatgpt-with-python-e7a8868e6034)
 - [Full ChatGPT Prompts + Resources](https://www.notion.so/8aa78bb226b7467ab59b70d2b27042e9)
 
-### Chinese Graphic and Textual
+### Chinese-Graphic-and-Textual
 - [ChatGPT 终极指南 - 中译版](https://geekr.dev/posts/chatgpt-ultimate-guide)
 - [理解大语言模型——10 篇论文的简明清单](https://mp.weixin.qq.com/s/h7Pam1mepgd18aeqn7_3hw)
 - [拆解追溯 GPT-3.5 各项能力的起源 - 中译版](https://www.notion.so/360081d91ec245f29029d37b54573756)
