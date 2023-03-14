@@ -23,6 +23,7 @@
 - [Courses](#courses)
     - [Videos](#videos)
     - [Graphic and Textual](#graphic-and-textual)
+- [Venture Capitalists](#venture-capitalists)
     - [OpenAI Investors](#openai-investors)
     - [OpenAI Investments](#openai-investments)
     - [Companies supported by OpenAI](#companies-supported-by-openai)
@@ -144,6 +145,8 @@
 - [How does GPT Obtain its Ability? Tracing Emergent Abilities of Language Models to their Sources - 有中译版](https://www.notion.so/b9a57ac0fcf74f30a1ab9e3e36fa1dc1)
 - [How to use ChatGPT APIs in Python](https://medium.com/@FrancescoZ/how-to-use-chatgpt-with-python-e7a8868e6034)
 - [Full ChatGPT Prompts + Resources](https://www.notion.so/8aa78bb226b7467ab59b70d2b27042e9)
+
+## Venture Capitalists
 
 ### OpenAI Investors
 

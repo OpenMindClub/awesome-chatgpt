@@ -25,6 +25,7 @@
     - [中文视频](#中文视频)
     - [英文图文](#英文图文)
     - [中文图文](#中文图文)
+- [公司分析/风险投资](#公司分析风险投资)
     - [OpenAI 投资者](#openai-投资者)
     - [OpenAI 投资的公司](#openai-投资的公司)
     - [OpenAI 支持的公司](#openai-支持的公司)
@@ -160,6 +161,8 @@
 - [如何用 ChatGPT 构建你的专属知识问答机器人](https://blog.frankzhao.cn/build_gpt_bot_for_doc/)
 - [ChatGPT 商务速成 - 中译版](https://www.notion.so/8ce48bcb5aa94828a64c86a2dbfc307d)
 - [如何使用 Python 快速集成 ChatGPT API](https://mp.weixin.qq.com/s?__biz=MjM5MjU2NDk0Nw==&mid=2247507931&idx=2&sn=77f75026c365b73275f7ce3f2e7d0ab4&chksm=a6a6cc6791d14571df77a1a5c249bc46ffd03269b264aadbdfa43927e809b578d501a1c58f31&mpshare=1&scene=1&srcid=0308V8ZG15g6BE1TgRXPEWYa&sharer_sharetime=1678253425412&sharer_shareid=a697a75b41763c317bec849da7e5a35a#rd)
+
+## 公司分析/风险投资
 
 ### OpenAI 投资者
 
