@@ -14,6 +14,8 @@
     - [The Principles of ChatGPT](#the-principles-of-chatgpt)
     - [Prompts](#prompts)
 - [OpenAI Official Rescources](#openai-official-rescources)
+    - [Version](#Version)
+    - [OpenAI Products and others](#OpenAI Products and others)
     - [Social Media](#social-media)
 - [Channel Resources](#channel-resources)
     - [GitHub Projects](#github-projects)
@@ -21,8 +23,10 @@
     - [App](#app)
     - [Web App](#web-app)
 - [Courses](#courses)
-    - [Videos](#videos)
-    - [Graphic and Textual](#graphic-and-textual)
+    - [English Videos](#English Videos)
+    - [Chinese Videos](#Chinese Videos)
+    - [English Graphic and Textual](#English Graphic and Textual)
+    - [Chinese Graphic and Textual](#Chinese Graphic and Textual)
 - [Venture Capitalists](#venture-capitalists)
     - [OpenAI Investors](#openai-investors)
     - [OpenAI Investments](#openai-investments)
@@ -56,6 +60,7 @@
 
 - [What Is ChatGPT Doing and Why Does It Work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/) - A long article on the principles of ChatGPT written by Stephen Wolfram, the father of WolframAlpha.
 - [深度学习论文精读](https://github.com/mli/paper-reading) - A collection of intensive reading resources for deep learning papers by Mu Li.
+- [OpenAI Research index](https://openai.com/research) - This page is a list of OpenAI’s research papers on various topics in artificial intelligence.
 
 ### Prompts
 
@@ -68,16 +73,17 @@
 - [ChatGPT 500 prompts](https://www.linkedin.com/pulse/chatgpt-500-prompts-make-you-top-1-copywriter-alexis-khvatov-) - 500 Prompts that are helpful for writers.
 
 ## OpenAI Official Rescources
+### Version
+- [ChatGPT](https://openai.com/blog/chatgpt) - Website.This is an official online chat tool provided by OpenAI, which allows you to have AI conversations with ChatGPT.
+- [OpenAI API](https://openai.com/blog/openai-api) - OpenAI API, a platform that allows anyone to access new AI models developed by OpenAI.
+- [VisualChatGPT](https://github.com/microsoft/visual-chatgpt) - It is a version that adds visual features on top of ChatGPT.Visual ChatGPT is a project developed by Microsoft that enables the exchange of images during conversations. It is a combination of ChatGPT and a series of visual models.
 
-- [ChatGPT](https://openai.com/blog/chatgpt) - This is an official online chat tool provided by OpenAI, which allows you to have AI conversations with ChatGPT.
-- [VisualChatGPT](https://github.com/microsoft/visual-chatgpt) - Visual ChatGPT is a project developed by Microsoft that enables the exchange of images during conversations. It is a combination of ChatGPT and a series of visual models.
-- [New Bing](https://www.bing.com/new) - The New Bing is a new generation of search engine developed by Microsoft and based on a large language model from OpenAI, capable of providing intelligent chat, creative and assistant features.
-- [ChatGPT blog](https://openai.com/blog/chatgpt/) - This is an article on the OpenAI official blog introducing ChatGPT.
+### OpenAI Products and others
 - [OpenAI](https://openai.com/) - The homepage of OpenAI.
 - [OpenAI Product](https://openai.com/product) - This page showcases the products offered by OpenAI, such as GPT models, DALL·E 2 and Whisper.
-- [OpenAI API](https://openai.com/blog/openai-api) - OpenAI API, a platform that allows anyone to access new AI models developed by OpenAI.
-- [OpenAI API Documentation](https://platform.openai.com/docs) - The documentation of the OpenAI API, which provides detailed information about the basic concepts, models, endpoints and applications of the API. It also contains some tutorials that teach you how to build real AI apps using the API. This page is an important resource for learning and using the OpenAI API.
-- [OpenAI Research index](https://openai.com/research) - This page is a list of OpenAI’s research papers on various topics in artificial intelligence.
+- [OpenAI API Documentation](https://platform.openai.com/docs) - It's a documentation of the OpenAI API. This page is an important resource for learning and using the OpenAI API.
+- [New Bing](https://www.bing.com/new) - The New Bing is a new generation of search engine developed by Microsoft and based on a large language model from OpenAI, capable of providing intelligent chat, creative and assistant features.
+- [ChatGPT blog](https://openai.com/blog/chatgpt/) - This is an article on the OpenAI official blog introducing ChatGPT.
 
 ### Social Media
 
@@ -93,8 +99,8 @@
 ### GitHub Projects
 
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - ChatGPT Desktop Application
-- [manno/chatgpt-linux-assistant](https://github.com/manno/chatgpt-linux-assistant) - An ai assistant in your CLI. But it knows what's on your sys.
-- [arc53/DocsGPT](https://github.com/arc53/docsgpt) - DocsGPT is a cutting-edge open-source solution that streamlines the process of finding information in project documentation. With its integration of the powerful GPT models, developers can easily ask questions about a project and receive accurate answers.
+- [manno/chatgpt-linux-assistant](https://github.com/manno/chatgpt-linux-assistant) - An ai assistant in your CLI. 
+- [arc53/DocsGPT](https://github.com/arc53/docsgpt) - DocsGPT is a cutting-edge open-source solution that streamlines the process of finding information in project documentation.
 - [GanymedeNil/document.ai](https://github.com/GanymedeNil/document.ai) - A universal local knowledge base solution based on vector database and GPT-3.5.
 - [yihong0618/bilingual_book_maker](https://github.com/yihong0618/bilingual_book_maker) - Translate EPUB eBooks using the OpenAI API.
 
@@ -102,10 +108,10 @@
 
 - [sharegpt-google](https://chrome.google.com/webstore/detail/sharegpt-share-your-chatg/daiacboceoaocpibfodeljbdfacokfjb) - Sharing the ChatGPT chat history with others can generate various formats such as links, images, and PDFs.
 - [chatgpt-writer-google](https://chrome.google.com/webstore/detail/chatgpt-writer-write-mail/pdnenlnelpdomajfejgapbdpmjkfpjkp) - Use ChatGPT to generate complete emails and messagese. It is supported on all websites and has better support for Gmail.
-- [chatgpt-prompt-genius-google](https://chrome.google.com/webstore/detail/chatgpt-prompt-genius/jjdnakkfjnnbbckhifcfchagnpofjffo) - Discover, share, import, and use prompts that are most suitable for ChatGPT. You can also save your chat history locally, so you can easily review past conversations and reference them later. You can use the expanded tip template feature to easily find and add prompts to your collection. You can search, categorize, and select tips on the page, making it easier for you to find creative and efficient ways to use text generation AI.
-- [ChatGPT for Google](https://chrome.google.com/webstore/detail/chatgpt-for-google/jgjaeacdkonaoafenlfkkkmbaopkbilf) - You can have search engine pages directly display ChatGPT's answers, supported by browsers such as Google, Baidu, Bing, DuckDuckGo, Brave, Yahoo, Naver, Yandex, Kagi, and Searx.
+- [chatgpt-prompt-genius-google](https://chrome.google.com/webstore/detail/chatgpt-prompt-genius/jjdnakkfjnnbbckhifcfchagnpofjffo) - Discover, share, import, and use prompts that are most suitable for ChatGPT. 
+- [ChatGPT for Google](https://chrome.google.com/webstore/detail/chatgpt-for-google/jgjaeacdkonaoafenlfkkkmbaopkbilf) - You can have search engine pages directly display ChatGPT's answers.
 - [AIPRM for ChatGPT](https://chrome.google.com/webstore/detail/aiprm-for-chatgpt/ojnbohmppadfgpejeebfnmnknjdlckgj/related) - [AIPRM](https://www.aiprm.com/) is a tool with multiple Prompt Templates and customizable Prompt Templates. It is a tool that ranks second when searching for ChatGPT directly in Google Chrome.
-- [immersive-translator](https://microsoftedge.microsoft.com/addons/detail/%E6%B2%89%E6%B5%B8%E5%BC%8F%E7%BF%BB%E8%AF%91/amkbmndfnliijdhojkpoglbnaaahippg?hl=zh-CN) - Translation add-on using the OpenAI API, the main content area can display the original text and the translated text in paragraphs simultaneously.
+- [immersive-translator](https://microsoftedge.microsoft.com/addons/detail/%E6%B2%89%E6%B5%B8%E5%BC%8F%E7%BF%BB%E8%AF%91/amkbmndfnliijdhojkpoglbnaaahippg?hl=zh-CN) - Translation add-on using the OpenAI API.
 
 ### App
 
@@ -116,15 +122,15 @@
 
 - [OpenGPT - Create ChatGPT Application in seconds](https://open-gpt.app/) - Access to a wide range of ChatGPT applications, or create your own App in seconds.
 - [Mindshow.fun](https://www.mindshow.fun/#/templates) - Combining with ChatGPT, you can generate a PPT in one minutes. Support importing from Markdown and Logseq.
-- [Chatpdf](https://www.chatpdf.com/) - ChatPDF is the fast and easy way to chat with any PDF, free and without sign-in. Talk to books, research papers, manuals, essays, legal contracts, whatever you have! The intelligence revolution is here, ChatGPT was just the beginning!
-- [YouChat](https://you.com/) - YouChat is a chatbot launched by You.com, founded by AI expert Richard Socher. In March 2022, the company introduced YouWrite, a text generator based on GPT-3 that can be used for writing emails and other documents. In December 2022, the company launched the chatbot YouChat based on GPT-3.5. It uses Google search for more general results and Microsoft Bing search to handle more granular requests, such as code snippet searches. Unlike ChatGPT, YouChat's replies include quotes, which can help users track the source of each message.
-- [Perplexity AI](https://www.perplexity.ai/) - Perplexity.AI combines large-scale language models and search engines to provide answers to users' needs through continuous dialogue. Compared to ChatGPT, Perplexity AI can provide the sources of information (including Wikipedia, Baidu Baike, Zhihu, etc.), but its answer fluency and completeness are slightly inferior to ChatGPT.
+- [Chatpdf](https://www.chatpdf.com/) - The intelligence revolution is here, ChatGPT was just the beginning!
+- [YouChat](https://you.com/) - YouChat is a chatbot launched by You.com, founded by AI expert Richard Socher. Unlike ChatGPT, YouChat's replies include quotes, which can help users track the source of each message.
+- [Perplexity AI](https://www.perplexity.ai/) - Perplexity.AI combines large-scale language models and search engines to provide answers to users' needs through continuous dialogue. Compared to ChatGPT, Perplexity AI can provide the sources of information , but its answer fluency and completeness are slightly inferior to ChatGPT.
 - [Chat Simplifier](https://chat-simplifier.imzbb.cc/zh) - Chat simplifier, extracts key points from conversations.
 - [PandaGPT](https://www.pandagpt.io/) - Assist in reading PDFs and automatically answering questions.
 
 ## Courses
 
-### Videos
+### English Videos
 
 - [The Ultimate Chat GPT Course](https://www.notion.so/69ed24a317a942d288e740419b1ad6f6) - This guide course has more than 1000+ resources to help you learn how to use Chat GPT to enhance your life. (Free!)
 - [Advanced ChatGPT: Full Guide:](https://www.notion.so/ac6aa68840bc427c83f4611dd2642f83) - His guide includes beginner and advanced ChatGPT tutorials, as well as some practical tips and examples. (Free!)
@@ -135,16 +141,27 @@
 - [ChatGPT 101: Learn ChatGPT Prompts & ChatGPT Smart Tips](https://www.udemy.com/course/trend-spotter/) - You will learn how to automate tasks, generate ideas, and streamline your workflow with ChatGPT’s prompts and commands. You will also learn about the impact of AI on society and the future of work from case studies and experts.
 - [ChatGPT: Complete ChatGPT Course For Work 2023 (Ethically)](https://www.udemy.com/course/chatgpt-complete-chatgpt-course-for-work-2023-ethically-chat-gpt/) - You will learn how to use ChatGPT to generate content, automate processes, communicate effectively, and educate yourself on different topics.
 - [ChatGPT Masterclass: Smart Tips & ChatGPT Insights & Future](https://www.udemy.com/course/chatgpt-masterclass-smart-tips-insights/) - In this course, you will learn how to improve your ChatGPT prompts skills,. In addition, this course will also teach you the background, development, ethics, applications and future of ChatGPT.
-- [ChatGPT Masterclass - Build Solutions and Apps with ChatGPT](https://www.udemy.com/course/chatgpt-build-solutions-and-apps-with-chatgpt-and-openai/) - This course teaches you how to build applications and solutions with OpenAI and ChatGPT using no-code methods. You will learn how to integrate ChatGPT into platforms like Outlook, Power Apps, Bubble, and more, and create four real projects. No programming experience required.
+- [ChatGPT Masterclass - Build Solutions and Apps with ChatGPT](https://www.udemy.com/course/chatgpt-build-solutions-and-apps-with-chatgpt-and-openai/) - This course teaches you how to build applications and solutions with OpenAI and ChatGPT using no-code methods. 
 - [ChatGPT for Programmers: Build Python Apps in Seconds](https://www.udemy.com/course/chatgpt-for-programmers/) - This course teaches you how to use ChatGPT to build apps, fix bugs, and automate your workflow in Python or other programming languages.
 - More Courses: [Udemy → ChatGPT](https://www.udemy.com/courses/search/?src=ukw&q=ChatGPT)
 
-### Graphic and Textual
+### Chinese Videos
+- [ChatGPT 保姆级使用教程：注册、体验、底层逻辑原理解读！](https://www.bilibili.com/video/BV1HT411R7Lj/) ChatGPT introduction, biased bottom technology, biased bottom layer principle.
+
+### English Graphic and Textual
 
 - [The-Ultimate-ChatGPT-Guide](https://www.notion.so/8800517adc0d4c569d4a317c177185a1)
 - [How does GPT Obtain its Ability? Tracing Emergent Abilities of Language Models to their Sources - 有中译版](https://www.notion.so/b9a57ac0fcf74f30a1ab9e3e36fa1dc1)
 - [How to use ChatGPT APIs in Python](https://medium.com/@FrancescoZ/how-to-use-chatgpt-with-python-e7a8868e6034)
 - [Full ChatGPT Prompts + Resources](https://www.notion.so/8aa78bb226b7467ab59b70d2b27042e9)
+
+### Chinese Graphic and Textual
+- [ChatGPT 终极指南 - 中译版](https://geekr.dev/posts/chatgpt-ultimate-guide)
+- [理解大语言模型——10 篇论文的简明清单](https://mp.weixin.qq.com/s/h7Pam1mepgd18aeqn7_3hw)
+- [拆解追溯 GPT-3.5 各项能力的起源 - 中译版](https://www.notion.so/360081d91ec245f29029d37b54573756)
+- [如何用 ChatGPT 构建你的专属知识问答机器人](https://blog.frankzhao.cn/build_gpt_bot_for_doc/)
+- [ChatGPT 商务速成 - 中译版](https://www.notion.so/8ce48bcb5aa94828a64c86a2dbfc307d)
+- [如何使用 Python 快速集成 ChatGPT API](https://mp.weixin.qq.com/s?__biz=MjM5MjU2NDk0Nw==&mid=2247507931&idx=2&sn=77f75026c365b73275f7ce3f2e7d0ab4&chksm=a6a6cc6791d14571df77a1a5c249bc46ffd03269b264aadbdfa43927e809b578d501a1c58f31&mpshare=1&scene=1&srcid=0308V8ZG15g6BE1TgRXPEWYa&sharer_sharetime=1678253425412&sharer_shareid=a697a75b41763c317bec849da7e5a35a#rd)
 
 ## Venture Capitalists
 
@@ -163,13 +180,13 @@
 
 ### OpenAI Investments
 
-- [edgedb](https://www.edgedb.com/) - EdgeDB is a developer of the first open-source graph-relational database.EdgeDB is reinventing the relational database stack. Through a streamlined data model and powerful query language, they make working with data productive, pleasant, and efficient for developers and data engineers. It aims to solve some hard design problems that make existing databases unnecessarily onerous to use.
-- [Descript](https://www.descript.com/) - Descript is a collaborative audio and video editor that transcribes audio to a text document for editing. It also provides automated and manual transcribing solutions for voice audio files. In addition, the platform utilizes speech recognition technology to transcribe audio and video files in a short duration of time.
-- [Ambience Healthcare](https://www.ambiencehealthcare.com/) - Ambience Healthcare’s mission is to supercharge healthcare providers with AI superpowers.Our flagship product, Ambience AutoScribe, is a fully automated AI medical scribe that captures the nuances of provider-patient conversation in real-time into a comprehensive note and seamlessly fits into EMR workflows. Adopted by provider organizations across North America, Ambience reduces time spent on documentation by 76% so that providers can focus on what matters most: caring for patients. Ambience AutoScribe is used by providers everyday, even in some of the most challenging medical specialties (e.g., psychiatry and complex geriatric primary care). For the first time in years, our providers are able to get home on time for dinner and don’t need to spend hours late at night catching up on their charts.
+- [edgedb](https://www.edgedb.com/) - EdgeDB is an open-source database designed as a spiritual successor to SQL and the relational paradigm. It aims to solve some hard design problems that make existing databases unnecessarily onerous to use.
+- [Descript](https://www.descript.com/) - Descript is a collaborative audio and video editor that transcribes audio to a text document for editing.
+- [Ambience Healthcare](https://www.ambiencehealthcare.com/) -  Ambience AutoScribe, is a fully automated AI medical scribe that captures the nuances of provider-patient conversation in real-time into a comprehensive note and seamlessly fits into EMR workflows.
 
 ### Companies supported by OpenAI
 
-- [Virtuzone](https://launchpad.vz.ae/) - The UAE's leading Company Formation Specialists and award-winning corporate services provider。 launching SWYFT Plan  which is an automated business plan builder powered by OpenAI's ChatGPT to allow users to generate a complete business plan in less than 10 minutes.
+- [Virtuzone](https://launchpad.vz.ae/) - The UAE's leading Company Formation Specialists and award-winning corporate services provider,launching SWYFT Plan  which is an automated business plan builder powered by OpenAI's ChatGPT to allow users to generate a complete business plan in less than 10 minutes.
 
 ### OpenAI Products
 
@@ -190,18 +207,20 @@
 
 - [OpenChatKit](https://github.com/togethercomputer/OpenChatKit) - A toolkit similar to ChatGPT, based on EleutherAI's GPT-NeoX-20B, containing a large model with 20 billion parameters that has been fine-tuned on 43 million prompts.
 - [Jasper Chat](https://www.jasper.ai/chat) - A feature in the Jasper AI ecosystem, unlike ChatGPT, it is a paid service.
-- [Character ai](https://beta.character.ai/) - Founder Noam Shazeer and Daniel De Freitas from Google's LaMDA. Unlike ChatGPT, it categorizes the chatbots into various subfields, offering a diverse range of chatbots to choose from depending on the specific domain, such as celebrities, characters from movies or games, etc. It allows people to participate in the creation process through a platform instead of solely relying on self-creation and model training.
+- [Character ai](https://beta.character.ai/) - Unlike ChatGPT, it categorizes the chatbots into various subfields. It allows people to participate in the creation process through a platform instead of solely relying on self-creation and model training.
 - [Poe](https://quorablog.quora.com/Poe-1) - Quora has launched an AI chatbot tool similar to ChatGPT. The product currently includes four different bots, namely Sage, Claude, ChatGPT, and Dragonfly, which are somewhat similar to the offerings of Character AI. These bots draw their AI capabilities from various sources, including OpenAI, Anthropic's Claude, and other AI models, making it a product that integrates multiple AI models.
 - [Bard](https://blog.google/technology/ai/bard-google-ai-search-updates/) - Bard is Google’s new AI chatbot service that uses LaMDA, a language model that can generate natural and informative responses. Bard can help users with creative tasks, explaining complex topics, and learning new things. Bard is Google’s answer to ChatGPT, Microsoft’s popular AI chatbot3.
-- [YouChat](https://you.com/search?q=who+are+you&tbm=youchat&cfr=chat) - YouChat is a chatbot from You.com, founded by language and artificial intelligence expert Richard Socher, which in March 2022 launched YouWrite, a GPT-3-based text generator for writing emails and other documents, and in December 2022 launched YouChat, a GPT-3.5-based chatbot that uses Google search for more generic results and Microsoft Bing search for more granular requests such as code snippet retrieval. In December 2022, the company launched YouChat, a GPT-3.5-based chatbot that uses Google to retrieve more generic results, while using Microsoft Bing Search to handle more granular requests such as code snippet retrieval. In contrast to ChatGPT, YouChat's replies are cited, which in turn helps users track the source of each message.
-- [Perplexity AI](https://www.perplexity.ai/) - AI, which at its core combines a large-scale language model with a search engine to perform Q&A, providing users with the answers they need in the form of a continuous dialogue. Compared to ChatGPT, Perplexity AI is able to provide sources of information (including Wikipedia, Baidu, Zhihu, etc.), but the fluency and completeness of its answers is slightly less than ChatGPT.
+- [YouChat](https://you.com/search?q=who+are+you&tbm=youchat&cfr=chat) - YouChat is a chatbot from You.com, founded by language and artificial intelligence expert Richard Socher, a GPT-3-based text generator for writing emails and other documents. In contrast to ChatGPT, YouChat's replies are cited, which in turn helps users track the source of each message.
+- [Perplexity AI](https://www.perplexity.ai/) - AI, which at its core combines a large-scale language model with a search engine to perform Q&A, providing users with the answers they need in the form of a continuous dialogue. Compared to ChatGPT, Perplexity AI is able to provide sources of information , but the fluency and completeness of its answers is slightly less than ChatGPT.
+- [MOSS](https://moss.fastnlp.top/) -Can perform a series of tasks such as dialogue generation, programming, fact answering, etc.
+- - [澜舟认知智能平台](https://langboat.com/technology/mengzi) Based on Mencius pre-training technology, unlock full-range AIGC capabilities such as text-image generation, literary assistance creation, marketing copywriting, paper assistance writing, etc.
 
 ### Competitors: LLMs
 
 - [LaMDA](https://blog.google/technology/ai/lamda/): **Language Model for Dialogue Applications** is a family of conversational large language models developed by Google. LaMDA uses a decoder-only transformer language model.
-- [LLaMA](https://github.com/facebookresearch/llama): by Meta AI, A foundational, 65-billion-parameter large language model. LLaMA (Large Language Model Meta AI) is a state-of-the-art foundational large language model designed to help researchers advance their work in this subfield of AI. Smaller, more performant models such as LLaMA enable others in the research community who don’t have access to large amounts of infrastructure to study these models, further democratizing access in this important, fast-changing field.
+- [LLaMA](https://github.com/facebookresearch/llama): by Meta AI, A foundational, 65-billion-parameter large language model. LLaMA (Large Language Model Meta AI) is a state-of-the-art foundational large language model designed to help researchers advance their work in this subfield of AI.
 - [Gopher](https://arxiv.org/abs/2112.11446) - by DeepMind, a 280 billion parameter transformer language model called Gopher, is an autoregressive transformer-based dense LLM.
-- [GLM](https://github.com/THUDM/GLM-130B) - GLM is a General Language Model developed by Tsinghua University. It is pretrained with an autoregressive blank-filling objective and can be finetuned on various natural language understanding and generation tasks. GLM-130B is an open bilingual (English&Chinese) version of GLM with 130 billion parameters, designed for users with a single A100 or V100 server23.
+- [GLM](https://github.com/THUDM/GLM-130B) - GLM is a General Language Model developed by Tsinghua University. GLM-130B is an open bilingual (English&Chinese) version of GLM with 130 billion parameters, designed for users with a single A100 or V100 server23.
 - [GPT-NeoXT-Chat-Base-20B](https://huggingface.co/togethercomputer/GPT-NeoXT-Chat-Base-20B) - An open-source language model that can chat and generate images. Created by EleutherAI.
 - [BLOOM](https://huggingface.co/bigscience/bloom) - by BigScience, BLOOM is an autoregressive Large Language Model (LLM), trained to continue text from a prompt on vast amounts of text data using industrial-scale computational resources. As such, it is able to output coherent text in 46 languages and 13 programming languages that is hardly distinguishable from text written by humans. BLOOM can also be instructed to perform text tasks it hasn't been explicitly trained for, by casting them as text generation tasks.
 - [OPT]((https://arxiv.org/pdf/2205.01068)) - by Meta, The OPT model was proposed in Open Pre-trained Transformer Language Models by Meta AI. OPT is a series of open-sourced large causal language models which perform similar in performance to GPT3.
@@ -216,15 +235,15 @@
 
 ### Glossary of Terms
 
-- 大型语言模型 Large language model
-- 指令微调 Instruction fine-tuning
-- 上下文学习 In-context learning
-- 零样本学习 Zero-shot learning
-- 少样本学习 Few-shot learning
-- 提示词工程 Prompt engineering
-- 思维链 Chain-of thought (COT)
-- 强化学习 Reinforcement learning
-- 基于人类反馈的强化学习 Reinforcement Learning from Human Feedback (RLHF)
+- Large language model
+- Instruction fine-tuning
+- In-context learning
+- Zero-shot learning
+- Few-shot learning
+- Prompt engineering
+- Chain-of thought (COT)
+- Reinforcement learning
+- Reinforcement Learning from Human Feedback (RLHF)
 
 ### The technical principle of ChatGPT
 
