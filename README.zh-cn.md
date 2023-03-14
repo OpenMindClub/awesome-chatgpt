@@ -6,13 +6,13 @@
 
 <!--rehype:style=text-align: center;-->
 
-## 目录
+## Table of Contents
 
-- [目录](#目录)
+- [Table of Contents](#table-of-contents)
 - [元资源 Meta Resources](#元资源-meta-resources)
     - [通用 General](#通用-general)
     - [原理 The Principles of ChatGPT](#原理-the-principles-of-chatgpt)
-    - [提示语 Prompts](#提示语-prompts)
+    - [提示词 Prompts](#提示词-prompts)
 - [官方资源 OpenAI Official Rescources](#官方资源-openai-official-rescources)
     - [社交媒体 Social Media](#社交媒体-social-media)
 - [渠道资源 Channel Resources](#渠道资源-channel-resources)
@@ -39,18 +39,16 @@
         - [LLMs 最新进展](#llms-最新进展)
         - [Prompt engineering 最近进展](#prompt-engineering-最近进展)
         - [Official papers](#official-papers)
-        - [Other papers](#other-papers)
-        - [Other papers](#other-papers-1)
-- [提示语](#提示语)
-    - [AIPRM](#aiprm)
-- [其他](#其他)
-- [加入我们](#加入我们)
-- [贡献者](#贡献者)
-- [许可](#许可)
+- [TODO](#todo)
+- [Contribute](#contribute)
+- [Contributors](#contributors)
+- [Contact](#contact)
+- [Credits](#credits)
+- [License](#license)
 
 ## 元资源 Meta Resources
 
-- [wikipedia-ChatGPT](https://en.wikipedia.org/w/index.php?title=ChatGPT&oldid=1144021256)
+- [Wikipedia ChatGPT](https://en.wikipedia.org/w/index.php?title=ChatGPT&oldid=1144021256)
 
 ### 通用 General
 
@@ -60,13 +58,18 @@
 
 ### 原理 The Principles of ChatGPT
 
-- [What Is ChatGPT Doing and Why Does It Work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/) WolframAlpha 之父 Stephen Wolfram 写的一篇讲 ChatGPT 原理的长文。
-- [深度学习论文精读](https://github.com/mli/paper-reading) 李沐的深度学习论文精读资源合集。
+- [What Is ChatGPT Doing and Why Does It Work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/) - WolframAlpha 之父 Stephen Wolfram 写的一篇讲 ChatGPT 原理的长文。
+- [深度学习论文精读](https://github.com/mli/paper-reading) - 李沐的深度学习论文精读资源合集。
 
-### 提示语 Prompts
+### 提示词 Prompts
 
 - [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts) - This is a collection of prompt examples to be used with the ChatGPT model.
 - [ChatGPT 中文调教指南](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - 在此页面中，您将找到可与 ChatGPT 一起使用的各种提示。This is a collection of Chinese prompt examples.
+- [ChatGPT Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut) - 根据领域和功能划分的 ChatGPT 快捷指令表，可通过标签筛选、关键词搜索和一键复制来使用提示词，旨在简化你的工作流程并提高生产力。即使是初学者，你只需复制提示词，稍加修改后发送给 ChatGPT，就能获得指定输出，让你的生产力加倍！A quick reference table of ChatGPT shortcuts is divided by domain and function, allowing users to filter by tags, search by keywords, and copy with a single click to utilize prompts.Even beginners can simply copy the prompt phrases, make minor modifications, and send them to ChatGPT to obtain the desired output.
+- [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - Guides, papers, lecture, and resources for prompt engineering.
+- [Prompt Marketplace](https://promptbase.com/) - PromptBase is a marketplace for buying and selling quality prompts.
+- [Prompt 编写模式：如何将思维框架赋予机器（中文）](https://github.com/prompt-engineering/prompt-patterns#prompt-%E7%BC%96%E5%86%99%E6%A8%A1%E5%BC%8F%E5%A6%82%E4%BD%95%E5%B0%86%E6%80%9D%E7%BB%B4%E6%A1%86%E6%9E%B6%E8%B5%8B%E4%BA%88%E6%9C%BA%E5%99%A8) - 介绍一系列的 Prompt 编写模式，以更好地应用 Prompt 对 AI 进行编程。Introduce a series of Prompt writing patterns to better apply Prompts to programming AI.
+- [ChatGPT 500 prompts](https://www.linkedin.com/pulse/chatgpt-500-prompts-make-you-top-1-copywriter-alexis-khvatov-) - 500 Prompts that are helpful for writers.
 
 ## 官方资源 OpenAI Official Rescources
 
@@ -142,7 +145,7 @@
 
 ### 中文 Videos
 
-- [【ChatGPT 保姆级使用教程】注册、体验、底层逻辑原理解读！](https://www.bilibili.com/video/BV1HT411R7Lj/) ChatGPT 介绍，偏底技术，偏底层原理。
+- [ChatGPT 保姆级使用教程：注册、体验、底层逻辑原理解读！](https://www.bilibili.com/video/BV1HT411R7Lj/) ChatGPT 介绍，偏底技术，偏底层原理。
 
 ### 英文图文 Graphic and Textual
 
@@ -191,8 +194,8 @@
     - Embedding model - 新的模型取代了文本搜索、文本相似性和代码搜索的五个独立模型，并且在大多数任务上优于我们以前最强大的模型 Davinci，同时价格降低了 99.8%。The new model, text-embedding-ada-002, replaces five separate models for text search, text similarity, and code search, and outperforms our previous most capable model, Davinci, at most tasks, while being priced 99.8% lower.
 - 图像
     - DALL·E - 是一个人工智能系统，它可以通过自然语言的描述来创造逼真的图像和艺术。DALL·E is an AI system that can create realistic images and art from a description in natural language.
-    - CLIP: 连接文本和图像。一个叫做 CLIP 的神经网络，它可以有效地从自然语言监控中学习视觉概念。CLIP 可以应用于任何可视化分类基准，只需提供要识别的可视化类别的名称，类似于 GPT-2 和 GPT-3 的“0-shot”功能。A neural network called CLIP which efficiently learns visual concepts from natural language supervision. CLIP can be applied to any visual classification benchmark by simply providing the names of the visual categories to be recognized, similar to the“zero-shot”capabilities of GPT-2 and GPT-3.
-    - [Point-E](https://github.com/openai/point-e): [A System for Generating 3D Point Clouds from Complex Prompts](https://arxiv.org/abs/2212.08751) 一个从复杂提示生成 3D 点云的系统。
+    - CLIP - 连接文本和图像。一个叫做 CLIP 的神经网络，它可以有效地从自然语言监控中学习视觉概念。CLIP 可以应用于任何可视化分类基准，只需提供要识别的可视化类别的名称，类似于 GPT-2 和 GPT-3 的“0-shot”功能。A neural network called CLIP which efficiently learns visual concepts from natural language supervision. CLIP can be applied to any visual classification benchmark by simply providing the names of the visual categories to be recognized, similar to the“zero-shot”capabilities of GPT-2 and GPT-3.
+    - [Point-E](https://github.com/openai/point-e) - 一个从复杂提示生成 3D 点云的系统。A System for Generating 3D Point Clouds from Complex Prompts.
 - 音频
     - Whisper - Whisper 是一种通用的语音识别模型，可以转录、识别和翻译多种语言。Whisper is a versatile speech recognition model that can transcribe, identify, and translate multiple languages.
     - Jukebox - 一个神经网络，生成音乐作为原始音频在各种流派和艺术家的风格。A neural net that generates music as raw audio in a variety of genres and artist styles.
@@ -208,22 +211,21 @@
 - [YouChat](https://you.com/search?q=who+are+you&tbm=youchat&cfr=chat) - YouChat 是由 You.com 推出的聊天机器人，You.com 由语言和人工智能专家 Richard Socher 创立，2022 年 3 月，该公司推出了 YouWrite，这 是一款基于 GPT-3 的可用于编写电子邮件和其他文档的文本生成器。2022 年 12 月，该公司推出了基于 GPT-3.5 的聊天机器人 YouChat，它会使用谷歌检索较为通用的结果，同时使用微软必应搜索来处理更细粒度的请求，如代码片段检索等。相较于 ChatGPT，YouChat 的回复中会带有引用，进而可以帮助用户追踪每条信息的来源。
 - [Perplexity AI](https://www.perplexity.ai/) - 2022 年 12 月份，搜索引擎 Perplexity.AI 发布，其核心是将大规模语言模型和搜索引擎结合来进行问答，通过连续对话的形式提供用户需要的答案。相较于 ChatGPT，Perplexity AI 能够提供信息的来源 (包括维基百科、百度百科、知乎等)，但其答案的流畅度和完整度相较于 ChatGPT 略显逊色。
 - MOSS - 2023 年 2 月 20 日，复旦大学自然语言处理实验室推出了国内第一个对话式大型语言模型——MOSS5，可执行对话生成、编程、事实问答等一系列任务。Fudan University's Natural Language Processing Laboratory has launched MOSS5, China's first large-scale conversational language model, capable of performing tasks such as dialogue generation, programming, and fact-based question-answering.
-- 其他一些国内企业正在研发的对话机器人
+- 其他中国企业正在研发的对话机器人
     - 百度的文心一言：文心一言 (英文名:ERNIE Bot) 是百度基于文心大模型 技术推出的生成式对话产品，据百度官方公众号的消息 6，百度计划于 2023 年 3 月 16 日 14 时在北京总部召开新闻发布会，主题围绕文心一言。
     - 科大讯飞学习机：科大讯飞表示，其生成式预训练大模型技术将率先落地于 AI 学习机产品，并将于 2023 年 5 月 6 日发布。
     - 京东 ChatJD：2023 年 2 月 10 日，京东宣布将推出产业版 ChatGPT: ChatJD
     - 腾讯的混元助手：2023 年 2 月，腾讯针对类 ChatGPT 对话式产品已成立“混元助手 (HunyuanAide)”项目组，致力于开发腾讯对话式通用人工智能系统。
-<a name="leSyQ"></a>
 
 ### 竞品：大语言模型 Competitors: LLMs
 
-- LaMDA: **Language Model for Dialogue Applications** is a family of conversational large language models developed by Google. LaMDA uses a decoder-only transformer language model.
-- LLaMA: by Meta AI , A foundational, 65-billion-parameter large language model. LLaMA (Large Language Model Meta AI) is a state-of-the-art foundational large language model designed to help researchers advance their work in this subfield of AI. Smaller, more performant models such as LLaMA enable others in the research community who don’t have access to large amounts of infrastructure to study these models, further democratizing access in this important, fast-changing field.
-- Gopher：by DeepMind, [a 280 billion parameter transformer language model called Gopher](https://arxiv.org/abs/2112.11446) *,*  is an autoregressive transformer-based dense LLM — basically
-- GLM: 清华大学：GLM is a General Language Model developed by Tsinghua University. It is pretrained with an autoregressive blank-filling objective and can be finetuned on various natural language understanding and generation tasks. GLM-130B is an open bilingual (English&Chinese) version of GLM with 130 billion parameters, designed for users with a single A100 or V100 server23. GLM 是清华大学开发的通用语言模型。它使用自回归的空白填充目标进行预训练，并且可以在各种自然语言理解和生成任务上进行微调 1。GLM-130B 是 GLM 的开源双语（英文&中文）版本，拥有 1300 亿个参数，为拥有单个 A100 或 V100 服务器的用户设计 23。
-- [togethercomputer/GPT-NeoXT-Chat-Base-20B · Hugging Face](https://huggingface.co/togethercomputer/GPT-NeoXT-Chat-Base-20B) 一个可以进行聊天和图片生成的开源语言模型。EleutherAI 公司（An open-source language model that can chat and generate images. Created by EleutherAI.）
-- BLOOM: by BigScience, BLOOM is an autoregressive Large Language Model (LLM), trained to continue text from a prompt on vast amounts of text data using industrial-scale computational resources. As such, it is able to output coherent text in 46 languages and 13 programming languages that is hardly distinguishable from text written by humans. BLOOM can also be instructed to perform text tasks it hasn't been explicitly trained for, by casting them as text generation tasks.
-- OPT: by Meta, The OPT model was proposed in [Open Pre-trained Transformer Language Models](https://arxiv.org/pdf/2205.01068) by Meta AI. OPT is a series of open-sourced large causal language models which perform similar in performance to GPT3. 利用元人工智能技术，在开放式预训变压器语言模型中提出了 OPT 模型。OPT 是一系列开源的大型因果语言模型，其性能与 GPT3 相似。
+- [LaMDA](https://blog.google/technology/ai/lamda/): **Language Model for Dialogue Applications** is a family of conversational large language models developed by Google. LaMDA uses a decoder-only transformer language model.
+- [LLaMA](https://github.com/facebookresearch/llama): by Meta AI, A foundational, 65-billion-parameter large language model. LLaMA (Large Language Model Meta AI) is a state-of-the-art foundational large language model designed to help researchers advance their work in this subfield of AI. Smaller, more performant models such as LLaMA enable others in the research community who don’t have access to large amounts of infrastructure to study these models, further democratizing access in this important, fast-changing field.
+- [Gopher](https://arxiv.org/abs/2112.11446) - by DeepMind, a 280 billion parameter transformer language model called Gopher, is an autoregressive transformer-based dense LLM.
+- [GLM](https://github.com/THUDM/GLM-130B) - GLM is a General Language Model developed by Tsinghua University. It is pretrained with an autoregressive blank-filling objective and can be finetuned on various natural language understanding and generation tasks. GLM-130B is an open bilingual (English&Chinese) version of GLM with 130 billion parameters, designed for users with a single A100 or V100 server23. GLM 是清华大学开发的通用语言模型。它使用自回归的空白填充目标进行预训练，并且可以在各种自然语言理解和生成任务上进行微调 1。GLM-130B 是 GLM 的开源双语（英文&中文）版本，拥有 1300 亿个参数，为拥有单个 A100 或 V100 服务器的用户设计 23。
+- [GPT-NeoXT-Chat-Base-20B](https://huggingface.co/togethercomputer/GPT-NeoXT-Chat-Base-20B) 一个可以进行聊天和图片生成的开源语言模型。EleutherAI 公司（An open-source language model that can chat and generate images. Created by EleutherAI.）
+- [BLOOM](https://huggingface.co/bigscience/bloom) - by BigScience, BLOOM is an autoregressive Large Language Model (LLM), trained to continue text from a prompt on vast amounts of text data using industrial-scale computational resources. As such, it is able to output coherent text in 46 languages and 13 programming languages that is hardly distinguishable from text written by humans. BLOOM can also be instructed to perform text tasks it hasn't been explicitly trained for, by casting them as text generation tasks.
+- [OPT]((https://arxiv.org/pdf/2205.01068)) - by Meta, The OPT model was proposed in Open Pre-trained Transformer Language Models by Meta AI. OPT is a series of open-sourced large causal language models which perform similar in performance to GPT3. 利用元人工智能技术，在开放式预训变压器语言模型中提出了 OPT 模型。OPT 是一系列开源的大型因果语言模型，其性能与 GPT3 相似。
 
 ### 行研报告 Research report
 
@@ -251,20 +253,14 @@
 - 2019 Language models are unsupervised multitask learners
 - 2020 Language Models are Few-Shot Learners
 - 2022 Training lanquage models to follow instructions with human feedback
-- TODO
-<a name="b0AHE"></a>
 
 ### ChatGPT 的系统分析
 
-<a name="TxDjY"></a>
-
 #### LLMs 最新进展
 
-<a name="rHBCP"></a>
+- C. Wu, S. Yin, W. Qi, X. Wang, Z. Tang, and N. Duan, “Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models,” arXiv preprint arXiv:2303.04671, 2023.
 
 #### Prompt engineering 最近进展
-
-<a name="myFJi"></a>
 
 #### Official papers
 
@@ -275,56 +271,43 @@
 - L. Ouyang et al., “Training language models to follow instructions with human feedback.” arXiv, Mar. 04, 2022. Accessed: Mar. 13, 2023. [Online]. Available: http://arxiv.org/abs/2203.02155
 - R. Nakano et al., “WebGPT: Browser-assisted question-answering with human feedback.” arXiv, Jun. 01, 2022. Accessed: Mar. 13, 2023. [Online]. Available: http://arxiv.org/abs/2112.09332
 
-#### Other papers
+## TODO
 
-- C. Wu, S. Yin, W. Qi, X. Wang, Z. Tang, and N. Duan, “Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models,” arXiv preprint arXiv:2303.04671, 2023.
+待整理材料：
 
-<a name="zt0sR"></a>
-
-#### Other papers
-
-- C. Wu, S. Yin, W. Qi, X. Wang, Z. Tang, and N. Duan, “Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models,” _arXiv preprint arXiv:2303.04671_, 2023.<br />
-
-<a name="KBfkB"></a>
-
-## 提示语
-
-- [ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut) 根据领域和功能划分的 ChatGPT 快捷指令表，可通过标签筛选、关键词搜索和一键复制来使用提示词，旨在简化你的工作流程并提高生产力。即使是初学者，你只需复制提示词，稍加修改后发送给 ChatGPT，就能获得指定输出，让你的生产力加倍<br />
-- [Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)g<br />
-- [Prompt Marketplace](https://promptbase.com/) <br />
-- [Prompt 编写模式：如何将思维框架赋予机器（中文）](https://github.com/prompt-engineering/prompt-patterns#prompt-%E7%BC%96%E5%86%99%E6%A8%A1%E5%BC%8F%E5%A6%82%E4%BD%95%E5%B0%86%E6%80%9D%E7%BB%B4%E6%A1%86%E6%9E%B6%E8%B5%8B%E4%BA%88%E6%9C%BA%E5%99%A8)：介绍一系列的 Prompt 编写模式，以更好地应用 Prompt 对 AI 进行编程。<br />
-- [chatgpt-500-prompts](https://www.linkedin.com/pulse/chatgpt-500-prompts-make-you-top-1-copywriter-alexis-khvatov-)
-<a name="OkFSh"></a>
-
-### AIPRM
-
-<a name="SNG7a"></a>
-
-## 其他
-
-[futurism.com](https://futurism.com/the-byte/noam-chomsky-ai) 一些讨论文章
+- [Multimodal Chain-of-Thought Reasoning in Language Models - Amazon](https://github.com/amazon-science/mm-cot)
+- [nanoGPT](https://github.com/karpathy/nanoGPT) - Andrej Karpathy（特斯拉前 AI 总监）从原理到代码，0-1 动手实践 GPT。
+- [AIGC 相关公开信源整理](https://p9ngzmlet4.feishu.cn/sheets/shtcnQUqryqHFn4lRLnhRiw1g2c) - 非常详细的一份飞书文档
+- [No.1 - 关于 AI 的 107 个人，61 个工具和 28 个通讯](https://mp.weixin.qq.com/s?__biz=MzkzNDQxOTU2MQ==&mid=2247483679&idx=1&sn=b562067e590a3e861de078a782eb265f&chksm=c2bccc19f5cb450f2d638b0f0ae80644d46acef7e69462733c67878c93dcc0809531916d38ac&mpshare=1&scene=1&srcid=031171Lcp6OPrX74ntuhqkpE&sharer_sharetime=1678518930914&sharer_shareid=a697a75b41763c317bec849da7e5a35a#rd)
 
 其他一些待归类的资料，应该属于大语言模型的应用层产品：
 
-- [造梦日记 - AI 一下，妙笔生画](https://printidea.art) 「造梦日记」是西湖心辰（杭州）科技有限公司和西湖大学深度学习实验室共同推出的一款 AI 绘画平台。由前谷歌人工智能研究院科学家、NLP 自然语言处理领域预训练语言模型“ALBERT”第一作者——蓝振忠博士带队研发。
-- [NovelAI - The AI Storyteller](https://novelai.net/) NovelAI 是一个每月订阅服务，提供 AI 辅助的作者、故事讲述、虚拟陪伴，或者仅仅是一个供你想象的 GPT 驱动的沙盒。
+- [造梦日记 - AI 一下，妙笔生画](https://printidea.art/) - 「造梦日记」是西湖心辰（杭州）科技有限公司和西湖大学深度学习实验室共同推出的一款 AI 绘画平台。由前谷歌人工智能研究院科学家、NLP 自然语言处理领域预训练语言模型“ALBERT”第一作者——蓝振忠博士带队研发。
+- [NovelAI - The AI Storyteller](https://novelai.net/) - NovelAI 是一个每月订阅服务，提供 AI 辅助的作者、故事讲述、虚拟陪伴，或者仅仅是一个供你想象的 GPT 驱动的沙盒。
 - [百度文心一格](https://yige.baidu.com/)
 - [ai.google](https://ai.google/)
 - [research.facebook.com](https://research.facebook.com/publications/llama-open-and-efficient-foundation-language-models/)
+- [AlphaCode](https://www.science.org/stoken/author-tokens/ST-905/full) - Yujia Li, David Choi, Junyoung Chung, and a team at DeepMind built AlphaCode, a system that beat roughly half of competitors in coding contests where many examples of program inputs and outputs were available. AlphaCode, which uses transformer-based language models to generate code at an unprecedented scale, and then smartly filters to a small set of promising programs.
 
-<a name="QMvLs"></a>
+## Contribute
 
-## 加入我们
+欢迎增补！请先阅读 [contribution guidelines](CONTRIBUTING.zh-cn.md)，在 Fork 本仓库后提交 Pull Request。
 
-热烈欢迎！记得先看 [贡献者公约](#CODE_OF_CONDUC_zh_cn.md) 哦。
+## Contributors
 
-## 贡献者
+感谢所有贡献者。
 
-感谢所有贡献者：
-[阳志平](http://www.yangzhiping.com/)
-<br />边心竹
+- [Alex](https://github.com/Spehhhhh) - [@Spehhhhh](https://github.com/Spehhhhh)
 
-## 许可
+## Contact
+
+请使用 GitHub [Issues](https://github.com/OpenMindClub/awesome-chatgpt/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc) 来联系我们。
+
+## Credits
+
+感谢[阳志平老师](https://www.yangzhiping.com/)以及[开智学堂](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzA4ODM4ODQ3MQ==#wechat_redirect)对本项目的大力支持。
+
+## License
 
 [![CC0][CC0-badge]][CC0-link]
 
