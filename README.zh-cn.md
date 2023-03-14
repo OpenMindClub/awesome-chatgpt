@@ -14,6 +14,8 @@
     - [原理](#原理)
     - [提示词](#提示词)
 - [官方资源](#官方资源)
+    - [版本](#版本)
+    - [OpenAI产品等](#OpenAI产品等)
     - [社交媒体](#社交媒体)
 - [渠道资源](#渠道资源)
     - [GitHub 项目](#github-项目)
@@ -38,12 +40,11 @@
     - [ChatGPT 的技术原理](#chatgpt-的技术原理)
     - [Prompt engineering 的最近进展](#prompt-engineering-的最近进展)
     - [LLMs 的最新进展](#llms-的最新进展)
-- [TODO](#todo)
-- [Contribute](#contribute)
-- [Contributors](#contributors)
-- [Contact](#contact)
-- [Credits](#credits)
-- [License](#license)
+- [贡献](#contribute)
+- [贡献者](#contributors)
+- [联系](#contact)
+- [致谢](#credits)
+- [许可](#license)
 
 ## 元资源
 
@@ -52,35 +53,37 @@
 ### 通用
 
 - [Awesome ChatGPT](https://github.com/humanloop/awesome-chatgpt) - ChatGPT 和 OpenAI 的 GPT-3 Awesome 清单。
-- [Awesome ChatGPT API](https://github.com/reorx/awesome-chatgpt-api/) - 经过精心策划的 API Awesome 清单，包含了最新的 ChatGPT API，而且还允许用户自行配置 API 密钥，从而实现对其自身配额的免费和按需使用。
+- [Awesome ChatGPT API](https://github.com/reorx/awesome-chatgpt-api/) - 精心策划的 API Awesome 清单，包含了最新的 ChatGPT API，允许用户自行配置 API 密钥，从而实现对其自身配额的免费和按需使用。
 - [Aihub](https://www.aihub.cn) - 发现、探索全球优秀好用的 AI 产品。
 
 ### 原理
 
 - [What Is ChatGPT Doing and Why Does It Work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/) - WolframAlpha 之父 Stephen Wolfram 写的一篇讲 ChatGPT 原理的长文。
 - [深度学习论文精读](https://github.com/mli/paper-reading) - 李沐的深度学习论文精读资源合集。
+- [OpenAI Research index](https://openai.com/research) - 本页是 OpenAI 关于人工智能各种主题的研究论文列表。
 
 ### 提示词
 
 - [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts) - 这是与 ChatGPT 模型一起使用的提示例子的集合。
-- [ChatGPT 中文调教指南](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - 在此页面中，您将找到可与 ChatGPT 一起使用的各种提示词。
-- [ChatGPT Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut) - 根据领域和功能划分的 ChatGPT 快捷指令表，可通过标签筛选、关键词搜索和一键复制来使用提示词，旨在简化你的工作流程并提高生产力。即使是初学者，你只需复制提示词，稍加修改后发送给 ChatGPT，就能获得指定输出，让你的生产力加倍！
+- [ChatGPT 中文调教指南](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - 这是在ChatGPT中使用的提示词。
+- [ChatGPT Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut) - 根据领域和功能划分的 ChatGPT 快捷指令表，可通过标签筛选、关键词搜索和一键复制来使用提示词。
 - [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 指南、论文、讲座和提示工程的资源。
 - [Prompt Marketplace](https://promptbase.com/) - PromptBase 是一个购买和销售优质 Prompts 的市场。
-- [Prompt 编写模式：如何将思维框架赋予机器（中文）](https://github.com/prompt-engineering/prompt-patterns#prompt-%E7%BC%96%E5%86%99%E6%A8%A1%E5%BC%8F%E5%A6%82%E4%BD%95%E5%B0%86%E6%80%9D%E7%BB%B4%E6%A1%86%E6%9E%B6%E8%B5%8B%E4%BA%88%E6%9C%BA%E5%99%A8) - 介绍一系列的 Prompt 编写模式，以更好地应用 Prompt 对 AI 进行编程。
+- [Prompt 编写模式：如何将思维框架赋予机器（中文）](https://github.com/prompt-engineering/prompt-patterns#prompt-%E7%BC%96%E5%86%99%E6%A8%A1%E5%BC%8F%E5%A6%82%E4%BD%95%E5%B0%86%E6%80%9D%E7%BB%B4%E6%A1%86%E6%9E%B6%E8%B5%8B%E4%BA%88%E6%9C%BA%E5%99%A8) - 一系列 Prompt 编写模式。
 - [ChatGPT 500 prompts](https://www.linkedin.com/pulse/chatgpt-500-prompts-make-you-top-1-copywriter-alexis-khvatov-) - 500 条对作家有帮助的 Prompts。
 
 ## 官方资源
+### 版本
+- [ChatGPT](https://openai.com/blog/chatgpt) - 网页版。这是一个由 OpenAI 开发的人工智能聊天机器人，它允许你与 ChatGPT 进行 AI 对话。
+- [OpenAI API](https://openai.com/blog/openai-api) - API版。一个允许任何人访问 OpenAI 开发的新 AI 模型的平台。
+- [VisualChatGPT](https://github.com/microsoft/visual-chatgpt) 是一个在 ChatGPT 基础上增加了视觉功能的版本。Visual ChatGPT 是一个由微软开发的项目，它可以在聊天中发送和接收图片。它是基于 ChatGPT 和一系列视觉基础模型的组合。
 
-- [ChatGPT](https://openai.com/blog/chatgpt) - 这是一个由 OpenAI 提供的官方在线聊天工具，它允许你与 ChatGPT 进行 AI 对话。
-- [VisualChatGPT](https://github.com/microsoft/visual-chatgpt) Visual ChatGPT 是一个由微软开发的项目，它可以在聊天中发送和接收图片。它是基于 ChatGPT 和一系列视觉基础模型的组合。
-- [New Bing](https://www.bing.com/new): New Bing 是微软开发的新一代搜索引擎，基于 OpenAI 的大型语言模型，能够提供智能聊天、创意和助手功能。
-- [ChatGPT blog](https://openai.com/blog/chatgpt/) - 这是 OpenAI 官方博客上的一篇介绍 ChatGPT 的文章。
+### OpenAI产品等
 - [OpenAI](https://openai.com/) - OpenAI 的主页。
 - [OpenAI Product](https://openai.com/product) - 本页展示了 OpenAI 提供的产品，如 GPT 模型、DALL-E 2 和 Whisper。
-- [OpenAI API](https://openai.com/blog/openai-api) - OpenAI API，一个允许任何人访问 OpenAI 开发的新 AI 模型的平台。
 - [OpenAI API Documentation](https://platform.openai.com/docs) - OpenAI API 的文档，它提供了关于 API 的基本概念、模型、端点和应用的详细信息。它还包含一些教程，教你如何使用该 API 构建真正的人工智能应用。这个页面是学习和使用 OpenAI API 的重要资源。
-- [OpenAI Research index](https://openai.com/research) - 本页是 OpenAI 关于人工智能各种主题的研究论文列表。
+- [New Bing](https://www.bing.com/new): New Bing 是微软开发的新一代搜索引擎，基于 OpenAI 的大型语言模型，能够提供智能聊天、创意和助手功能。
+- [ChatGPT blog](https://openai.com/blog/chatgpt/) - 这是 OpenAI 官方博客上的一篇介绍 ChatGPT 的文章。
 
 ### 社交媒体
 
@@ -97,31 +100,31 @@
 
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - ChatGPT 桌面应用程序
 - [manno/chatgpt-linux-assistant](https://github.com/manno/chatgpt-linux-assistant) - 一个在你的 CLI 中的 AI 助手。
-- [arc53/DocsGPT](https://github.com/arc53/docsgpt) - DocsGPT 是一个尖端的开源解决方案，它简化了在项目文件中寻找信息的过程。由于它集成了强大的 GPT 模型，开发人员可以轻松地提出有关项目的问题，并得到准确的答案。
+- [arc53/DocsGPT](https://github.com/arc53/docsgpt) -打造你的专属知识库。
 - [GanymedeNil/document.ai](https://github.com/GanymedeNil/document.ai) - 基于向量数据库与 GPT-3.5 的通用本地知识库方案。
 - [yihong0618/bilingual_book_maker](https://github.com/yihong0618/bilingual_book_maker) - 使用 OpenAI API 翻译 EPUB 电子书。
 
 ### 浏览器插件
 
 - [sharegpt-google](https://chrome.google.com/webstore/detail/sharegpt-share-your-chatg/daiacboceoaocpibfodeljbdfacokfjb) - 分享 ChatGPT 问答过程给其余人，可生成链接、图片、pdf 等多种格式。
-- [chatgpt-writer-google](https://chrome.google.com/webstore/detail/chatgpt-writer-write-mail/pdnenlnelpdomajfejgapbdpmjkfpjkp) - 使用 ChatGPT AI 生成完整的电子邮件和消息。所有网站都支持，并且对 Gmail 有更好的支持。
-- [chatgpt-prompt-genius-google](https://chrome.google.com/webstore/detail/chatgpt-prompt-genius/jjdnakkfjnnbbckhifcfchagnpofjffo) - 发现、分享、导入和使用最适合 ChatGPT 的提示词。你还可以将你的聊天记录保存在本地，这样你就可以轻松地回顾过去的对话，并在以后参考它们。你可以使用扩展的提示词模板功能来轻松地找到并添加提示词到你的收藏中。你可以在页面上搜索、分类和选择提示词，让你更容易找到创造性和高效的使用文本生成 AI 的方法。
+- [chatgpt-writer-google](https://chrome.google.com/webstore/detail/chatgpt-writer-write-mail/pdnenlnelpdomajfejgapbdpmjkfpjkp) - 使用 ChatGPT AI 生成完整的电子邮件和消息。
+- [chatgpt-prompt-genius-google](https://chrome.google.com/webstore/detail/chatgpt-prompt-genius/jjdnakkfjnnbbckhifcfchagnpofjffo) - 发现、分享、导入和使用最适合 ChatGPT 的提示词。
 - [ChatGPT for Google](https://chrome.google.com/webstore/detail/chatgpt-for-google/jgjaeacdkonaoafenlfkkkmbaopkbilf) - 搜索引擎页面直接显示 ChatGPT 的答案，支持 Google, Baidu, Bing, DuckDuckGo, Brave, Yahoo, Naver, Yandex, Kagi, Searx 这些浏览器。
-- [AIPRM for ChatGPT](https://chrome.google.com/webstore/detail/aiprm-for-chatgpt/ojnbohmppadfgpejeebfnmnknjdlckgj/related) - [AIPRM](https://www.aiprm.com/) 是一款拥有多个 Prompt Templates 以及可自定义 Prompt Templates 工具。是在 Google Chrome 中直接搜索 ChatGPT 排名第二的工具。
+- [AIPRM for ChatGPT](https://chrome.google.com/webstore/detail/aiprm-for-chatgpt/ojnbohmppadfgpejeebfnmnknjdlckgj/related) - [AIPRM](https://www.aiprm.com/) 是一款拥有多个 Prompt Templates 以及可自定义 Prompt Templates 工具。
 - [immersive-translator](https://microsoftedge.microsoft.com/addons/detail/%E6%B2%89%E6%B5%B8%E5%BC%8F%E7%BF%BB%E8%AF%91/amkbmndfnliijdhojkpoglbnaaahippg?hl=zh-CN) - 结合 ChatGPT 的 API，翻译文本。
 
 ### App
 
 - [Raycast AI](https://www.raycast.com/ai) - 结合使用。
-- [KnowBuddy](https://www.knowbuddy.ai/) - 使用越来越多的强大 AI 模型和服务来帮助您执行任务和回答问题。这是一种使用 AI 改善日常生活的简单、安全且可靠的方法。目前可在 WhatsApp 上使用，即将在 Discord 和 Telegram 上使用。
+- [KnowBuddy](https://www.knowbuddy.ai/) - 使用越来越多的强大 AI 模型和服务来帮助您执行任务和回答问题。
 
 ### Web App
 
 - [OpenGPT - Create ChatGPT Application in seconds](https://open-gpt.app/) - 立即使用海量的 ChatGPT 应用，或在几秒钟内创建属于自己的应用。
 - [Mindshow.fun](https://www.mindshow.fun/#/templates) - 结合 ChatGPT 精简文字内容，利用 md 直接生成 ppt，还可以直接导入 logseq 文件。
-- [Chatpdf](https://www.chatpdf.com/) - ChatPDF 是一种快速而简单的方式，可以与任何 PDF 聊天，免费且无需登录。与书籍、研究报告、手册、论文、法律合同，任何你有的东西都可以交谈！情报革命在这里，ChatGPT 只是一个开始！
-- [YouChat](https://you.com/) - YouChat 是由 You.com 推出的聊天机器人，You.com 由语言和人工智能专家 Richard Socher 创立，2022 年 3 月，该公司推出了 YouWrite，这 是一款基于 GPT-3 的可用于编写电子邮件和其他文档的文本生成器。2022 年 12 月，该公司推出了基于 GPT-3.5 的聊天机器人 YouChat，它会使用谷歌检索较为通用的结果，同时使用微软必应搜索来处理更细粒度的请求，如代码片段检索等。相较于 ChatGPT，YouChat 的回复中会带有引用，进而可以帮助用户追踪每条信息的来源。
-- [Perplexity AI](https://www.perplexity.ai/) - 2022 年 12 月份，搜索引擎 Perplexity.AI 发布，其核心是将大规模语言模型和搜索引擎结合来进行问答，通过连续对话的形式提供用户需要的答案。相较于 ChatGPT，Perplexity AI 能够提供信息的来源 (包括维基百科、百度百科、知乎等)，但其答案的流畅度和完整度相较于 ChatGPT 略显逊色。
+- [Chatpdf](https://www.chatpdf.com/) - 情报革命在这里，ChatGPT 只是一个开始！
+- [YouChat](https://you.com/) - 由 You.com 推出的聊天机器人，是一款基于 GPT-3 的可用于编写电子邮件和其他文档的文本生成器。相较于 ChatGPT，YouChat 的回复中会带有引用，进而可以帮助用户追踪每条信息的来源。
+- [Perplexity AI](https://www.perplexity.ai/) - 核心是将大规模语言模型和搜索引擎结合来进行问答，通过连续对话的形式提供用户需要的答案。相较于 ChatGPT，Perplexity AI 能够提供信息的来源，但其答案的流畅度和完整度相较于 ChatGPT 略显逊色。
 - [Chat Simplifier](https://chat-simplifier.imzbb.cc/zh) - 国人开发，聊天简化器，提取对话重点。
 - [PandaGPT](https://www.pandagpt.io/) - 辅助阅读 PDF，自动回答问题。
 
@@ -179,13 +182,13 @@
 
 ### OpenAI 投资的公司
 
-- [edgedb](https://www.edgedb.com/) - EdgeDB 是第一个开源图形关系型数据库的开发者。EdgeDB 正在重塑关系型数据库栈。通过精简的数据模型和强大的查询语言，他们让开发者和数据工程师在处理数据时变得富有成效、愉快和高效。它的目的是解决一些硬性设计问题，这些问题使得现有的数据库在使用时不必要地繁琐。
+- [edgedb](https://www.edgedb.com/) - EdgeDB 是第一个开源图形关系型数据库的开发者。EdgeDB 正在重塑关系型数据库栈。通过精简的数据模型和强大的查询语言，让开发者和数据工程师在处理数据时变得富有成效、愉快和高效。
 - [Descript](https://www.descript.com/) - Descript 是一个协作式音频和视频编辑器，可将音频转录到文本文件中进行编辑。它还为语音音频文件提供自动和手动转录解决方案。此外，该平台利用语音识别技术，在短时间内转录音频和视频文件。
-- [Ambience Healthcare](https://www.ambiencehealthcare.com/) - 我们的旗舰产品 Ambience AutoScribe 是一款全自动的人工智能医疗抄写员，它能实时捕捉医疗机构与患者对话的细微差别，并将其纳入 EMR 工作流程。Ambience 已被北美的医疗机构采用，它将用于记录的时间减少了 76%，这样医疗机构就可以专注于最重要的事情：护理病人。医疗机构每天都在使用 Ambience AutoScribe，甚至在一些最具挑战性的医疗专业领域（如精神病学和复杂的老年病初级保健）。多年来，我们的医护人员第一次能够按时回家吃晚饭，不需要在深夜花几个小时来补写病历。
+- [Ambience Healthcare](https://www.ambiencehealthcare.com/) - Ambience AutoScribe 是一款全自动的人工智能医疗抄写员，它能实时捕捉医疗机构与患者对话的细微差别，并将其纳入 EMR 工作流程。
 
 ### OpenAI 支持的公司
 
-- [Virtuzone](https://launchpad.vz.ae/) - 阿联酋领先的公司成立专家和屡获殊荣的企业服务提供商。推出 SWYFT 计划，这是一个由 OpenAI 的 ChatGPT 支持的自动商业计划生成器，允许用户在 10 分钟内生成一个完整的商业计划。
+- [Virtuzone](https://launchpad.vz.ae/) - 推出 SWYFT 计划，这是一个由 OpenAI 的 ChatGPT 支持的自动商业计划生成器，允许用户在 10 分钟内生成一个完整的商业计划。
 
 ### OpenAI 生态/产品矩阵
 
@@ -206,26 +209,26 @@
 
 - [OpenChatKit](https://github.com/togethercomputer/OpenChatKit) - 一个类 ChatGPT 开源工具包，基于 EleutherAI 的 GPT-NeoX-20B，内含一个 20B 参数量的大模型，而且该模型在 4300 万条指令上进行了微调。
 - [Jasper Chat](https://www.jasper.ai/chat) - Jasper AI 生态中的一项功能，与 ChatGPT 不同的是，它是付费服务。
-- [Character ai](https://beta.character.ai/) - 创始人 Noam Shazeer、Daniel De Freitas 来自 Google 的 LaMDA。和 ChatGPT 不一样的是，它对聊天的对象（也就是机器人）做了细分，分了非常多的细分领域，在不同的领域你可以找相应领域的聊天机器人，比方说你可以找名人，也可以找游戏或者电影里的角色。它通过平台的方式让所有人都来参与创建，而不是完全由自己去创建去训练模型。
-- [Poe](https://quorablog.quora.com/Poe-1) - Quora 推出的一个类似 ChatGPT 的对话机器人，产品里目前有 4 个机器人，包括 Sage、Claude、ChatGPT 以及 Dragonfly，有点类似于 Character AI 的路径。Poe 这些机器人的 AI 能力分别来自 OpenAI、Anthropic 的 Claude 以及其它一些 AI 模型，算是目前整合各家 AI 模型推出的一款产品。
-- [Bard](https://blog.google/technology/ai/bard-google-ai-search-updates/) - 谷歌推出的对话机器人，2021 年 5 月，谷歌推出了面向对话的大语言模型 LaMDA。Bard 构建于 LaMDA 模型的基础上，相较于 ChatGPT，Bard 可以检索网页，从而能够回答有关最近发生事件的问题。目前，Bard 仅开放给受信任的测试人员。
-- [YouChat](https://you.com/search?q=who+are+you&tbm=youchat&cfr=chat) - YouChat 是由 You.com 推出的聊天机器人，You.com 由语言和人工智能专家 Richard Socher 创立，2022 年 3 月，该公司推出了 YouWrite，这 是一款基于 GPT-3 的可用于编写电子邮件和其他文档的文本生成器。2022 年 12 月，该公司推出了基于 GPT-3.5 的聊天机器人 YouChat，它会使用谷歌检索较为通用的结果，同时使用微软必应搜索来处理更细粒度的请求，如代码片段检索等。相较于 ChatGPT，YouChat 的回复中会带有引用，进而可以帮助用户追踪每条信息的来源。
-- [Perplexity AI](https://www.perplexity.ai/) - 2022 年 12 月份，搜索引擎 Perplexity.AI 发布，其核心是将大规模语言模型和搜索引擎结合来进行问答，通过连续对话的形式提供用户需要的答案。相较于 ChatGPT，Perplexity AI 能够提供信息的来源 (包括维基百科、百度百科、知乎等)，但其答案的流畅度和完整度相较于 ChatGPT 略显逊色。
-- MOSS - 2023 年 2 月 20 日，复旦大学自然语言处理实验室推出了国内第一个对话式大型语言模型——MOSS5，可执行对话生成、编程、事实问答等一系列任务。
+- [Character ai](https://beta.character.ai/) - 和 ChatGPT 不一样的是，它对聊天的对象（也就是机器人）有很多细分领域，在不同的领域你都可以找到聊天机器人，比如名人、游戏或者电影里的角色。所有人都来参与创建，而不是完全自行创建并训练模型！
+- [Poe](https://quorablog.quora.com/Poe-1) - Quora 推出的一个类似 ChatGPT 的对话机器人，整合各家 AI 模型推出的一款产品。
+- [Bard](https://blog.google/technology/ai/bard-google-ai-search-updates/) - 谷歌推出的对话机器人。Bard 构建于 LaMDA 模型的基础上，相较于 ChatGPT，Bard 可以检索网页，从而能够回答有关最近发生事件的问题。
+- [YouChat](https://you.com/search?q=who+are+you&tbm=youchat&cfr=chat) - 由 You.com 推出的聊天机器人，是一款基于 GPT-3 的可用于编写电子邮件和其他文档的文本生成器。相较于 ChatGPT，YouChat 的回复中会带有引用，进而可以帮助用户追踪每条信息的来源。
+- [Perplexity AI](https://www.perplexity.ai/) - 核心是将大规模语言模型和搜索引擎结合来进行问答，通过连续对话的形式提供用户需要的答案。相较于 ChatGPT，Perplexity AI 能够提供信息的来源，但其答案的流畅度和完整度相较于 ChatGPT 略显逊色。
+- MOSS -可执行对话生成、编程、事实问答等一系列任务。
 - 其他中国企业正在研发的对话机器人
-    - 百度的文心一言：文心一言 (英文名:ERNIE Bot) 是百度基于文心大模型 技术推出的生成式对话产品，据百度官方公众号的消息 6，百度计划于 2023 年 3 月 16 日 14 时在北京总部召开新闻发布会，主题围绕文心一言。
-    - 科大讯飞学习机：科大讯飞表示，其生成式预训练大模型技术将率先落地于 AI 学习机产品，并将于 2023 年 5 月 6 日发布。
+    - 百度的文心一言：文心一言 (英文名:ERNIE Bot) 是百度基于文心大模型技术推出的生成式对话产品。
+    - 科大讯飞学习机：科大讯飞表示，其生成式预训练大模型技术将率先落地于 AI 学习机产品。
     - 京东 ChatJD：2023 年 2 月 10 日，京东宣布将推出产业版 ChatGPT: ChatJD
-    - 腾讯的混元助手：2023 年 2 月，腾讯针对类 ChatGPT 对话式产品已成立“混元助手 (HunyuanAide)”项目组，致力于开发腾讯对话式通用人工智能系统。
+    - 腾讯的混元助手：致力于开发腾讯对话式通用人工智能系统。
 
 ### 竞品：大语言模型
 
 - [LaMDA](https://blog.google/technology/ai/lamda/): **对话应用的语言模型**是一个由谷歌开发的对话大型语言模型系列。LaMDA 使用的是一个仅有解码器的变换器语言模型。
-- [LLaMA](https://github.com/facebookresearch/llama): 由 Meta AI，一个基础性的，650 亿参数的大型语言模型。LLaMA（大型语言模型 Meta AI）是一个最先进的基础性大型语言模型，旨在帮助研究人员推进他们在人工智能这个子领域的工作。像 LLaMA 这样较小的、性能较好的模型使研究界中没有机会使用大量基础设施的其他人能够研究这些模型，从而进一步使这一重要的、快速变化的领域中的访问民主化。
+- [LLaMA](https://github.com/facebookresearch/llama): 由 Meta AI开发，一个基础性的，650 亿参数的大型语言模型。旨在帮助研究人员推进他们在人工智能子领域的工作。
 - [Gopher](https://arxiv.org/abs/2112.11446) - 由 DeepMind 提供的 2800 亿参数的变换器语言模型，名为 Gopher，是一个基于自回归变换器的密集型 LLM。
 - [GLM](https://github.com/THUDM/GLM-130B) - GLM 是清华大学开发的通用语言模型。它使用自回归的空白填充目标进行预训练，并且可以在各种自然语言理解和生成任务上进行微调 1。GLM-130B 是 GLM 的开源双语（英文&中文）版本，拥有 1300 亿个参数，为拥有单个 A100 或 V100 服务器的用户设计 23。
 - [GPT-NeoXT-Chat-Base-20B](https://huggingface.co/togethercomputer/GPT-NeoXT-Chat-Base-20B) 一个可以进行聊天和图片生成的开源语言模型。
-- [BLOOM](https://huggingface.co/bigscience/bloom) - BLOOM 是 BigScience 的一个自回归大型语言模型（LLM），经过训练，可以利用工业规模的计算资源，从大量的文本数据中延续提示的文本。因此，它能够输出 46 种语言和 13 种编程语言的连贯文本，与人类书写的文本几乎没有区别。BLOOM 也可以被指示执行它没有被明确训练过的文本任务，把它们作为文本生成任务。
+- [BLOOM](https://huggingface.co/bigscience/bloom) - BLOOM 是 BigScience 的一个自回归大型语言模型（LLM），经过训练，可以利用工业规模的计算资源，从大量的文本数据中延续提示的文本。
 - [OPT]((https://arxiv.org/pdf/2205.01068)) - 利用元人工智能技术，在开放式预训变压器语言模型中提出了 OPT 模型。OPT 是一系列开源的大型因果语言模型，其性能与 GPT3 相似。
 
 ### 行研报告
@@ -272,11 +275,11 @@
 - 2023 [Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models](https://arxiv.org/abs/2303.04671)
 
 
-## Contribute
+## 贡献
 
 欢迎增补！请先阅读 [contribution guidelines](CONTRIBUTING.zh-cn.md)，在 Fork 本仓库后提交 Pull Request。
 
-## Contributors
+## 贡献者
 
 感谢所有贡献者（排名不分先后，按首字母排序）。
 
@@ -286,15 +289,15 @@
 - [边心竹](https://reading.zhubai.love/) - [@bxz400](https://github.com/bxz400)
 - [郑嘻嘻](https://github.com/zhengxixuan) - [@zhengxixuan](https://github.com/zhengxixuan)
 
-## Contact
+## 联系
 
 请使用 GitHub [Issues](https://github.com/OpenMindClub/awesome-chatgpt/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc) 来联系我们。
 
-## Credits
+## 致谢
 
 感谢[阳志平老师](https://www.yangzhiping.com/)以及[开智学堂](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzA4ODM4ODQ3MQ==#wechat_redirect)对本项目的大力支持。
 
-## License
+## 许可
 
 [![CC0][CC0-badge]][CC0-link]
 
