@@ -1,16 +1,27 @@
-# Node rules:
-## Grunt intermediate storage (http://gruntjs.com/creating-plugins#storing-task-files)
-.grunt
+# gitignore
 
-## Dependency directory
-## Commenting this out is preferred by some people, see
-## https://docs.npmjs.com/misc/faq#should-i-check-my-node_modules-folder-into-git
-node_modules
+# macOS
+._*
+.AppleDouble
+.DS_Store
+.localized
+.LSOverride
+.Spotlight-V100
+.Trashes
+
+# Windows
+Desktop.ini
+ehthumbs.db
+Thumbs.db
+
+# VS Code
+.vscode
+
+# Vercel
+.vercel
 
 # Book build output
-_book
-
-# eBook build output
+book/
 *.epub
 *.mobi
 *.pdf
