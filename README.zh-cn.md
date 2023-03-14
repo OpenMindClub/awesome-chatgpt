@@ -81,7 +81,7 @@
 ### OpenAI产品等
 - [OpenAI](https://openai.com/) - OpenAI 的主页。
 - [OpenAI Product](https://openai.com/product) - 本页展示了 OpenAI 提供的产品，如 GPT 模型、DALL-E 2 和 Whisper。
-- [OpenAI API Documentation](https://platform.openai.com/docs) - OpenAI API 的文档，它提供了关于 API 的基本概念、模型、端点和应用的详细信息。它还包含一些教程，教你如何使用该 API 构建真正的人工智能应用。这个页面是学习和使用 OpenAI API 的重要资源。
+- [OpenAI API Documentation](https://platform.openai.com/docs) - OpenAI API 的文档，是学习和使用 OpenAI API 的重要资源。
 - [New Bing](https://www.bing.com/new): New Bing 是微软开发的新一代搜索引擎，基于 OpenAI 的大型语言模型，能够提供智能聊天、创意和助手功能。
 - [ChatGPT blog](https://openai.com/blog/chatgpt/) - 这是 OpenAI 官方博客上的一篇介绍 ChatGPT 的文章。
 
@@ -109,7 +109,7 @@
 - [sharegpt-google](https://chrome.google.com/webstore/detail/sharegpt-share-your-chatg/daiacboceoaocpibfodeljbdfacokfjb) - 分享 ChatGPT 问答过程给其余人，可生成链接、图片、pdf 等多种格式。
 - [chatgpt-writer-google](https://chrome.google.com/webstore/detail/chatgpt-writer-write-mail/pdnenlnelpdomajfejgapbdpmjkfpjkp) - 使用 ChatGPT AI 生成完整的电子邮件和消息。
 - [chatgpt-prompt-genius-google](https://chrome.google.com/webstore/detail/chatgpt-prompt-genius/jjdnakkfjnnbbckhifcfchagnpofjffo) - 发现、分享、导入和使用最适合 ChatGPT 的提示词。
-- [ChatGPT for Google](https://chrome.google.com/webstore/detail/chatgpt-for-google/jgjaeacdkonaoafenlfkkkmbaopkbilf) - 搜索引擎页面直接显示 ChatGPT 的答案，支持 Google, Baidu, Bing, DuckDuckGo, Brave, Yahoo, Naver, Yandex, Kagi, Searx 这些浏览器。
+- [ChatGPT for Google](https://chrome.google.com/webstore/detail/chatgpt-for-google/jgjaeacdkonaoafenlfkkkmbaopkbilf) - 搜索引擎页面直接显示 ChatGPT 的答案。
 - [AIPRM for ChatGPT](https://chrome.google.com/webstore/detail/aiprm-for-chatgpt/ojnbohmppadfgpejeebfnmnknjdlckgj/related) - [AIPRM](https://www.aiprm.com/) 是一款拥有多个 Prompt Templates 以及可自定义 Prompt Templates 工具。
 - [immersive-translator](https://microsoftedge.microsoft.com/addons/detail/%E6%B2%89%E6%B5%B8%E5%BC%8F%E7%BF%BB%E8%AF%91/amkbmndfnliijdhojkpoglbnaaahippg?hl=zh-CN) - 结合 ChatGPT 的 API，翻译文本。
 
@@ -141,7 +141,7 @@
 - [ChatGPT 101: Learn ChatGPT Prompts & ChatGPT Smart Tips](https://www.udemy.com/course/trend-spotter/) - 你将学习如何通过 ChatGPT 的提示和命令实现任务自动化，产生想法，并简化你的工作流程。你还将从案例研究和专家那里了解人工智能对社会和未来工作的影响。
 - [ChatGPT: Complete ChatGPT Course For Work 2023 (Ethically)](https://www.udemy.com/course/chatgpt-complete-chatgpt-course-for-work-2023-ethically-chat-gpt/) - 你将学习如何使用 ChatGPT 来生成内容，自动化流程，有效沟通，并就不同的主题进行教育。
 - [ChatGPT Masterclass: Smart Tips & ChatGPT Insights & Future](https://www.udemy.com/course/chatgpt-masterclass-smart-tips-insights/) - 在本课程中，您将学习如何提高您的 ChatGPT 提示技能，。此外，本课程还将教您 ChatGPT 的背景、发展、道德、应用和未来。
-- [ChatGPT Masterclass - Build Solutions and Apps with ChatGPT](https://www.udemy.com/course/chatgpt-build-solutions-and-apps-with-chatgpt-and-openai/) - 本课程教你如何用 OpenAI 和 ChatGPT 构建应用程序和解决方案，采用无代码的方法。您将学习如何将 ChatGPT 整合到 Outlook、Power Apps、Bubble 等平台，并创建四个真实的项目。不需要任何编程经验。
+- [ChatGPT Masterclass - Build Solutions and Apps with ChatGPT](https://www.udemy.com/course/chatgpt-build-solutions-and-apps-with-chatgpt-and-openai/) - 本课程教你如何用 OpenAI 和 ChatGPT 构建应用程序和解决方案，采用无代码的方法。
 - [ChatGPT for Programmers: Build Python Apps in Seconds](https://www.udemy.com/course/chatgpt-for-programmers/) - 本课程教你如何使用 ChatGPT 在 Python 或其他编程语言中构建应用程序，修复错误，并使你的工作流程自动化。
 - More Courses: [Udemy → ChatGPT](https://www.udemy.com/courses/search/?src=ukw&q=ChatGPT)
 
@@ -169,26 +169,26 @@
 
 ### OpenAI 投资者
 
-- Pre Seed Round: Y Combinator
-- Seed Round: Reid Hoffman Foundation
-- Seed Round: Khosla Ventures
-- Corporate Round: Microsoft
-- Second Market: Tiger Global Management
-- Second Market: Andreessen Horowitz
-- Second Market: Sequoia Capital
-- Second Market: Bedrock Capital
-- Second Market: Matthew Brown Companies
-- Corporate Round: Microsoft
+- Pre Seed轮：Y Combinator（创业孵化器）
+- 种子轮：Reid Hoffman Foundation（莱德·霍夫曼基金会）
+- 种子轮：Khosla Ventures（卡斯拉风投）
+- 企业轮：Microsoft（微软）
+- 二级市场：Tiger Global Management（老虎环球管理）
+- 二级市场：Andreessen Horowitz（安德森·霍洛维茨）
+- 二级市场：Sequoia Capital（红杉资本）
+- 二级市场：Bedrock Capital（基石资本）
+- 二级市场：Matthew Brown Companies（马修·布朗公司）
+- 企业轮：Microsoft（微软）。
 
 ### OpenAI 投资的公司
 
-- [edgedb](https://www.edgedb.com/) - EdgeDB 是第一个开源图形关系型数据库的开发者。EdgeDB 正在重塑关系型数据库栈。通过精简的数据模型和强大的查询语言，让开发者和数据工程师在处理数据时变得富有成效、愉快和高效。
-- [Descript](https://www.descript.com/) - Descript 是一个协作式音频和视频编辑器，可将音频转录到文本文件中进行编辑。它还为语音音频文件提供自动和手动转录解决方案。此外，该平台利用语音识别技术，在短时间内转录音频和视频文件。
+- [edgedb](https://www.edgedb.com/) - EdgeDB 是一个开源数据库，旨在作为 SQL 和关系范式的精神继承者。它旨在解决一些使现有数据库不必要地繁重使用的硬设计问题。
+- [Descript](https://www.descript.com/) - Descript 是一个协作式音频和视频编辑器，可将音频转录到文本文件中进行编辑。
 - [Ambience Healthcare](https://www.ambiencehealthcare.com/) - Ambience AutoScribe 是一款全自动的人工智能医疗抄写员，它能实时捕捉医疗机构与患者对话的细微差别，并将其纳入 EMR 工作流程。
 
 ### OpenAI 支持的公司
 
-- [Virtuzone](https://launchpad.vz.ae/) - 推出 SWYFT 计划，这是一个由 OpenAI 的 ChatGPT 支持的自动商业计划生成器，允许用户在 10 分钟内生成一个完整的商业计划。
+- [Virtuzone](https://launchpad.vz.ae/) - 阿联酋领先的公司成立专家和屡获殊荣的企业服务提供商，推出 SWYFT 计划，这是一个由 OpenAI 的 ChatGPT 支持的自动商业计划生成器，允许用户在 10 分钟内生成一个完整的商业计划。
 
 ### OpenAI 生态/产品矩阵
 
@@ -209,7 +209,7 @@
 
 - [OpenChatKit](https://github.com/togethercomputer/OpenChatKit) - 一个类 ChatGPT 开源工具包，基于 EleutherAI 的 GPT-NeoX-20B，内含一个 20B 参数量的大模型，而且该模型在 4300 万条指令上进行了微调。
 - [Jasper Chat](https://www.jasper.ai/chat) - Jasper AI 生态中的一项功能，与 ChatGPT 不同的是，它是付费服务。
-- [Character ai](https://beta.character.ai/) - 和 ChatGPT 不一样的是，它对聊天的对象（也就是机器人）有很多细分领域，在不同的领域你都可以找到聊天机器人，比如名人、游戏或者电影里的角色。所有人都来参与创建，而不是完全自行创建并训练模型！
+- [Character ai](https://beta.character.ai/) - 和 ChatGPT 不一样的是，它对聊天的对象（也就是机器人）有很多细分领域。所有人都来参与创建，而不是完全自行创建并训练模型！
 - [Poe](https://quorablog.quora.com/Poe-1) - Quora 推出的一个类似 ChatGPT 的对话机器人，整合各家 AI 模型推出的一款产品。
 - [Bard](https://blog.google/technology/ai/bard-google-ai-search-updates/) - 谷歌推出的对话机器人。Bard 构建于 LaMDA 模型的基础上，相较于 ChatGPT，Bard 可以检索网页，从而能够回答有关最近发生事件的问题。
 - [YouChat](https://you.com/search?q=who+are+you&tbm=youchat&cfr=chat) - 由 You.com 推出的聊天机器人，是一款基于 GPT-3 的可用于编写电子邮件和其他文档的文本生成器。相较于 ChatGPT，YouChat 的回复中会带有引用，进而可以帮助用户追踪每条信息的来源。
@@ -227,7 +227,7 @@
 - [LaMDA](https://blog.google/technology/ai/lamda/): **对话应用的语言模型**是一个由谷歌开发的对话大型语言模型系列。LaMDA 使用的是一个仅有解码器的变换器语言模型。
 - [LLaMA](https://github.com/facebookresearch/llama): 由 Meta AI开发，一个基础性的，650 亿参数的大型语言模型。旨在帮助研究人员推进他们在人工智能子领域的工作。
 - [Gopher](https://arxiv.org/abs/2112.11446) - 由 DeepMind 提供的 2800 亿参数的变换器语言模型，名为 Gopher，是一个基于自回归变换器的密集型 LLM。
-- [GLM](https://github.com/THUDM/GLM-130B) - GLM 是清华大学开发的通用语言模型。它使用自回归的空白填充目标进行预训练，并且可以在各种自然语言理解和生成任务上进行微调 1。GLM-130B 是 GLM 的开源双语（英文&中文）版本，拥有 1300 亿个参数，为拥有单个 A100 或 V100 服务器的用户设计 23。
+- [GLM](https://github.com/THUDM/GLM-130B) - GLM 是清华大学开发的通用语言模型。GLM-130B 是 GLM 的开源双语（英文&中文）版本，拥有 1300 亿个参数，为拥有单个 A100 或 V100 服务器的用户设计。
 - [GPT-NeoXT-Chat-Base-20B](https://huggingface.co/togethercomputer/GPT-NeoXT-Chat-Base-20B) 一个可以进行聊天和图片生成的开源语言模型。
 - [BLOOM](https://huggingface.co/bigscience/bloom) - BLOOM 是 BigScience 的一个自回归大型语言模型（LLM），经过训练，可以利用工业规模的计算资源，从大量的文本数据中延续提示的文本。
 - [OPT]((https://arxiv.org/pdf/2205.01068)) - 利用元人工智能技术，在开放式预训变压器语言模型中提出了 OPT 模型。OPT 是一系列开源的大型因果语言模型，其性能与 GPT3 相似。
