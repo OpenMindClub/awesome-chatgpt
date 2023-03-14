@@ -1,0 +1,28 @@
+{
+  // https://github.com/DavidAnson/markdownlint/blob/main/schema/.markdownlint.jsonc
+  // MD004/ul-style - Unordered list style
+  "MD004": false,
+  // MD007/ul-indent - Unordered list indentation
+  // "MD007": {
+  //   "indent": 4
+  // },
+  "MD007": false,
+  // MD010/no-hard-tabs - Hard tabs
+  "MD010": false,
+  // MD013/line-length - Line length
+  "MD013": false,
+  // MD018/no-missing-space-atx - No space after hash on atx style heading
+  "MD018": false,
+  // MD025/single-title/single-h1 - Multiple top-level headings in the same document
+  "MD025": false,
+  // MD026/no-trailing-punctuation - Trailing punctuation in heading
+  "MD026": false,
+  // MD033/no-inline-html - Inline HTML
+  "MD033": false,
+  // MD034/no-bare-urls - Bare URL used
+  "MD034": false,
+  // MD041/first-line-heading/first-line-h1 - First line in a file should be a top-level heading
+  "MD041": false,
+  // MD045/no-alt-text - Images should have alternate text (alt text)
+  "MD045": false
+}
