@@ -37,6 +37,7 @@
     - [行研报告](#行研报告)
 - [学术分析](#学术分析)
     - [关键术语对照表](#关键术语对照表)
+    - [GPT-4 的技术原理](#GPT-4 的技术原理)
     - [ChatGPT 的技术原理](#chatgpt-的技术原理)
     - [Prompt engineering 的最近进展](#prompt-engineering-的最近进展)
     - [LLMs 的最新进展](#llms-的最新进展)
@@ -255,6 +256,10 @@
 - 强化学习 Reinforcement learning
 - 基于人类反馈的强化学习 Reinforcement Learning from Human Feedback (RLHF)
 
+### GPT-4 的技术原理
+- gpt-4-system-card
+- gpt-4-system-card（中文版）
+ awesome-chatgpt-papers https://www.aliyundrive.com/s/RenfDZjta8T 提取码: 5y6m
 ### ChatGPT 的技术原理
 
 - 2014 [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473) - 这篇论文在 RNN 中引入了注意力机制，提升 RNN 的长序列建模能力。这使得 RNN 能够更准确地翻译更长的句子。
