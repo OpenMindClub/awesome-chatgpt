@@ -37,7 +37,7 @@
     - [行研报告](#行研报告)
 - [学术分析](#学术分析)
     - [关键术语对照表](#关键术语对照表)
-    - [GPT-4 的技术原理](#GPT-4 的技术原理)
+    - [ChatGPT4 的技术原理](#ChatGPT4-的技术原理)
     - [ChatGPT 的技术原理](#chatgpt-的技术原理)
     - [Prompt engineering 的最近进展](#prompt-engineering-的最近进展)
     - [LLMs 的最新进展](#llms-的最新进展)
@@ -256,7 +256,7 @@
 - 强化学习 Reinforcement learning
 - 基于人类反馈的强化学习 Reinforcement Learning from Human Feedback (RLHF)
 
-### GPT-4 的技术原理
+### ChatGPT4 的技术原理
 - gpt-4-system-card
 - gpt-4-system-card（中文版）
  awesome-chatgpt-papers https://www.aliyundrive.com/s/RenfDZjta8T 提取码: 5y6m
