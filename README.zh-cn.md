@@ -56,6 +56,8 @@
 - [Awesome ChatGPT](https://github.com/humanloop/awesome-chatgpt) - ChatGPT 和 OpenAI 的 GPT-3 Awesome 清单。
 - [Awesome ChatGPT API](https://github.com/reorx/awesome-chatgpt-api/) - 精心策划的 API Awesome 清单，包含了最新的 ChatGPT API，允许用户自行配置 API 密钥，从而实现对其自身配额的免费和按需使用。
 - [Aihub](https://www.aihub.cn) - 发现、探索全球优秀好用的 AI 产品。
+- [Hera Chat-AI 网站导航](https://herachat.com/ai123) ChatGPT, AI Chat Bot, AIGC最前端新闻聚合。
+- [Find AI Tools Using AI ](https://theresanaiforthat.com/?message=subscribed) AI工具，每日更新。
 
 ### 原理
 
@@ -219,6 +221,7 @@
 - [YouChat](https://you.com/search?q=who+are+you&tbm=youchat&cfr=chat) - 由 You.com 推出的聊天机器人，是一款基于 GPT-3 的可用于编写电子邮件和其他文档的文本生成器。相较于 ChatGPT，YouChat 的回复中会带有引用，进而可以帮助用户追踪每条信息的来源。
 - [Perplexity AI](https://www.perplexity.ai/) - 核心是将大规模语言模型和搜索引擎结合来进行问答，通过连续对话的形式提供用户需要的答案。相较于 ChatGPT，Perplexity AI 能够提供信息的来源，但其答案的流畅度和完整度相较于 ChatGPT 略显逊色。
 - [MOSS](https://moss.fastnlp.top/) -可执行对话生成、编程、事实问答等一系列任务。
+- [ChatGLM](https://chatglm.cn/blog?continueFlag=af5320e8f778b996afe7697670864685) 这是一个初具问答和对话功能的千亿中英语言模型， 并针对中文进行了优化。
 - 中国企业正在研发的对话机器人
     - 百度文心一言：文心一言 (英文名:ERNIE Bot) 是百度基于文心大模型技术推出的生成式对话产品。
     - 科大讯飞学习机：科大讯飞表示，其生成式预训练大模型技术将率先落地于 AI 学习机产品。

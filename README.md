@@ -56,6 +56,8 @@
 - [Awesome ChatGPT](https://github.com/humanloop/awesome-chatgpt) - Curated list of resources for ChatGPT and GPT-3 from OpenAI.
 - [Awesome ChatGPT API](https://github.com/reorx/awesome-chatgpt-api/) - Curated list of apps and tools that not only use the new ChatGPT API, but also allow users to configure their own API keys, enabling free and on-demand usage of their own quota.
 - [Aihub](https://www.aihub.cn) - Discover and explore high-quality and user-friendly AI products worldwide.
+- [Hera Chat](https://herachat.com/ai123) The forefront of news aggregation about ChatGPT, AI Chat Bot, AIGC.
+- [Find AI Tools Using AI ](https://theresanaiforthat.com/?message=subscribed) AI tools.Updated daily.
 
 ### The Principles of ChatGPT
 
@@ -219,7 +221,8 @@
 - [YouChat](https://you.com/search?q=who+are+you&tbm=youchat&cfr=chat) - YouChat is a chatbot from You.com, founded by language and artificial intelligence expert Richard Socher, a GPT-3-based text generator for writing emails and other documents. In contrast to ChatGPT, YouChat's replies are cited, which in turn helps users track the source of each message.
 - [Perplexity AI](https://www.perplexity.ai/) - AI, which at its core combines a large-scale language model with a search engine to perform Q&A, providing users with the answers they need in the form of a continuous dialogue. Compared to ChatGPT, Perplexity AI is able to provide sources of information , but the fluency and completeness of its answers is slightly less than ChatGPT.
 - [MOSS](https://moss.fastnlp.top/) -Can perform a series of tasks such as dialogue generation, programming, fact answering, etc.
-- - [澜舟认知智能平台](https://langboat.com/technology/mengzi) Based on Mencius pre-training technology, unlock full-range AIGC capabilities such as text-image generation, literary assistance creation, marketing copywriting, paper assistance writing, etc.
+- [ChatGLM](https://chatglm.cn/blog?continueFlag=af5320e8f778b996afe7697670864685) This is a multibillion Chinese-English language model with basic question-and-answer and conversational capabilities, optimized for Chinese language.
+- [澜舟认知智能平台](https://langboat.com/technology/mengzi) Based on Mencius pre-training technology, unlock full-range AIGC capabilities such as text-image generation, literary assistance creation, marketing copywriting, paper assistance writing, etc.
 
 ### Competitors: LLMs
 
