@@ -232,8 +232,8 @@
 
 ### Research report
 
-- [230311 哈尔滨工业大学 ChatGPT 调研报告](assets/230311%20哈尔滨工业大学%20ChatGPT%20调研报告.pdf)
-- [230221 ChatGPT 团队背景研究报告](assets/230221%20ChatGPT%20团队背景研究报告.pdf)
+- [230311 哈尔滨工业大学 ChatGPT 调研报告](https://www.baogaoting.com/info/248610)
+- [230221 ChatGPT 团队背景研究报告](https://chatgpt.greedyai.com/forgeneral/什么是ChatGPT/ChatGPT团队背景研究报告/)
 - [ChatGPT 报告 70 份论文](https://www.aliyundrive.com/s/V94kCe9qQnC)
 
 ## Literature Analysis
