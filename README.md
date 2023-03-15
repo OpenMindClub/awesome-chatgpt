@@ -37,6 +37,7 @@
     - [Research report](#research-report)
 - [Literature Analysis](#literature-analysis)
     - [Glossary of Terms](#glossary-of-terms)
+    - [The technical principle of ChatGPT4](#the-technical-principle-of-chatgpt4)
     - [The technical principle of ChatGPT](#the-technical-principle-of-chatgpt)
     - [Recent advances in Prompt engineering](#recent-advances-in-prompt-engineering)
     - [Recent advances in LLMs](#recent-advances-in-llms)
@@ -249,6 +250,11 @@
 - Chain-of thought (COT)
 - Reinforcement learning
 - Reinforcement Learning from Human Feedback (RLHF)
+
+### The technical principle of ChatGPT4
+- gpt-4-system-card
+- gpt-4-system-card（Chinese Version）
+ awesome-chatgpt-papers https://www.aliyundrive.com/s/RenfDZjta8T 提取码: 5y6m
 
 ### The technical principle of ChatGPT
 
