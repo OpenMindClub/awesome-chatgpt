@@ -88,8 +88,9 @@
 - [OpenAI](https://openai.com/) - OpenAI 的主页。
 - [OpenAI Product](https://openai.com/product) - 本页展示了 OpenAI 提供的产品，如 GPT 模型、DALL-E 2 和 Whisper。
 - [OpenAI API Documentation](https://platform.openai.com/docs) - OpenAI API 的文档，是学习和使用 OpenAI API 的重要资源。
-- [New Bing](https://www.bing.com/new): New Bing 是微软开发的新一代搜索引擎，基于 OpenAI 的大型语言模型，能够提供智能聊天、创意和助手功能。
 - [ChatGPT blog](https://openai.com/blog/chatgpt/) - 这是 OpenAI 官方博客上的一篇介绍 ChatGPT 的文章。
+- [New Bing](https://www.bing.com/new): New Bing 是微软开发的新一代搜索引擎，基于 OpenAI 的大型语言模型，能够提供智能聊天、创意和助手功能。
+- [Microsoft 365 Copilot](https://blogs.microsoft.com/blog/2023/03/16/introducing-microsoft-365-copilot-your-copilot-for-work/)：微软发布的融合了大型语言模型（包括GPT-4）的Office全家桶
 
 ### 社交媒体
 
@@ -140,13 +141,13 @@
 
 - [The Ultimate Chat GPT Course](https://www.notion.so/69ed24a317a942d288e740419b1ad6f6) - 这个指导课程有 1000 多个资源，帮助你学习如何使用 ChatGPT 来提高你的生活。(免费！)
 - [Advanced ChatGPT: Full Guide:](https://www.notion.so/ac6aa68840bc427c83f4611dd2642f83) - 他的指南包括初级和高级 ChatGPT 教程，以及一些实用的技巧和例子。(免费！)
-- [ChatGPT Tutorial - A Crash Course on Chat GPT for Beginners:](https://www.youtube.com/watch?v=JTxsNm9IdYU) - 本视频解释了 ChatGPT 的基本概念和用法。你将学习如何使用 ChatGPT 生成各种类型的文本，如购物清单、JavaScript 代码、小故事、简历等。你还将了解 ChatGPT 的优势和局限性，以及如何使用它来创造有价值的内容。(免费！)
+- [ChatGPT Tutorial - A Crash Course on Chat GPT for Beginners:](https://www.youtube.com/watch?v=JTxsNm9IdYU) - 本视频解释了 ChatGPT 的基本概念和用法。你将学习如何使用 ChatGPT 生成各种类型的文本，如购物清单、JavaScript 代码、小故事、简历等。(免费！)
 - [Complete ChatGPT Tutorial - [Become A Power User in 30 Minutes]](https://www.youtube.com/watch?v=jHv63Uvk5VA) - 你可以学习 10 大类命令，让 ChatGPT 为你提供各种有用的信息和服务。(免费！)
-- [ChatGPT Tutorial for Developers - 38 Ways to 10x Your Productivity:](https://www.youtube.com/watch?v=sTeoEFzVNSc) - 学习如何使用 ChatGPT，使你的工作效率提高 10 倍！38 个 ChatGPT 实例，帮助你学习如何使用 Python、JavaScript、HTML、CSS、React、SQL 等。(免费！)
-- [ChatGPT Masterclass: A Complete ChatGPT Guide for Beginners](https://www.udemy.com/course/chatgpt-masterclass-a-complete-chatgpt-guide-for-beginners/) - 你将学习如何使用 ChatGPT 和 OpenAI 来创建各种类型的内容，如 SEO、电子商务、翻译、亚马逊和销售副本。你还将学习如何使用 OpenAI API 来创建应用程序和代码，以及如何使用 Dalle 来创建高质量的图片。
-- [ChatGPT 101: Learn ChatGPT Prompts & ChatGPT Smart Tips](https://www.udemy.com/course/trend-spotter/) - 你将学习如何通过 ChatGPT 的提示和命令实现任务自动化，产生想法，并简化你的工作流程。你还将从案例研究和专家那里了解人工智能对社会和未来工作的影响。
+- [ChatGPT Tutorial for Developers - 38 Ways to 10x Your Productivity:](https://www.youtube.com/watch?v=sTeoEFzVNSc) - 38 个 ChatGPT 实例，帮助你学习如何使用 Python、JavaScript、HTML、CSS、React、SQL 等。(免费！)
+- [ChatGPT Masterclass: A Complete ChatGPT Guide for Beginners](https://www.udemy.com/course/chatgpt-masterclass-a-complete-chatgpt-guide-for-beginners/) - 你将学习如何使用 ChatGPT 和 OpenAI 来创建各种类型的内容，你还将学习如何使用 OpenAI API 来创建应用程序和代码。
+- [ChatGPT 101: Learn ChatGPT Prompts & ChatGPT Smart Tips](https://www.udemy.com/course/trend-spotter/) - 你将学习如何通过 ChatGPT 的提示和命令实现任务自动化，产生想法，并简化你的工作流程。你还将了解人工智能对社会和未来工作的影响。
 - [ChatGPT: Complete ChatGPT Course For Work 2023 (Ethically)](https://www.udemy.com/course/chatgpt-complete-chatgpt-course-for-work-2023-ethically-chat-gpt/) - 你将学习如何使用 ChatGPT 来生成内容，自动化流程，有效沟通，并就不同的主题进行教育。
-- [ChatGPT Masterclass: Smart Tips & ChatGPT Insights & Future](https://www.udemy.com/course/chatgpt-masterclass-smart-tips-insights/) - 在本课程中，您将学习如何提高您的 ChatGPT 提示技能，。此外，本课程还将教您 ChatGPT 的背景、发展、道德、应用和未来。
+- [ChatGPT Masterclass: Smart Tips & ChatGPT Insights & Future](https://www.udemy.com/course/chatgpt-masterclass-smart-tips-insights/) - 您将学习如何提高您的 ChatGPT 提示技能。此外，本课程还将教您 ChatGPT 的背景、发展、道德、应用和未来。
 - [ChatGPT Masterclass - Build Solutions and Apps with ChatGPT](https://www.udemy.com/course/chatgpt-build-solutions-and-apps-with-chatgpt-and-openai/) - 本课程教你如何用 OpenAI 和 ChatGPT 构建应用程序和解决方案，采用无代码的方法。
 - [ChatGPT for Programmers: Build Python Apps in Seconds](https://www.udemy.com/course/chatgpt-for-programmers/) - 本课程教你如何使用 ChatGPT 在 Python 或其他编程语言中构建应用程序，修复错误，并使你的工作流程自动化。
 - More Courses: [Udemy → ChatGPT](https://www.udemy.com/courses/search/?src=ukw&q=ChatGPT)
