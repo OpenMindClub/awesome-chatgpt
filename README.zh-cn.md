@@ -191,6 +191,9 @@
 - [edgedb](https://www.edgedb.com/) - EdgeDB 是一个开源数据库，旨在作为 SQL 和关系范式的精神继承者。它旨在解决一些使现有数据库不必要地繁重使用的硬设计问题。
 - [Descript](https://www.descript.com/) - Descript 是一个协作式音频和视频编辑器，可将音频转录到文本文件中进行编辑。
 - [Ambience Healthcare](https://www.ambiencehealthcare.com/) - Ambience AutoScribe 是一款全自动的人工智能医疗抄写员，它能实时捕捉医疗机构与患者对话的细微差别，并将其纳入 EMR 工作流程。
+- [Harvey](https://www.harvey.ai/) - Harvey 是一个智能工具，能让法律工作中研究、起草、分析和沟通等繁琐的工作变得更轻松、更高效。
+- [Mem](https://get.mem.ai/) - Mem正在构建世界上第一个自组织工作空间，Mem通过消除组织和访问信息的单调乏味和苦差事来提高知识工作者的工作效率。
+- [Speak](https://www.speak.com/) - Speak 是一款帮助学习新语言的工作，主要是非英语国家学习英语。
 
 ### OpenAI 支持的公司
 

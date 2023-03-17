@@ -191,6 +191,10 @@
 - [edgedb](https://www.edgedb.com/) - EdgeDB is an open-source database designed as a spiritual successor to SQL and the relational paradigm. It aims to solve some hard design problems that make existing databases unnecessarily onerous to use.
 - [Descript](https://www.descript.com/) - Descript is a collaborative audio and video editor that transcribes audio to a text document for editing.
 - [Ambience Healthcare](https://www.ambiencehealthcare.com/) -  Ambience AutoScribe, is a fully automated AI medical scribe that captures the nuances of provider-patient conversation in real-time into a comprehensive note and seamlessly fits into EMR workflows.
+- [Harvey](https://www.harvey.ai/) - Harvey is developing an intuitive interface for all legal workflows through powerful generative language models. 
+- [Mem](https://get.mem.ai/) - Mem is building the world’s first self-organizing workspace.
+- [Speak](https://www.speak.com/) - Speak is on a mission to help more people become fluent in new languages, starting with English. 
+
 
 ### Companies supported by OpenAI
 
