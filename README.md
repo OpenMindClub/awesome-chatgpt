@@ -67,6 +67,7 @@
 
 ### Prompts
 
+- [Best practices for prompt engineering with OpenAI API](https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-openai-api)：OpenAI’s staff tell you how to give clear and effective instructions to GPT.
 - [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts) - This is a collection of prompt examples to be used with the ChatGPT model.
 - [ChatGPT 中文调教指南](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - This is a collection of Chinese prompt examples.
 - [ChatGPT Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut) - A quick reference table of ChatGPT shortcuts is divided by domain and function, allowing users to filter by tags, search by keywords, and copy with a single click to utilize prompts.Even beginners can simply copy the prompt phrases, make minor modifications, and send them to ChatGPT to obtain the desired output.

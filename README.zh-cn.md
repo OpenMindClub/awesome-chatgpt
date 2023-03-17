@@ -67,6 +67,7 @@
 
 ### 提示词
 
+- [Best practices for prompt engineering with OpenAI API](https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-openai-api)：OpenAI 员工告诉你如何给 GPT 清晰有效的指令。
 - [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts) - 这是与 ChatGPT 模型一起使用的提示例子的集合。
 - [ChatGPT 中文调教指南](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - 这是在 ChatGPT 中使用的提示词。
 - [ChatGPT Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut) - 根据领域和功能划分的 ChatGPT 快捷指令表，可通过标签筛选、关键词搜索和一键复制来使用提示词。
