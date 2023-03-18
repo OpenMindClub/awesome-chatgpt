@@ -156,6 +156,7 @@
 ### 中文视频
 
 - [ChatGPT 保姆级使用教程：注册、体验、底层逻辑原理解读！](https://www.bilibili.com/video/BV1HT411R7Lj/) ChatGPT 介绍，偏底技术，偏底层原理。
+- [【渐构】万字科普ChatGPT-4为什么会颠覆人类社会](https://www.bilibili.com/video/BV1MY4y1R7EN/?spm_id_from=333.880.my_history.page.click&vd_source=6faef52e732ccc3a4a525fe406ce9808): 视频前25分钟深入浅出的讲解了GPT原理
 
 ### 英文图文
 

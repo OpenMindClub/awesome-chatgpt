@@ -156,6 +156,7 @@
 ### Chinese-Videos
 
 - [ChatGPT 保姆级使用教程：注册、体验、底层逻辑原理解读！](https://www.bilibili.com/video/BV1HT411R7Lj/) ChatGPT introduction, biased bottom technology, biased bottom layer principle.
+- [【渐构】万字科普ChatGPT-4为什么会颠覆人类社会](https://www.bilibili.com/video/BV1MY4y1R7EN/?spm_id_from=333.880.my_history.page.click&vd_source=6faef52e732ccc3a4a525fe406ce9808):In the first 25 minutes of the video, it explained the principle of GPT in a simple and easy-to-understand way.
 
 ### English-Graphic-and-Textual
 
