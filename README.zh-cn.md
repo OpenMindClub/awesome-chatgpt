@@ -64,6 +64,7 @@
 - [What Is ChatGPT Doing and Why Does It Work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/) - WolframAlpha 之父 Stephen Wolfram 写的一篇讲 ChatGPT 原理的长文。
 - [深度学习论文精读](https://github.com/mli/paper-reading) - 李沐的深度学习论文精读资源合集。
 - [OpenAI Research index](https://openai.com/research) - 本页是 OpenAI 关于人工智能各种主题的研究论文列表。
+- [HellaSwag (rowanzellers.com)](https://rowanzellers.com/hellaswag/)   [Can a Machine Really Finish Your Sentence?](https://github.com/rowanz/hellaswag)   AI是否具备人类常识？数据集下载地址以及各个大模型的得分
 
 ### 提示词
 
@@ -109,6 +110,8 @@
 - [arc53/DocsGPT](https://github.com/arc53/docsgpt) -打造你的专属知识库。
 - [GanymedeNil/document.ai](https://github.com/GanymedeNil/document.ai) - 基于向量数据库与 GPT-3.5 的通用本地知识库方案。
 - [yihong0618/bilingual_book_maker](https://github.com/yihong0618/bilingual_book_maker) - 使用 OpenAI API 翻译 EPUB 电子书。
+- https://github.com/kaixindelele/ChatPaper ChatPaper是一款论文总结工具。AI用一分钟总结论文，用户用一分钟阅读AI总结的论文。
+- https://github.com/yetone/bob-plugin-openai-translator bob的翻译插件
 
 ### 浏览器插件
 
@@ -118,6 +121,7 @@
 - [ChatGPT for Google](https://chrome.google.com/webstore/detail/chatgpt-for-google/jgjaeacdkonaoafenlfkkkmbaopkbilf) - 搜索引擎页面直接显示 ChatGPT 的答案。
 - [AIPRM for ChatGPT](https://chrome.google.com/webstore/detail/aiprm-for-chatgpt/ojnbohmppadfgpejeebfnmnknjdlckgj/related) - [AIPRM](https://www.aiprm.com/) 是一款拥有多个 Prompt Templates 以及可自定义 Prompt Templates 工具。
 - [immersive-translator](https://microsoftedge.microsoft.com/addons/detail/%E6%B2%89%E6%B5%B8%E5%BC%8F%E7%BF%BB%E8%AF%91/amkbmndfnliijdhojkpoglbnaaahippg?hl=zh-CN) - 结合 ChatGPT 的 API，翻译文本。
+- https://www.fluentify.io/ Fluentify是一个免费的开源的“网页协作工具”。它不像ChatGPT，不需要聊天或切换页面，也不需要复制和粘贴。只需选择文本，其他一切都会自动完成。
 
 ### App
 
@@ -133,6 +137,7 @@
 - [Perplexity AI](https://www.perplexity.ai/) - 核心是将大规模语言模型和搜索引擎结合来进行问答，通过连续对话的形式提供用户需要的答案。相较于 ChatGPT，Perplexity AI 能够提供信息的来源，但其答案的流畅度和完整度相较于 ChatGPT 略显逊色。
 - [Chat Simplifier](https://chat-simplifier.imzbb.cc/zh) - 国人开发，聊天简化器，提取对话重点。
 - [PandaGPT](https://www.pandagpt.io/) - 辅助阅读 PDF，自动回答问题。
+- [ChatMind](https://www.chatmind.tech/) - 输入问题文章/数据，一键生成思维导图，支持上下文改写扩充对话。
 
 ## 教程
 
@@ -195,6 +200,7 @@
 ### OpenAI 支持的公司
 
 - [Virtuzone](https://launchpad.vz.ae/) - 阿联酋领先的公司成立专家和屡获殊荣的企业服务提供商，推出 SWYFT 计划，这是一个由 OpenAI 的 ChatGPT 支持的自动商业计划生成器，允许用户在 10 分钟内生成一个完整的商业计划。
+- https://openai.com/product/gpt-4 我们和一些正在使用GPT-4构建创新产品的组织合作。
 
 ### OpenAI 生态与产品矩阵
 
@@ -259,11 +265,13 @@
 - 强化学习 Reinforcement learning
 - 基于人类反馈的强化学习 Reinforcement Learning from Human Feedback (RLHF)
 
-### ChatGPT4 的技术原理
+### ChatGPT4的技术原理
+
 - gpt-4-system-card
 - gpt-4-system-card（中文版）
- awesome-chatgpt-papers https://www.aliyundrive.com/s/RenfDZjta8T 提取码: 5y6m
-### ChatGPT 的技术原理
+- awesome-chatgpt-papers https://www.aliyundrive.com/s/RenfDZjta8T 提取码: 5y6m
+
+### ChatGPT的技术原理
 
 - 2014 [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473) - 这篇论文在 RNN 中引入了注意力机制，提升 RNN 的长序列建模能力。这使得 RNN 能够更准确地翻译更长的句子。
 - 2017 [Attention Is All You Need](https://arxiv.org/abs/1706.03762) - 这篇论文介绍了原始的 Transformer 的结构，是 Transformer 系列的基础。

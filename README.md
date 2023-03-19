@@ -64,6 +64,7 @@
 - [What Is ChatGPT Doing and Why Does It Work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/) - A long article on the principles of ChatGPT written by Stephen Wolfram, the father of WolframAlpha.
 - [深度学习论文精读](https://github.com/mli/paper-reading) - A collection of intensive reading resources for deep learning papers by Mu Li.
 - [OpenAI Research index](https://openai.com/research) - This page is a list of OpenAI’s research papers on various topics in artificial intelligence.
+- [HellaSwag (rowanzellers.com)](https://rowanzellers.com/hellaswag/)   [Can a Machine Really Finish Your Sentence?](https://github.com/rowanz/hellaswag)   Does AI have human common sense?The dataset download address and the scores of each large model.
 
 ### Prompts
 
@@ -109,6 +110,8 @@
 - [arc53/DocsGPT](https://github.com/arc53/docsgpt) - DocsGPT is a cutting-edge open-source solution that streamlines the process of finding information in project documentation.
 - [GanymedeNil/document.ai](https://github.com/GanymedeNil/document.ai) - A universal local knowledge base solution based on vector database and GPT-3.5.
 - [yihong0618/bilingual_book_maker](https://github.com/yihong0618/bilingual_book_maker) - Translate EPUB eBooks using the OpenAI API.
+- https://github.com/kaixindelele/ChatPaper ChatPaper is a paper summary tool. AI summarizes papers in one minute, and users read AI-summarized papers in one minute. 
+- https://github.com/yetone/bob-plugin-openai-translator Bob’s translation plugin, calling api.
 
 ### Chrome Extensions
 
@@ -118,6 +121,7 @@
 - [ChatGPT for Google](https://chrome.google.com/webstore/detail/chatgpt-for-google/jgjaeacdkonaoafenlfkkkmbaopkbilf) - You can have search engine pages directly display ChatGPT's answers.
 - [AIPRM for ChatGPT](https://chrome.google.com/webstore/detail/aiprm-for-chatgpt/ojnbohmppadfgpejeebfnmnknjdlckgj/related) - [AIPRM](https://www.aiprm.com/) is a tool with multiple Prompt Templates and customizable Prompt Templates. It is a tool that ranks second when searching for ChatGPT directly in Google Chrome.
 - [immersive-translator](https://microsoftedge.microsoft.com/addons/detail/%E6%B2%89%E6%B5%B8%E5%BC%8F%E7%BF%BB%E8%AF%91/amkbmndfnliijdhojkpoglbnaaahippg?hl=zh-CN) - Translation add-on using the OpenAI API.
+- https://www.fluentify.io/ Fluentify is a free and open-source “Copilot for the web”.Unlike ChatGPT, there’s no need to chat or switch pages, and you don’t have to copy and paste. Just select the text and everything else is done automatically.
 
 ### App
 
@@ -133,6 +137,7 @@
 - [Perplexity AI](https://www.perplexity.ai/) - Perplexity.AI combines large-scale language models and search engines to provide answers to users' needs through continuous dialogue. Compared to ChatGPT, Perplexity AI can provide the sources of information , but its answer fluency and completeness are slightly inferior to ChatGPT.
 - [Chat Simplifier](https://chat-simplifier.imzbb.cc/zh) - Chat simplifier, extracts key points from conversations.
 - [PandaGPT](https://www.pandagpt.io/) - Assist in reading PDFs and automatically answering questions.
+- [ChatMind](https://www.chatmind.tech/)  Input question article/data, one-click generate mind map, support context rewriting and expansion dialogue.
 
 ## Courses
 
@@ -195,6 +200,7 @@
 ### Companies supported by OpenAI
 
 - [Virtuzone](https://launchpad.vz.ae/) - The UAE's leading Company Formation Specialists and award-winning corporate services provider,launching SWYFT Plan  which is an automated business plan builder powered by OpenAI's ChatGPT to allow users to generate a complete business plan in less than 10 minutes.
+- https://openai.com/product/gpt-4 We’ve collaborated with organizations building innovative products with GPT-4.
 
 ### OpenAI Products
 
@@ -255,6 +261,7 @@
 - Reinforcement Learning from Human Feedback (RLHF)
 
 ### The technical principle of ChatGPT4
+
 - gpt-4-system-card
 - gpt-4-system-card（Chinese Version）
  awesome-chatgpt-papers https://www.aliyundrive.com/s/RenfDZjta8T 提取码: 5y6m
