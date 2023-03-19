@@ -68,6 +68,7 @@
 
 ### 提示词
 
+- [Best practices for prompt engineering with OpenAI API](https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-openai-api)：OpenAI 员工告诉你如何给 GPT 清晰有效的指令。
 - [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts) - 这是与 ChatGPT 模型一起使用的提示例子的集合。
 - [ChatGPT 中文调教指南](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - 这是在 ChatGPT 中使用的提示词。
 - [ChatGPT Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut) - 根据领域和功能划分的 ChatGPT 快捷指令表，可通过标签筛选、关键词搜索和一键复制来使用提示词。
@@ -89,8 +90,9 @@
 - [OpenAI](https://openai.com/) - OpenAI 的主页。
 - [OpenAI Product](https://openai.com/product) - 本页展示了 OpenAI 提供的产品，如 GPT 模型、DALL-E 2 和 Whisper。
 - [OpenAI API Documentation](https://platform.openai.com/docs) - OpenAI API 的文档，是学习和使用 OpenAI API 的重要资源。
-- [New Bing](https://www.bing.com/new): New Bing 是微软开发的新一代搜索引擎，基于 OpenAI 的大型语言模型，能够提供智能聊天、创意和助手功能。
 - [ChatGPT blog](https://openai.com/blog/chatgpt/) - 这是 OpenAI 官方博客上的一篇介绍 ChatGPT 的文章。
+- [New Bing](https://www.bing.com/new): New Bing 是微软开发的新一代搜索引擎，基于 OpenAI 的大型语言模型，能够提供智能聊天、创意和助手功能。
+- [Microsoft 365 Copilot](https://blogs.microsoft.com/blog/2023/03/16/introducing-microsoft-365-copilot-your-copilot-for-work/)：微软发布的融合了大型语言模型（包括GPT-4）的Office全家桶
 
 ### 社交媒体
 
@@ -145,13 +147,13 @@
 
 - [The Ultimate Chat GPT Course](https://www.notion.so/69ed24a317a942d288e740419b1ad6f6) - 这个指导课程有 1000 多个资源，帮助你学习如何使用 ChatGPT 来提高你的生活。(免费！)
 - [Advanced ChatGPT: Full Guide:](https://www.notion.so/ac6aa68840bc427c83f4611dd2642f83) - 他的指南包括初级和高级 ChatGPT 教程，以及一些实用的技巧和例子。(免费！)
-- [ChatGPT Tutorial - A Crash Course on Chat GPT for Beginners:](https://www.youtube.com/watch?v=JTxsNm9IdYU) - 本视频解释了 ChatGPT 的基本概念和用法。你将学习如何使用 ChatGPT 生成各种类型的文本，如购物清单、JavaScript 代码、小故事、简历等。你还将了解 ChatGPT 的优势和局限性，以及如何使用它来创造有价值的内容。(免费！)
+- [ChatGPT Tutorial - A Crash Course on Chat GPT for Beginners:](https://www.youtube.com/watch?v=JTxsNm9IdYU) - 本视频解释了 ChatGPT 的基本概念和用法。你将学习如何使用 ChatGPT 生成各种类型的文本，如购物清单、JavaScript 代码、小故事、简历等。(免费！)
 - [Complete ChatGPT Tutorial - [Become A Power User in 30 Minutes]](https://www.youtube.com/watch?v=jHv63Uvk5VA) - 你可以学习 10 大类命令，让 ChatGPT 为你提供各种有用的信息和服务。(免费！)
-- [ChatGPT Tutorial for Developers - 38 Ways to 10x Your Productivity:](https://www.youtube.com/watch?v=sTeoEFzVNSc) - 学习如何使用 ChatGPT，使你的工作效率提高 10 倍！38 个 ChatGPT 实例，帮助你学习如何使用 Python、JavaScript、HTML、CSS、React、SQL 等。(免费！)
-- [ChatGPT Masterclass: A Complete ChatGPT Guide for Beginners](https://www.udemy.com/course/chatgpt-masterclass-a-complete-chatgpt-guide-for-beginners/) - 你将学习如何使用 ChatGPT 和 OpenAI 来创建各种类型的内容，如 SEO、电子商务、翻译、亚马逊和销售副本。你还将学习如何使用 OpenAI API 来创建应用程序和代码，以及如何使用 Dalle 来创建高质量的图片。
-- [ChatGPT 101: Learn ChatGPT Prompts & ChatGPT Smart Tips](https://www.udemy.com/course/trend-spotter/) - 你将学习如何通过 ChatGPT 的提示和命令实现任务自动化，产生想法，并简化你的工作流程。你还将从案例研究和专家那里了解人工智能对社会和未来工作的影响。
+- [ChatGPT Tutorial for Developers - 38 Ways to 10x Your Productivity:](https://www.youtube.com/watch?v=sTeoEFzVNSc) - 38 个 ChatGPT 实例，帮助你学习如何使用 Python、JavaScript、HTML、CSS、React、SQL 等。(免费！)
+- [ChatGPT Masterclass: A Complete ChatGPT Guide for Beginners](https://www.udemy.com/course/chatgpt-masterclass-a-complete-chatgpt-guide-for-beginners/) - 你将学习如何使用 ChatGPT 和 OpenAI 来创建各种类型的内容，你还将学习如何使用 OpenAI API 来创建应用程序和代码。
+- [ChatGPT 101: Learn ChatGPT Prompts & ChatGPT Smart Tips](https://www.udemy.com/course/trend-spotter/) - 你将学习如何通过 ChatGPT 的提示和命令实现任务自动化，产生想法，并简化你的工作流程。你还将了解人工智能对社会和未来工作的影响。
 - [ChatGPT: Complete ChatGPT Course For Work 2023 (Ethically)](https://www.udemy.com/course/chatgpt-complete-chatgpt-course-for-work-2023-ethically-chat-gpt/) - 你将学习如何使用 ChatGPT 来生成内容，自动化流程，有效沟通，并就不同的主题进行教育。
-- [ChatGPT Masterclass: Smart Tips & ChatGPT Insights & Future](https://www.udemy.com/course/chatgpt-masterclass-smart-tips-insights/) - 在本课程中，您将学习如何提高您的 ChatGPT 提示技能，。此外，本课程还将教您 ChatGPT 的背景、发展、道德、应用和未来。
+- [ChatGPT Masterclass: Smart Tips & ChatGPT Insights & Future](https://www.udemy.com/course/chatgpt-masterclass-smart-tips-insights/) - 您将学习如何提高您的 ChatGPT 提示技能。此外，本课程还将教您 ChatGPT 的背景、发展、道德、应用和未来。
 - [ChatGPT Masterclass - Build Solutions and Apps with ChatGPT](https://www.udemy.com/course/chatgpt-build-solutions-and-apps-with-chatgpt-and-openai/) - 本课程教你如何用 OpenAI 和 ChatGPT 构建应用程序和解决方案，采用无代码的方法。
 - [ChatGPT for Programmers: Build Python Apps in Seconds](https://www.udemy.com/course/chatgpt-for-programmers/) - 本课程教你如何使用 ChatGPT 在 Python 或其他编程语言中构建应用程序，修复错误，并使你的工作流程自动化。
 - More Courses: [Udemy → ChatGPT](https://www.udemy.com/courses/search/?src=ukw&q=ChatGPT)
@@ -159,6 +161,7 @@
 ### 中文视频
 
 - [ChatGPT 保姆级使用教程：注册、体验、底层逻辑原理解读！](https://www.bilibili.com/video/BV1HT411R7Lj/) ChatGPT 介绍，偏底技术，偏底层原理。
+- [【渐构】万字科普ChatGPT-4为什么会颠覆人类社会](https://www.bilibili.com/video/BV1MY4y1R7EN/?spm_id_from=333.880.my_history.page.click&vd_source=6faef52e732ccc3a4a525fe406ce9808): 视频前25分钟深入浅出的讲解了GPT原理
 
 ### 英文图文
 
@@ -196,6 +199,9 @@
 - [edgedb](https://www.edgedb.com/) - EdgeDB 是一个开源数据库，旨在作为 SQL 和关系范式的精神继承者。它旨在解决一些使现有数据库不必要地繁重使用的硬设计问题。
 - [Descript](https://www.descript.com/) - Descript 是一个协作式音频和视频编辑器，可将音频转录到文本文件中进行编辑。
 - [Ambience Healthcare](https://www.ambiencehealthcare.com/) - Ambience AutoScribe 是一款全自动的人工智能医疗抄写员，它能实时捕捉医疗机构与患者对话的细微差别，并将其纳入 EMR 工作流程。
+- [Harvey](https://www.harvey.ai/) - Harvey 是一个智能工具，能让法律工作中研究、起草、分析和沟通等繁琐的工作变得更轻松、更高效。
+- [Mem](https://get.mem.ai/) - Mem正在构建世界上第一个自组织工作空间，Mem通过消除组织和访问信息的单调乏味和苦差事来提高知识工作者的工作效率。
+- [Speak](https://www.speak.com/) - Speak 是一款帮助学习新语言的工作，主要是非英语国家学习英语。
 
 ### OpenAI 支持的公司
 
@@ -229,7 +235,7 @@
 - [MOSS](https://moss.fastnlp.top/) -可执行对话生成、编程、事实问答等一系列任务。
 - [ChatGLM](https://chatglm.cn/blog?continueFlag=af5320e8f778b996afe7697670864685) 这是一个初具问答和对话功能的千亿中英语言模型， 并针对中文进行了优化。
 - 中国企业正在研发的对话机器人
-    - 百度文心一言：文心一言 (英文名:ERNIE Bot) 是百度基于文心大模型技术推出的生成式对话产品。
+    - [文心一言](https://yiyan.baidu.com/welcome)：文心一言 (英文名:ERNIE Bot) 是百度基于文心大模型技术推出的生成式对话产品。
     - 科大讯飞学习机：科大讯飞表示，其生成式预训练大模型技术将率先落地于 AI 学习机产品。
     - 京东 ChatJD：2023 年 2 月 10 日，京东宣布将推出产业版 ChatGPT: ChatJD。
     - 腾讯的混元助手：致力于开发腾讯对话式通用人工智能系统。

@@ -68,6 +68,7 @@
 
 ### Prompts
 
+- [Best practices for prompt engineering with OpenAI API](https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-openai-api)：OpenAI’s staff tell you how to give clear and effective instructions to GPT.
 - [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts) - This is a collection of prompt examples to be used with the ChatGPT model.
 - [ChatGPT 中文调教指南](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - This is a collection of Chinese prompt examples.
 - [ChatGPT Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut) - A quick reference table of ChatGPT shortcuts is divided by domain and function, allowing users to filter by tags, search by keywords, and copy with a single click to utilize prompts.Even beginners can simply copy the prompt phrases, make minor modifications, and send them to ChatGPT to obtain the desired output.
@@ -89,8 +90,9 @@
 - [OpenAI](https://openai.com/) - The homepage of OpenAI.
 - [OpenAI Product](https://openai.com/product) - This page showcases the products offered by OpenAI, such as GPT models, DALL·E 2 and Whisper.
 - [OpenAI API Documentation](https://platform.openai.com/docs) - It's a documentation of the OpenAI API. This page is an important resource for learning and using the OpenAI API.
-- [New Bing](https://www.bing.com/new) - The New Bing is a new generation of search engine developed by Microsoft and based on a large language model from OpenAI, capable of providing intelligent chat, creative and assistant features.
 - [ChatGPT blog](https://openai.com/blog/chatgpt/) - This is an article on the OpenAI official blog introducing ChatGPT.
+- [New Bing](https://www.bing.com/new) - The New Bing is a new generation of search engine developed by Microsoft and based on a large language model from OpenAI, capable of providing intelligent chat, creative and assistant features.
+- [Microsoft 365 Copilot](https://blogs.microsoft.com/blog/2023/03/16/introducing-microsoft-365-copilot-your-copilot-for-work/)：It combines the large language models,Including GPT-4, with your data in the Microsoft Graph and the Microsoft 365 apps 
 
 ### Social Media
 
@@ -145,13 +147,13 @@
 
 - [The Ultimate Chat GPT Course](https://www.notion.so/69ed24a317a942d288e740419b1ad6f6) - This guide course has more than 1000+ resources to help you learn how to use Chat GPT to enhance your life. (Free!)
 - [Advanced ChatGPT: Full Guide:](https://www.notion.so/ac6aa68840bc427c83f4611dd2642f83) - His guide includes beginner and advanced ChatGPT tutorials, as well as some practical tips and examples. (Free!)
-- [ChatGPT Tutorial - A Crash Course on Chat GPT for Beginners:](https://www.youtube.com/watch?v=JTxsNm9IdYU) - This Video explains the basic concepts and usage of ChatGPT. You will learn how to use ChatGPT to generate various types of text, such as shopping lists, JavaScript code, short stories, resumes, etc. You will also learn about the advantages and limitations of ChatGPT, and how to use it to create valuable content. (Free!)
+- [ChatGPT Tutorial - A Crash Course on Chat GPT for Beginners:](https://www.youtube.com/watch?v=JTxsNm9IdYU) - This Video explains the basic concepts and usage of ChatGPT. You will learn how to use ChatGPT to generate various types of text, such as shopping lists, JavaScript code, short stories, resumes, etc. (Free!)
 - [Complete ChatGPT Tutorial - [Become A Power User in 30 Minutes]](https://www.youtube.com/watch?v=jHv63Uvk5VA) - You can learn 10 major types of commands that let ChatGPT provide you with various useful information and services. (Free!)
-- [ChatGPT Tutorial for Developers - 38 Ways to 10x Your Productivity:](https://www.youtube.com/watch?v=sTeoEFzVNSc) - Learn how to use ChatGPT to 10x your productivity! 38 ChatGPT examples to help you learn how to use Python, JavaScript, HTML, CSS, React, SQL and more. (Free!)
-- [ChatGPT Masterclass: A Complete ChatGPT Guide for Beginners](https://www.udemy.com/course/chatgpt-masterclass-a-complete-chatgpt-guide-for-beginners/) - You will learn how to use ChatGPT and OpenAI to create various types of content, such as SEO, e-commerce, translation, Amazon, and sales copy. You will also learn how to use the OpenAI API to create apps and code, as well as how to use Dalle to create high-quality images.
-- [ChatGPT 101: Learn ChatGPT Prompts & ChatGPT Smart Tips](https://www.udemy.com/course/trend-spotter/) - You will learn how to automate tasks, generate ideas, and streamline your workflow with ChatGPT’s prompts and commands. You will also learn about the impact of AI on society and the future of work from case studies and experts.
+- [ChatGPT Tutorial for Developers - 38 Ways to 10x Your Productivity:](https://www.youtube.com/watch?v=sTeoEFzVNSc) - 38 ChatGPT examples to help you learn how to use Python, JavaScript, HTML, CSS, React, SQL and more. (Free!)
+- [ChatGPT Masterclass: A Complete ChatGPT Guide for Beginners](https://www.udemy.com/course/chatgpt-masterclass-a-complete-chatgpt-guide-for-beginners/) - You will learn how to use ChatGPT and OpenAI to create various types of content, and how to use the OpenAI API to create apps and code.
+- [ChatGPT 101: Learn ChatGPT Prompts & ChatGPT Smart Tips](https://www.udemy.com/course/trend-spotter/) - You will learn how to automate tasks, generate ideas, and streamline your workflow with ChatGPT’s prompts and commands. You will also learn about the impact of AI on society and the future of work.
 - [ChatGPT: Complete ChatGPT Course For Work 2023 (Ethically)](https://www.udemy.com/course/chatgpt-complete-chatgpt-course-for-work-2023-ethically-chat-gpt/) - You will learn how to use ChatGPT to generate content, automate processes, communicate effectively, and educate yourself on different topics.
-- [ChatGPT Masterclass: Smart Tips & ChatGPT Insights & Future](https://www.udemy.com/course/chatgpt-masterclass-smart-tips-insights/) - In this course, you will learn how to improve your ChatGPT prompts skills,. In addition, this course will also teach you the background, development, ethics, applications and future of ChatGPT.
+- [ChatGPT Masterclass: Smart Tips & ChatGPT Insights & Future](https://www.udemy.com/course/chatgpt-masterclass-smart-tips-insights/) - You will learn how to improve your ChatGPT prompts skills,. In addition, this course will also teach you the background, development, ethics, applications and future of ChatGPT.
 - [ChatGPT Masterclass - Build Solutions and Apps with ChatGPT](https://www.udemy.com/course/chatgpt-build-solutions-and-apps-with-chatgpt-and-openai/) - This course teaches you how to build applications and solutions with OpenAI and ChatGPT using no-code methods.
 - [ChatGPT for Programmers: Build Python Apps in Seconds](https://www.udemy.com/course/chatgpt-for-programmers/) - This course teaches you how to use ChatGPT to build apps, fix bugs, and automate your workflow in Python or other programming languages.
 - More Courses: [Udemy → ChatGPT](https://www.udemy.com/courses/search/?src=ukw&q=ChatGPT)
@@ -159,6 +161,7 @@
 ### Chinese-Videos
 
 - [ChatGPT 保姆级使用教程：注册、体验、底层逻辑原理解读！](https://www.bilibili.com/video/BV1HT411R7Lj/) ChatGPT introduction, biased bottom technology, biased bottom layer principle.
+- [【渐构】万字科普ChatGPT-4为什么会颠覆人类社会](https://www.bilibili.com/video/BV1MY4y1R7EN/?spm_id_from=333.880.my_history.page.click&vd_source=6faef52e732ccc3a4a525fe406ce9808):In the first 25 minutes of the video, it explained the principle of GPT in a simple and easy-to-understand way.
 
 ### English-Graphic-and-Textual
 
@@ -196,6 +199,10 @@
 - [edgedb](https://www.edgedb.com/) - EdgeDB is an open-source database designed as a spiritual successor to SQL and the relational paradigm. It aims to solve some hard design problems that make existing databases unnecessarily onerous to use.
 - [Descript](https://www.descript.com/) - Descript is a collaborative audio and video editor that transcribes audio to a text document for editing.
 - [Ambience Healthcare](https://www.ambiencehealthcare.com/) -  Ambience AutoScribe, is a fully automated AI medical scribe that captures the nuances of provider-patient conversation in real-time into a comprehensive note and seamlessly fits into EMR workflows.
+- [Harvey](https://www.harvey.ai/) - Harvey is developing an intuitive interface for all legal workflows through powerful generative language models. 
+- [Mem](https://get.mem.ai/) - Mem is building the world’s first self-organizing workspace.
+- [Speak](https://www.speak.com/) - Speak is on a mission to help more people become fluent in new languages, starting with English. 
+
 
 ### Companies supported by OpenAI
 
