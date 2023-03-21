@@ -37,7 +37,6 @@
     - [Research report](#research-report)
 - [Literature Analysis](#literature-analysis)
     - [Glossary of Terms](#glossary-of-terms)
-    - [The technical principle of ChatGPT4](#the-technical-principle-of-chatgpt4)
     - [The technical principle of ChatGPT](#the-technical-principle-of-chatgpt)
     - [Recent advances in Prompt engineering](#recent-advances-in-prompt-engineering)
     - [Recent advances in LLMs](#recent-advances-in-llms)
@@ -267,12 +266,6 @@
 - Reinforcement learning
 - Reinforcement Learning from Human Feedback (RLHF)
 
-### The technical principle of ChatGPT4
-
-- gpt-4-system-card
-- gpt-4-system-card（Chinese Version）
- awesome-chatgpt-papers https://www.aliyundrive.com/s/RenfDZjta8T 提取码: 5y6m
-
 ### The technical principle of ChatGPT
 
 - 2014 [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473) - This paper introduces an attention mechanism in RNNs to improve the long sequence modelling of RNNs. This paper introduces an attention mechanism to RNNs to improve their long sequence modelling capabilities. This enables RNNs to translate longer sentences more accurately.
@@ -282,6 +275,8 @@
 - 2019 [Language models are unsupervised multitask learners](https://www.semanticscholar.org/paper/Language-Models-are-Unsupervised- Multitask-Learners-Radford-Wu/9405cc0d6169988371b2755e573cc28650d14dfe) - This paper introduces GPT-2.
 - 2020 [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165) - This paper introduces GPT-3.
 - 2022 [Training lanquage models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155) - This paper presents an RLHF approach to using supervised learning to fine-tuning. It is also known as a paper that illustrates the kernel of ChatGPT's thinking. Presumably, ChatGPT is an extended version of InstructGPT that enables fine-tuning on larger datasets.
+- 2023 [GPT-4 Technical Report](https://arxiv.org/abs/2303.08774) We report the development of GPT-4, a large-scale, multimodal model which can accept image and text inputs and produce text outputs.
+- awesome-chatgpt-papers https://www.aliyundrive.com/s/RenfDZjta8T 提取码: 5y6m
 
 ### Recent advances in Prompt engineering
 
@@ -295,6 +290,10 @@
 ### Recent advances in LLMs
 
 - 2023 [Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models](https://arxiv.org/abs/2303.04671)
+
+### Social impact 
+
+- 2023 [GPTs are GPTs: An Early Look at the Labor Market Impact Potential of Large Language Models](https://arxiv.org/abs/2303.10130)  Our findings indicate that approximately 80% of the U.S. workforce could have at least 10% of their work tasks affected by the introduction of GPTs, while around 19% of workers may see at least 50% of their tasks impacted. The influence spans all wage levels, with higher-income jobs potentially facing greater exposure. 
 
 ## Contribute
 

@@ -271,12 +271,6 @@
 - 强化学习 Reinforcement learning
 - 基于人类反馈的强化学习 Reinforcement Learning from Human Feedback (RLHF)
 
-### ChatGPT4的技术原理
-
-- gpt-4-system-card
-- gpt-4-system-card（中文版）
-- awesome-chatgpt-papers https://www.aliyundrive.com/s/RenfDZjta8T 提取码: 5y6m
-
 ### ChatGPT的技术原理
 
 - 2014 [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473) - 这篇论文在 RNN 中引入了注意力机制，提升 RNN 的长序列建模能力。这使得 RNN 能够更准确地翻译更长的句子。
@@ -286,6 +280,8 @@
 - 2019 [Language models are unsupervised multitask learners](https://www.semanticscholar.org/paper/Language-Models-are-Unsupervised-Multitask-Learners-Radford-Wu/9405cc0d6169988371b2755e573cc28650d14dfe) - 这篇论文引入了 GPT-2。
 - 2020 [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165) - 这篇论文引入了 GPT-3。
 - 2022 [Training lanquage models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155) - 这篇论文提出了一种 RLHF 的方式，使用监督学习对模型进行微调。这篇论文也被称为阐述 ChatGPT 思想内核的论文。可以推测，ChatGPT 是 InstructGPT 的扩展版本，它实现了在更大的数据集上的微调。
+- 2023 [GPT-4 Technical Report](https://arxiv.org/abs/2303.08774) GPT-4，一个大规模多模态模型，可以接受图像和文本输入，并产生文本输出。
+- awesome-chatgpt-papers https://www.aliyundrive.com/s/RenfDZjta8T 提取码: 5y6m
 
 ### Prompt engineering 的最近进展
 
@@ -299,6 +295,10 @@
 ### LLMs 的最新进展
 
 - 2023 [Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models](https://arxiv.org/abs/2303.04671)
+
+### 社会影响
+
+- 2023 [GPTs are GPTs: An Early Look at the Labor Market Impact Potential of Large Language Models](https://arxiv.org/abs/2303.10130) 研究表明，大约80%的美国劳动力可能有至少10%的工作任务受到GPT引入的影响，而约19%的工作者可能有至少50%的任务受到影响。影响涵盖了所有工资水平，高收入工作可能面临更大的风险。
 
 ## 贡献
 
