@@ -177,6 +177,7 @@
 - [如何用 ChatGPT 构建你的专属知识问答机器人](https://blog.frankzhao.cn/build_gpt_bot_for_doc/)
 - [ChatGPT 商务速成 - 中译版](https://www.notion.so/8ce48bcb5aa94828a64c86a2dbfc307d)
 - [如何使用 Python 快速集成 ChatGPT API](https://mp.weixin.qq.com/s?__biz=MjM5MjU2NDk0Nw==&mid=2247507931&idx=2&sn=77f75026c365b73275f7ce3f2e7d0ab4&chksm=a6a6cc6791d14571df77a1a5c249bc46ffd03269b264aadbdfa43927e809b578d501a1c58f31&mpshare=1&scene=1&srcid=0308V8ZG15g6BE1TgRXPEWYa&sharer_sharetime=1678253425412&sharer_shareid=a697a75b41763c317bec849da7e5a35a#rd)
+- [追赶ChatGPT的难点与平替](https://mp.weixin.qq.com/s/eYmssaPFODjC7xwh1jHydQ)
 
 ## Venture Capitalists
 
