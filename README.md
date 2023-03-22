@@ -37,7 +37,6 @@
     - [Research report](#research-report)
 - [Literature Analysis](#literature-analysis)
     - [Glossary of Terms](#glossary-of-terms)
-    - [The technical principle of ChatGPT4](#the-technical-principle-of-chatgpt4)
     - [The technical principle of ChatGPT](#the-technical-principle-of-chatgpt)
     - [Recent advances in Prompt engineering](#recent-advances-in-prompt-engineering)
     - [Recent advances in LLMs](#recent-advances-in-llms)
@@ -65,6 +64,7 @@
 - [What Is ChatGPT Doing and Why Does It Work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/) - A long article on the principles of ChatGPT written by Stephen Wolfram, the father of WolframAlpha.
 - [深度学习论文精读](https://github.com/mli/paper-reading) - A collection of intensive reading resources for deep learning papers by Mu Li.
 - [OpenAI Research index](https://openai.com/research) - This page is a list of OpenAI’s research papers on various topics in artificial intelligence.
+- [HellaSwag (rowanzellers.com)](https://rowanzellers.com/hellaswag/)   [Can a Machine Really Finish Your Sentence?](https://github.com/rowanz/hellaswag)   Does AI have human common sense?The dataset download address and the scores of each large model.
 
 ### Prompts
 
@@ -112,7 +112,9 @@
 - [arc53/DocsGPT](https://github.com/arc53/docsgpt) - DocsGPT is a cutting-edge open-source solution that streamlines the process of finding information in project documentation.
 - [GanymedeNil/document.ai](https://github.com/GanymedeNil/document.ai) - A universal local knowledge base solution based on vector database and GPT-3.5.
 - [yihong0618/bilingual_book_maker](https://github.com/yihong0618/bilingual_book_maker) - Translate EPUB eBooks using the OpenAI API.
-- [xiaowuc2/chatgpt-python-applicatins](https://github.com/xiaowuc2/ChatGPT-Python-Applications) : Applications of ChatGPT using Python with third-party extensions, integrations with other tools etc
+- [ChatPaper](https://github.com/kaixindelele/ChatPaper) - ChatPaper is a paper summary tool. AI summarizes papers in one minute, and users read AI-summarized papers in one minute. 
+- [bob-plugin-openai-translator](https://github.com/yetone/bob-plugin-openai-translator) - Bob’s translation plugin, calling api.
+- - [xiaowuc2/chatgpt-python-applicatins](https://github.com/xiaowuc2/ChatGPT-Python-Applications) - Applications of ChatGPT using Python with third-party extensions, integrations with other tools etc.
 
 ### Chrome Extensions
 
@@ -122,6 +124,7 @@
 - [ChatGPT for Google](https://chrome.google.com/webstore/detail/chatgpt-for-google/jgjaeacdkonaoafenlfkkkmbaopkbilf) - You can have search engine pages directly display ChatGPT's answers.
 - [AIPRM for ChatGPT](https://chrome.google.com/webstore/detail/aiprm-for-chatgpt/ojnbohmppadfgpejeebfnmnknjdlckgj/related) - [AIPRM](https://www.aiprm.com/) is a tool with multiple Prompt Templates and customizable Prompt Templates. It is a tool that ranks second when searching for ChatGPT directly in Google Chrome.
 - [immersive-translator](https://microsoftedge.microsoft.com/addons/detail/%E6%B2%89%E6%B5%B8%E5%BC%8F%E7%BF%BB%E8%AF%91/amkbmndfnliijdhojkpoglbnaaahippg?hl=zh-CN) - Translation add-on using the OpenAI API.
+- https://www.fluentify.io/ Fluentify is a free and open-source “Copilot for the web”.Unlike ChatGPT, there’s no need to chat or switch pages, and you don’t have to copy and paste. Just select the text and everything else is done automatically.
 
 ### App
 
@@ -137,6 +140,7 @@
 - [Perplexity AI](https://www.perplexity.ai/) - Perplexity.AI combines large-scale language models and search engines to provide answers to users' needs through continuous dialogue. Compared to ChatGPT, Perplexity AI can provide the sources of information , but its answer fluency and completeness are slightly inferior to ChatGPT.
 - [Chat Simplifier](https://chat-simplifier.imzbb.cc/zh) - Chat simplifier, extracts key points from conversations.
 - [PandaGPT](https://www.pandagpt.io/) - Assist in reading PDFs and automatically answering questions.
+- [ChatMind](https://www.chatmind.tech/)  Input question article/data, one-click generate mind map, support context rewriting and expansion dialogue.
 
 ## Courses
 
@@ -175,6 +179,7 @@
 - [如何用 ChatGPT 构建你的专属知识问答机器人](https://blog.frankzhao.cn/build_gpt_bot_for_doc/)
 - [ChatGPT 商务速成 - 中译版](https://www.notion.so/8ce48bcb5aa94828a64c86a2dbfc307d)
 - [如何使用 Python 快速集成 ChatGPT API](https://mp.weixin.qq.com/s?__biz=MjM5MjU2NDk0Nw==&mid=2247507931&idx=2&sn=77f75026c365b73275f7ce3f2e7d0ab4&chksm=a6a6cc6791d14571df77a1a5c249bc46ffd03269b264aadbdfa43927e809b578d501a1c58f31&mpshare=1&scene=1&srcid=0308V8ZG15g6BE1TgRXPEWYa&sharer_sharetime=1678253425412&sharer_shareid=a697a75b41763c317bec849da7e5a35a#rd)
+- [追赶ChatGPT的难点与平替](https://mp.weixin.qq.com/s/eYmssaPFODjC7xwh1jHydQ)
 
 ## Venture Capitalists
 
@@ -204,6 +209,7 @@
 ### Companies supported by OpenAI
 
 - [Virtuzone](https://launchpad.vz.ae/) - The UAE's leading Company Formation Specialists and award-winning corporate services provider,launching SWYFT Plan  which is an automated business plan builder powered by OpenAI's ChatGPT to allow users to generate a complete business plan in less than 10 minutes.
+- https://openai.com/product/gpt-4 We’ve collaborated with organizations building innovative products with GPT-4.
 
 ### OpenAI Products
 
@@ -263,11 +269,6 @@
 - Reinforcement learning
 - Reinforcement Learning from Human Feedback (RLHF)
 
-### The technical principle of ChatGPT4
-- gpt-4-system-card
-- gpt-4-system-card（Chinese Version）
- awesome-chatgpt-papers https://www.aliyundrive.com/s/RenfDZjta8T 提取码: 5y6m
-
 ### The technical principle of ChatGPT
 
 - 2014 [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473) - This paper introduces an attention mechanism in RNNs to improve the long sequence modelling of RNNs. This paper introduces an attention mechanism to RNNs to improve their long sequence modelling capabilities. This enables RNNs to translate longer sentences more accurately.
@@ -277,6 +278,8 @@
 - 2019 [Language models are unsupervised multitask learners](https://www.semanticscholar.org/paper/Language-Models-are-Unsupervised- Multitask-Learners-Radford-Wu/9405cc0d6169988371b2755e573cc28650d14dfe) - This paper introduces GPT-2.
 - 2020 [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165) - This paper introduces GPT-3.
 - 2022 [Training lanquage models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155) - This paper presents an RLHF approach to using supervised learning to fine-tuning. It is also known as a paper that illustrates the kernel of ChatGPT's thinking. Presumably, ChatGPT is an extended version of InstructGPT that enables fine-tuning on larger datasets.
+- 2023 [GPT-4 Technical Report](https://arxiv.org/abs/2303.08774) We report the development of GPT-4, a large-scale, multimodal model which can accept image and text inputs and produce text outputs.
+- awesome-chatgpt-papers https://www.aliyundrive.com/s/RenfDZjta8T 提取码: 5y6m
 
 ### Recent advances in Prompt engineering
 
@@ -291,6 +294,10 @@
 
 - 2023 [Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models](https://arxiv.org/abs/2303.04671)
 
+### Social impact 
+
+- 2023 [GPTs are GPTs: An Early Look at the Labor Market Impact Potential of Large Language Models](https://arxiv.org/abs/2303.10130)  Our findings indicate that approximately 80% of the U.S. workforce could have at least 10% of their work tasks affected by the introduction of GPTs, while around 19% of workers may see at least 50% of their tasks impacted. The influence spans all wage levels, with higher-income jobs potentially facing greater exposure. 
+
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first and submit a Pull Request after Fork this repository.
@@ -304,6 +311,7 @@ Thank you to all contributors (in no particular order and in alphabetical order)
 - [林向东](https://github.com/eastling) - [@eastling](https://github.com/eastling)
 - [边心竹](https://reading.zhubai.love/) - [@bxz400](https://github.com/bxz400)
 - [郑嘻嘻](https://github.com/zhengxixuan) - [@zhengxixuan](https://github.com/zhengxixuan)
+- [黄啸锐](https://github.com/Lilhxr) - [@Lilhxr](https://github.com/Lilhxr)
 
 ## Contact
 
