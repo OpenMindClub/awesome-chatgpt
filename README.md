@@ -57,6 +57,7 @@
 - [Aihub](https://www.aihub.cn) - Discover and explore high-quality and user-friendly AI products worldwide.
 - [Hera Chat](https://herachat.com/ai123) The forefront of news aggregation about ChatGPT, AI Chat Bot, AIGC.
 - [Find AI Tools Using AI ](https://theresanaiforthat.com/?message=subscribed) AI tools.Updated daily.
+- [Finetune chatGPT](https://github.com/xiaowuc2/ChatGPT-Python-Applications/tree/main/finetuned-gpt) on custom dataset (`sql`, `csv`, `excel` etc)
 
 ### The Principles of ChatGPT
 
@@ -111,8 +112,9 @@
 - [arc53/DocsGPT](https://github.com/arc53/docsgpt) - DocsGPT is a cutting-edge open-source solution that streamlines the process of finding information in project documentation.
 - [GanymedeNil/document.ai](https://github.com/GanymedeNil/document.ai) - A universal local knowledge base solution based on vector database and GPT-3.5.
 - [yihong0618/bilingual_book_maker](https://github.com/yihong0618/bilingual_book_maker) - Translate EPUB eBooks using the OpenAI API.
-- https://github.com/kaixindelele/ChatPaper ChatPaper is a paper summary tool. AI summarizes papers in one minute, and users read AI-summarized papers in one minute. 
-- https://github.com/yetone/bob-plugin-openai-translator Bob’s translation plugin, calling api.
+- [ChatPaper](https://github.com/kaixindelele/ChatPaper) - ChatPaper is a paper summary tool. AI summarizes papers in one minute, and users read AI-summarized papers in one minute. 
+- [bob-plugin-openai-translator](https://github.com/yetone/bob-plugin-openai-translator) - Bob’s translation plugin, calling api.
+- - [xiaowuc2/chatgpt-python-applicatins](https://github.com/xiaowuc2/ChatGPT-Python-Applications) - Applications of ChatGPT using Python with third-party extensions, integrations with other tools etc.
 
 ### Chrome Extensions
 
