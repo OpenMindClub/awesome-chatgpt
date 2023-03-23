@@ -275,7 +275,7 @@
 - 2017 [Attention Is All You Need](https://arxiv.org/abs/1706.03762) - This paper introduces the structure of the original Transformer and is the basis for the Transformer family.
 - 2018 [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805) - This paper ushered in the era of pre-training in NLP. BERT came out of nowhere.
 - 2018 [Improving language understanding by generative pre-training](https://openai.com/research/language-unsupervised) - This paper introduces another popular pre-training model, also known to later generations as GPT-1.
-- 2019 [Language models are unsupervised multitask learners](https://www.semanticscholar.org/paper/Language-Models-are-Unsupervised- Multitask-Learners-Radford-Wu/9405cc0d6169988371b2755e573cc28650d14dfe) - This paper introduces GPT-2.
+- 2019 [Language models are unsupervised multitask learners](https://www.semanticscholar.org/paper/Language-Models-are-Unsupervised-Multitask-Learners-Radford-Wu/9405cc0d6169988371b2755e573cc28650d14dfe) - This paper introduces GPT-2.
 - 2020 [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165) - This paper introduces GPT-3.
 - 2022 [Training lanquage models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155) - This paper presents an RLHF approach to using supervised learning to fine-tuning. It is also known as a paper that illustrates the kernel of ChatGPT's thinking. Presumably, ChatGPT is an extended version of InstructGPT that enables fine-tuning on larger datasets.
 - 2023 [GPT-4 Technical Report](https://arxiv.org/abs/2303.08774) We report the development of GPT-4, a large-scale, multimodal model which can accept image and text inputs and produce text outputs.
