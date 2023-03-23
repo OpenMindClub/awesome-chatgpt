@@ -92,7 +92,7 @@
 - [OpenAI API Documentation](https://platform.openai.com/docs) - OpenAI API 的文档，是学习和使用 OpenAI API 的重要资源。
 - [ChatGPT blog](https://openai.com/blog/chatgpt/) - 这是 OpenAI 官方博客上的一篇介绍 ChatGPT 的文章。
 - [New Bing](https://www.bing.com/new): New Bing 是微软开发的新一代搜索引擎，基于 OpenAI 的大型语言模型，能够提供智能聊天、创意和助手功能。
-- [Microsoft 365 Copilot](https://blogs.microsoft.com/blog/2023/03/16/introducing-microsoft-365-copilot-your-copilot-for-work/)：微软发布的融合了大型语言模型（包括GPT-4）的Office全家桶
+- [Microsoft 365 Copilot](https://blogs.microsoft.com/blog/2023/03/16/introducing-microsoft-365-copilot-your-copilot-for-work/)：微软发布，融合了大型语言模型（包括GPT-4）的Office全家桶。
 
 ### 社交媒体
 
