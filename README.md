@@ -82,6 +82,7 @@
 ### Version
 
 - [ChatGPT](https://openai.com/blog/chatgpt) - Website.This is an official online chat tool provided by OpenAI, which allows you to have AI conversations with ChatGPT.
+- [ChatGPT plugins](https://openai.com/blog/chatgpt-plugins)：ChatGPT plugins allow ChatGPT to access up-to-date information, run computations, or use third-party services.
 - [OpenAI API](https://openai.com/blog/openai-api) - OpenAI API, a platform that allows anyone to access new AI models developed by OpenAI.
 - [VisualChatGPT](https://github.com/microsoft/visual-chatgpt) - It is a version that adds visual features on top of ChatGPT.Visual ChatGPT is a project developed by Microsoft that enables the exchange of images during conversations. It is a combination of ChatGPT and a series of visual models.
 

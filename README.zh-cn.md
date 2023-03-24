@@ -82,6 +82,7 @@
 ### 版本
 
 - [ChatGPT](https://openai.com/blog/chatgpt) - 网页版。这是一个由 OpenAI 开发的人工智能聊天机器人，它允许你与 ChatGPT 进行 AI 对话。
+- [ChatGPT plugins](https://openai.com/blog/chatgpt-plugins)：ChatGPT plugins 能帮助ChatGPT访问最新的信息，进行计算或使用第三方服务。
 - [OpenAI API](https://openai.com/blog/openai-api) - API 版。一个允许任何人访问 OpenAI 开发的新 AI 模型的平台。
 - [VisualChatGPT](https://github.com/microsoft/visual-chatgpt) 是一个在 ChatGPT 基础上增加了视觉功能的版本。Visual ChatGPT 是一个由微软开发的项目，它可以在聊天中发送和接收图片。它是基于 ChatGPT 和一系列视觉基础模型的组合。
 
