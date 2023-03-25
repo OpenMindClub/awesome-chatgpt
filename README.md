@@ -116,7 +116,7 @@
 - [ChatPaper](https://github.com/kaixindelele/ChatPaper) - ChatPaper is a paper summary tool. AI summarizes papers in one minute, and users read AI-summarized papers in one minute. 
 - [bob-plugin-openai-translator](https://github.com/yetone/bob-plugin-openai-translator) - Bob’s translation plugin, calling api.
 - [xiaowuc2/chatgpt-python-applicatins](https://github.com/xiaowuc2/ChatGPT-Python-Applications) - Applications of ChatGPT using Python with third-party extensions, integrations with other tools etc.
-- [Autosubtitle: Use GPT to auto generate and translate subtitles](https://github.com/rongjc/autosubtitle)
+- [Autosubtitle](https://github.com/rongjc/autosubtitle) - Use GPT to auto generate and translate subtitles
 
 ### Chrome Extensions
 
