@@ -255,6 +255,7 @@
 - [230311 哈尔滨工业大学 ChatGPT 调研报告](https://www.baogaoting.com/info/248610)
 - [230221 ChatGPT 团队背景研究报告](https://chatgpt.greedyai.com/forgeneral/什么是ChatGPT/ChatGPT团队背景研究报告/)
 - [ChatGPT 报告 70 份论文](https://www.aliyundrive.com/s/V94kCe9qQnC)
+- [ChatGPT作为回答复杂问题的问答系统的评价](https://arxiv.org/abs/2303.07992) [(Code)](https://github.com/liyu19980601/Complex-Question-Answering-Evaluation-of-ChatGPT)
 
 ## Literature Analysis
 
