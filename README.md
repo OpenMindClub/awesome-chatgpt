@@ -314,9 +314,6 @@ Thank you to all contributors (in no particular order and in alphabetical order)
 - [郑嘻嘻](https://github.com/zhengxixuan) - [@zhengxixuan](https://github.com/zhengxixuan)
 - [黄啸锐](https://github.com/Lilhxr) - [@Lilhxr](https://github.com/Lilhxr)
 
-### Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=OpenMindClub/awesome-chatgpt/&type=Timeline)](https://star-history.com/#OpenMindClub/awesome-chatgpt/&Timeline)
 
 ## Contact
 
