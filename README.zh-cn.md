@@ -50,6 +50,7 @@
 ## 元资源
 
 - [Wikipedia ChatGPT](https://en.wikipedia.org/w/index.php?title=ChatGPT&oldid=1144021256)
+- [42share](https://42share.io/)
 
 ### 通用
 
@@ -118,6 +119,7 @@
 
 ### 浏览器插件
 
+- [42share](https://42share.io/) 国人开发，分享 ChatGPT 问答过程给其余人。
 - [sharegpt-google](https://chrome.google.com/webstore/detail/sharegpt-share-your-chatg/daiacboceoaocpibfodeljbdfacokfjb) - 分享 ChatGPT 问答过程给其余人，可生成链接、图片、pdf 等多种格式。
 - [chatgpt-writer-google](https://chrome.google.com/webstore/detail/chatgpt-writer-write-mail/pdnenlnelpdomajfejgapbdpmjkfpjkp) - 使用 ChatGPT AI 生成完整的电子邮件和消息。
 - [chatgpt-prompt-genius-google](https://chrome.google.com/webstore/detail/chatgpt-prompt-genius/jjdnakkfjnnbbckhifcfchagnpofjffo) - 发现、分享、导入和使用最适合 ChatGPT 的提示词。

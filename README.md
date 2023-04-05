@@ -49,6 +49,7 @@
 ## Meta Resources
 
 - [Wikipedia ChatGPT](https://en.wikipedia.org/w/index.php?title=ChatGPT&oldid=1144021256)
+- [42share](https://42share.io/)
 
 ### General
 
@@ -119,6 +120,7 @@
 
 ### Chrome Extensions
 
+- [42share](https://42share.io/) Developed by Chinese.Sharing the ChatGPT chat history with others.
 - [sharegpt-google](https://chrome.google.com/webstore/detail/sharegpt-share-your-chatg/daiacboceoaocpibfodeljbdfacokfjb) - Sharing the ChatGPT chat history with others can generate various formats such as links, images, and PDFs.
 - [chatgpt-writer-google](https://chrome.google.com/webstore/detail/chatgpt-writer-write-mail/pdnenlnelpdomajfejgapbdpmjkfpjkp) - Use ChatGPT to generate complete emails and messagese. It is supported on all websites and has better support for Gmail.
 - [chatgpt-prompt-genius-google](https://chrome.google.com/webstore/detail/chatgpt-prompt-genius/jjdnakkfjnnbbckhifcfchagnpofjffo) - Discover, share, import, and use prompts that are most suitable for ChatGPT.
