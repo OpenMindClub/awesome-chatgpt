@@ -131,10 +131,10 @@
 ### App
 
 - [Raycast AI](https://www.raycast.com/ai) - 结合使用。
-- [KnowBuddy](https://www.knowbuddy.ai/) - 使用越来越多的强大 AI 模型和服务来帮助您执行任务和回答问题。
 
 ### Web App
 
+- [Poe](https://quorablog.quora.com/Poe-1) - Quora 推出的一个类似 ChatGPT 的对话机器人，整合各家 AI 模型推出的一款产品。
 - [OpenGPT - Create ChatGPT Application in seconds](https://open-gpt.app/) - 立即使用海量的 ChatGPT 应用，或在几秒钟内创建属于自己的应用。
 - [Mindshow.fun](https://www.mindshow.fun/#/templates) - 结合 ChatGPT 精简文字内容，利用 md 直接生成 ppt，还可以直接导入 logseq 文件。
 - [Chatpdf](https://www.chatpdf.com/) - 情报革命在这里，ChatGPT 只是一个开始！
@@ -231,7 +231,6 @@
 - [OpenChatKit](https://github.com/togethercomputer/OpenChatKit) - 一个类 ChatGPT 开源工具包，基于 EleutherAI 的 GPT-NeoX-20B，内含一个 20B 参数量的大模型，而且该模型在 4300 万条指令上进行了微调。
 - [Jasper Chat](https://www.jasper.ai/chat) - Jasper AI 生态中的一项功能，与 ChatGPT 不同的是，它是付费服务。
 - [Character ai](https://beta.character.ai/) - 和 ChatGPT 不一样的是，它对聊天的对象（也就是机器人）有很多细分领域。所有人都来参与创建，而不是完全自行创建并训练模型！
-- [Poe](https://quorablog.quora.com/Poe-1) - Quora 推出的一个类似 ChatGPT 的对话机器人，整合各家 AI 模型推出的一款产品。
 - [Bard](https://blog.google/technology/ai/bard-google-ai-search-updates/) - 谷歌推出的对话机器人。Bard 构建于 LaMDA 模型的基础上，相较于 ChatGPT，Bard 可以检索网页，从而能够回答有关最近发生事件的问题。
 - [YouChat](https://you.com/search?q=who+are+you&tbm=youchat&cfr=chat) - 由 You.com 推出的聊天机器人，是一款基于 GPT-3 的可用于编写电子邮件和其他文档的文本生成器。相较于 ChatGPT，YouChat 的回复中会带有引用，进而可以帮助用户追踪每条信息的来源。
 - [Perplexity AI](https://www.perplexity.ai/) - 核心是将大规模语言模型和搜索引擎结合来进行问答，通过连续对话的形式提供用户需要的答案。相较于 ChatGPT，Perplexity AI 能够提供信息的来源，但其答案的流畅度和完整度相较于 ChatGPT 略显逊色。

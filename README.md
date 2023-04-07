@@ -132,10 +132,10 @@
 ### App
 
 - [Raycast AI](https://www.raycast.com/ai) - A tool that lets you control your computer with natural language commands.
-- [KnowBuddy](https://www.knowbuddy.ai/) - It uses a growing list of powerful AI models and services to help you perform tasks and answer questions.
 
 ### Web App
 
+- [Poe](https://quorablog.quora.com/Poe-1) - Quora has launched an AI chatbot tool similar to ChatGPT. The product currently includes four different bots, namely Sage, Claude, ChatGPT, and Dragonfly, which are somewhat similar to the offerings of Character AI. These bots draw their AI capabilities from various sources, including OpenAI, Anthropic's Claude, and other AI models, making it a product that integrates multiple AI models.
 - [OpenGPT - Create ChatGPT Application in seconds](https://open-gpt.app/) - Access to a wide range of ChatGPT applications, or create your own App in seconds.
 - [Mindshow.fun](https://www.mindshow.fun/#/templates) - Combining with ChatGPT, you can generate a PPT in one minutes. Support importing from Markdown and Logseq.
 - [Chatpdf](https://www.chatpdf.com/) - The intelligence revolution is here, ChatGPT was just the beginning!
@@ -234,7 +234,6 @@
 - [OpenChatKit](https://github.com/togethercomputer/OpenChatKit) - A toolkit similar to ChatGPT, based on EleutherAI's GPT-NeoX-20B, containing a large model with 20 billion parameters that has been fine-tuned on 43 million prompts.
 - [Jasper Chat](https://www.jasper.ai/chat) - A feature in the Jasper AI ecosystem, unlike ChatGPT, it is a paid service.
 - [Character ai](https://beta.character.ai/) - Unlike ChatGPT, it categorizes the chatbots into various subfields. It allows people to participate in the creation process through a platform instead of solely relying on self-creation and model training.
-- [Poe](https://quorablog.quora.com/Poe-1) - Quora has launched an AI chatbot tool similar to ChatGPT. The product currently includes four different bots, namely Sage, Claude, ChatGPT, and Dragonfly, which are somewhat similar to the offerings of Character AI. These bots draw their AI capabilities from various sources, including OpenAI, Anthropic's Claude, and other AI models, making it a product that integrates multiple AI models.
 - [Bard](https://blog.google/technology/ai/bard-google-ai-search-updates/) - Bard is Google’s new AI chatbot service that uses LaMDA, a language model that can generate natural and informative responses. Bard can help users with creative tasks, explaining complex topics, and learning new things. Bard is Google’s answer to ChatGPT, Microsoft’s popular AI chatbot3.
 - [YouChat](https://you.com/search?q=who+are+you&tbm=youchat&cfr=chat) - YouChat is a chatbot from You.com, founded by language and artificial intelligence expert Richard Socher, a GPT-3-based text generator for writing emails and other documents. In contrast to ChatGPT, YouChat's replies are cited, which in turn helps users track the source of each message.
 - [Perplexity AI](https://www.perplexity.ai/) - AI, which at its core combines a large-scale language model with a search engine to perform Q&A, providing users with the answers they need in the form of a continuous dialogue. Compared to ChatGPT, Perplexity AI is able to provide sources of information , but the fluency and completeness of its answers is slightly less than ChatGPT.
