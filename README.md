@@ -144,6 +144,7 @@
 - [Chat Simplifier](https://chat-simplifier.imzbb.cc/zh) - Chat simplifier, extracts key points from conversations.
 - [PandaGPT](https://www.pandagpt.io/) - Assist in reading PDFs and automatically answering questions.
 - [ChatMind](https://www.chatmind.tech/)  Input question article/data, one-click generate mind map, support context rewriting and expansion dialogue.
+- [Landing AI](https://landing-ai.com) - Explain your product, branding, and get a unique landing page made with GPT-4 and Dall-E.
 
 ## Courses
 
