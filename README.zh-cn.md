@@ -116,6 +116,7 @@
 - [yihong0618/bilingual_book_maker](https://github.com/yihong0618/bilingual_book_maker) - 使用 OpenAI API 翻译 EPUB 电子书。
 - https://github.com/kaixindelele/ChatPaper ChatPaper是一款论文总结工具。AI用一分钟总结论文，用户用一分钟阅读AI总结的论文。
 - https://github.com/yetone/bob-plugin-openai-translator bob的翻译插件
+- [Autosubtitle: Use GPT to auto generate and translate subtitles](https://github.com/rongjc/autosubtitle) 一款使用chatgpt来生成和翻译字幕的工具
 
 ### 浏览器插件
 
