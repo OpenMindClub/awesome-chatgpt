@@ -95,7 +95,7 @@
 - [OpenAI API Documentation](https://platform.openai.com/docs) - It's a documentation of the OpenAI API. This page is an important resource for learning and using the OpenAI API.
 - [ChatGPT blog](https://openai.com/blog/chatgpt/) - This is an article on the OpenAI official blog introducing ChatGPT.
 - [New Bing](https://www.bing.com/new) - The New Bing is a new generation of search engine developed by Microsoft and based on a large language model from OpenAI, capable of providing intelligent chat, creative and assistant features.
-- [Microsoft 365 Copilot](https://blogs.microsoft.com/blog/2023/03/16/introducing-microsoft-365-copilot-your-copilot-for-work/)：It combines the large language models,Including GPT-4, with your data in the Microsoft Graph and the Microsoft 365 apps 
+- [Microsoft 365 Copilot](https://blogs.microsoft.com/blog/2023/03/16/introducing-microsoft-365-copilot-your-copilot-for-work/)：It combines the large language models,Including GPT-4, with your data in the Microsoft Graph and the Microsoft 365 apps
 
 ### Social Media
 
@@ -115,7 +115,7 @@
 - [arc53/DocsGPT](https://github.com/arc53/docsgpt) - DocsGPT is a cutting-edge open-source solution that streamlines the process of finding information in project documentation.
 - [GanymedeNil/document.ai](https://github.com/GanymedeNil/document.ai) - A universal local knowledge base solution based on vector database and GPT-3.5.
 - [yihong0618/bilingual_book_maker](https://github.com/yihong0618/bilingual_book_maker) - Translate EPUB eBooks using the OpenAI API.
-- [ChatPaper](https://github.com/kaixindelele/ChatPaper) - ChatPaper is a paper summary tool. AI summarizes papers in one minute, and users read AI-summarized papers in one minute. 
+- [ChatPaper](https://github.com/kaixindelele/ChatPaper) - ChatPaper is a paper summary tool. AI summarizes papers in one minute, and users read AI-summarized papers in one minute.
 - [bob-plugin-openai-translator](https://github.com/yetone/bob-plugin-openai-translator) - Bob’s translation plugin, calling api.
 - [xiaowuc2/chatgpt-python-applicatins](https://github.com/xiaowuc2/ChatGPT-Python-Applications) - Applications of ChatGPT using Python with third-party extensions, integrations with other tools etc.
 - [Autosubtitle](https://github.com/rongjc/autosubtitle) - Use GPT to auto generate and translate subtitles
@@ -147,6 +147,7 @@
 - [PandaGPT](https://www.pandagpt.io/) - Assist in reading PDFs and automatically answering questions.
 - [ChatMind](https://www.chatmind.tech/)  Input question article/data, one-click generate mind map, support context rewriting and expansion dialogue.
 - [ClipRecaps](https://cliprecaps.com/) ClipRecaps: chatGPT meets Youtube. The Ultimate Tool for Summarizing Long-Form Videos
+- [Poet.ly](https://poet.ly) - Poet.ly is a simple and fast generator of SEO-friendly articles for your blog referenced on search engines. It is based on the OpenAI GPT-4 API.
 
 ## Courses
 
@@ -211,9 +212,9 @@
 - [edgedb](https://www.edgedb.com/) - EdgeDB is an open-source database designed as a spiritual successor to SQL and the relational paradigm. It aims to solve some hard design problems that make existing databases unnecessarily onerous to use.
 - [Descript](https://www.descript.com/) - Descript is a collaborative audio and video editor that transcribes audio to a text document for editing.
 - [Ambience Healthcare](https://www.ambiencehealthcare.com/) -  Ambience AutoScribe, is a fully automated AI medical scribe that captures the nuances of provider-patient conversation in real-time into a comprehensive note and seamlessly fits into EMR workflows.
-- [Harvey](https://www.harvey.ai/) - Harvey is developing an intuitive interface for all legal workflows through powerful generative language models. 
+- [Harvey](https://www.harvey.ai/) - Harvey is developing an intuitive interface for all legal workflows through powerful generative language models.
 - [Mem](https://get.mem.ai/) - Mem is building the world’s first self-organizing workspace.
-- [Speak](https://www.speak.com/) - Speak is on a mission to help more people become fluent in new languages, starting with English. 
+- [Speak](https://www.speak.com/) - Speak is on a mission to help more people become fluent in new languages, starting with English.
 
 
 ### Companies supported by OpenAI
@@ -304,9 +305,9 @@
 
 - 2023 [Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models](https://arxiv.org/abs/2303.04671)
 
-### Social impact 
+### Social impact
 
-- 2023 [GPTs are GPTs: An Early Look at the Labor Market Impact Potential of Large Language Models](https://arxiv.org/abs/2303.10130)  Our findings indicate that approximately 80% of the U.S. workforce could have at least 10% of their work tasks affected by the introduction of GPTs, while around 19% of workers may see at least 50% of their tasks impacted. The influence spans all wage levels, with higher-income jobs potentially facing greater exposure. 
+- 2023 [GPTs are GPTs: An Early Look at the Labor Market Impact Potential of Large Language Models](https://arxiv.org/abs/2303.10130)  Our findings indicate that approximately 80% of the U.S. workforce could have at least 10% of their work tasks affected by the introduction of GPTs, while around 19% of workers may see at least 50% of their tasks impacted. The influence spans all wage levels, with higher-income jobs potentially facing greater exposure.
 
 ## Contribute
 
