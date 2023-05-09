@@ -135,6 +135,7 @@
 ### App
 
 - [Raycast AI](https://www.raycast.com/ai) - A tool that lets you control your computer with natural language commands.
+- [MindMac](https://mindmac.app) - Effortlessly manage your chats and folders while monitoring costs with intuitive macOS app, powered by ChatGPT API and designed for maximum productivity. Built-in prompt templates, support GPT-3.5 and GPT-4. Currently available in 15 languages.
 
 ### Web App
 
