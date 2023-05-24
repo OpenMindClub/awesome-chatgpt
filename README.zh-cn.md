@@ -57,7 +57,6 @@
 - [Awesome ChatGPT](https://github.com/humanloop/awesome-chatgpt) - ChatGPT 和 OpenAI 的 GPT-3 Awesome 清单。
 - [Awesome ChatGPT API](https://github.com/reorx/awesome-chatgpt-api/) - 精心策划的 API Awesome 清单，包含了最新的 ChatGPT API，允许用户自行配置 API 密钥，从而实现对其自身配额的免费和按需使用。
 - [Aihub](https://www.aihub.cn) - 发现、探索全球优秀好用的 AI 产品。
-- [Hera Chat-AI 网站导航](https://herachat.com/ai123) ChatGPT, AI Chat Bot, AIGC最前端新闻聚合。
 - [Find AI Tools Using AI ](https://theresanaiforthat.com/?message=subscribed) AI工具，每日更新。
 
 ### 原理
