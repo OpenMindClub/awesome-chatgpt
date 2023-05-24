@@ -57,7 +57,6 @@
 - [Awesome ChatGPT](https://github.com/humanloop/awesome-chatgpt) - Curated list of resources for ChatGPT and GPT-3 from OpenAI.
 - [Awesome ChatGPT API](https://github.com/reorx/awesome-chatgpt-api/) - Curated list of apps and tools that not only use the new ChatGPT API, but also allow users to configure their own API keys, enabling free and on-demand usage of their own quota.
 - [Aihub](https://www.aihub.cn) - Discover and explore high-quality and user-friendly AI products worldwide.
-- [Hera Chat](https://herachat.com/ai123) The forefront of news aggregation about ChatGPT, AI Chat Bot, AIGC.
 - [Find AI Tools Using AI ](https://theresanaiforthat.com/?message=subscribed) AI tools.Updated daily.
 - [Finetune chatGPT](https://github.com/xiaowuc2/ChatGPT-Python-Applications/tree/main/finetuned-gpt) on custom dataset (`sql`, `csv`, `excel` etc)
 
