@@ -37,10 +37,10 @@
     - [行研报告](#行研报告)
 - [学术分析](#学术分析)
     - [关键术语对照表](#关键术语对照表)
-    - [ChatGPT4 的技术原理](#ChatGPT4-的技术原理)
     - [ChatGPT 的技术原理](#chatgpt-的技术原理)
     - [Prompt engineering 的最近进展](#prompt-engineering-的最近进展)
     - [LLMs 的最新进展](#llms-的最新进展)
+    - [社会影响](#社会影响)
 - [贡献](#贡献)
 - [贡献者](#贡献者)
 - [联系](#联系)
@@ -57,14 +57,14 @@
 - [Awesome ChatGPT](https://github.com/humanloop/awesome-chatgpt) - ChatGPT 和 OpenAI 的 GPT-3 Awesome 清单。
 - [Awesome ChatGPT API](https://github.com/reorx/awesome-chatgpt-api/) - 精心策划的 API Awesome 清单，包含了最新的 ChatGPT API，允许用户自行配置 API 密钥，从而实现对其自身配额的免费和按需使用。
 - [Aihub](https://www.aihub.cn) - 发现、探索全球优秀好用的 AI 产品。
-- [Find AI Tools Using AI ](https://theresanaiforthat.com/?message=subscribed) AI工具，每日更新。
+- [Find AI Tools Using AI](https://theresanaiforthat.com/?message=subscribed) AI 工具，每日更新。
 
 ### 原理
 
 - [What Is ChatGPT Doing and Why Does It Work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/) - WolframAlpha 之父 Stephen Wolfram 写的一篇讲 ChatGPT 原理的长文。
 - [深度学习论文精读](https://github.com/mli/paper-reading) - 李沐的深度学习论文精读资源合集。
 - [OpenAI Research index](https://openai.com/research) - 本页是 OpenAI 关于人工智能各种主题的研究论文列表。
-- [HellaSwag (rowanzellers.com)](https://rowanzellers.com/hellaswag/)   [Can a Machine Really Finish Your Sentence?](https://github.com/rowanz/hellaswag)   AI是否具备人类常识？数据集下载地址以及各个大模型的得分
+- [HellaSwag (rowanzellers.com)](https://rowanzellers.com/hellaswag/)   [Can a Machine Really Finish Your Sentence?](https://github.com/rowanz/hellaswag) AI 是否具备人类常识？数据集下载地址以及各个大模型的得分的得分
 
 ### 提示词
 
@@ -82,7 +82,7 @@
 ### 版本
 
 - [ChatGPT](https://openai.com/blog/chatgpt) - 网页版。这是一个由 OpenAI 开发的人工智能聊天机器人，它允许你与 ChatGPT 进行 AI 对话。
-- [ChatGPT plugins](https://openai.com/blog/chatgpt-plugins)：ChatGPT plugins 能帮助ChatGPT访问最新的信息，进行计算或使用第三方服务。
+- [ChatGPT plugins](https://openai.com/blog/chatgpt-plugins) - ChatGPT plugins 能帮助 ChatGPT 访问最新的信息，进行计算或使用第三方服务。。
 - [OpenAI API](https://openai.com/blog/openai-api) - API 版。一个允许任何人访问 OpenAI 开发的新 AI 模型的平台。
 - [VisualChatGPT](https://github.com/microsoft/visual-chatgpt) 是一个在 ChatGPT 基础上增加了视觉功能的版本。Visual ChatGPT 是一个由微软开发的项目，它可以在聊天中发送和接收图片。它是基于 ChatGPT 和一系列视觉基础模型的组合。
 
@@ -92,8 +92,8 @@
 - [OpenAI Product](https://openai.com/product) - 本页展示了 OpenAI 提供的产品，如 GPT 模型、DALL-E 2 和 Whisper。
 - [OpenAI API Documentation](https://platform.openai.com/docs) - OpenAI API 的文档，是学习和使用 OpenAI API 的重要资源。
 - [ChatGPT blog](https://openai.com/blog/chatgpt/) - 这是 OpenAI 官方博客上的一篇介绍 ChatGPT 的文章。
-- [New Bing](https://www.bing.com/new): New Bing 是微软开发的新一代搜索引擎，基于 OpenAI 的大型语言模型，能够提供智能聊天、创意和助手功能。
-- [Microsoft 365 Copilot](https://blogs.microsoft.com/blog/2023/03/16/introducing-microsoft-365-copilot-your-copilot-for-work/)：微软发布，融合了大型语言模型（包括GPT-4）的Office全家桶。
+- [New Bing](https://www.bing.com/new) - New Bing 是微软开发的新一代搜索引擎，基于 OpenAI 的大型语言模型，能够提供智能聊天、创意和助手功能。
+- [Microsoft 365 Copilot](https://blogs.microsoft.com/blog/2023/03/16/introducing-microsoft-365-copilot-your-copilot-for-work/) - 微软发布，融合了大型语言模型（包括 GPT-4）的 Office 全家桶。
 
 ### 社交媒体
 
@@ -113,9 +113,9 @@
 - [arc53/DocsGPT](https://github.com/arc53/docsgpt) -打造你的专属知识库。
 - [GanymedeNil/document.ai](https://github.com/GanymedeNil/document.ai) - 基于向量数据库与 GPT-3.5 的通用本地知识库方案。
 - [yihong0618/bilingual_book_maker](https://github.com/yihong0618/bilingual_book_maker) - 使用 OpenAI API 翻译 EPUB 电子书。
-- https://github.com/kaixindelele/ChatPaper ChatPaper是一款论文总结工具。AI用一分钟总结论文，用户用一分钟阅读AI总结的论文。
-- https://github.com/yetone/bob-plugin-openai-translator bob的翻译插件
-- [Autosubtitle: Use GPT to auto generate and translate subtitles](https://github.com/rongjc/autosubtitle) 一款使用chatgpt来生成和翻译字幕的工具
+- [kaixindelele/ChatPaper](https://github.com/kaixindelele/ChatPaper) - 是一款论文总结工具。AI 用一分钟总结论文，用户用一分钟阅读 AI 总结的论文。
+- [yetone/bob-plugin-openai-translator](https://github.com/yetone/bob-plugin-openai-translator) - bob 的翻译插件
+- [Autosubtitle: Use GPT to auto generate and translate subtitles](https://github.com/rongjc/autosubtitle) 一款使用 ChatGPT 来生成和翻译字幕的工具具
 - [AnotiaWang/open-assistant-helper](https://github.com/AnotiaWang/open-assistant-helper): 使用 ChatGPT 帮助改进 Open Assistant
 
 ### 浏览器插件
@@ -127,7 +127,7 @@
 - [ChatGPT for Google](https://chrome.google.com/webstore/detail/chatgpt-for-google/jgjaeacdkonaoafenlfkkkmbaopkbilf) - 搜索引擎页面直接显示 ChatGPT 的答案。
 - [AIPRM for ChatGPT](https://chrome.google.com/webstore/detail/aiprm-for-chatgpt/ojnbohmppadfgpejeebfnmnknjdlckgj/related) - [AIPRM](https://www.aiprm.com/) 是一款拥有多个 Prompt Templates 以及可自定义 Prompt Templates 工具。
 - [immersive-translator](https://microsoftedge.microsoft.com/addons/detail/%E6%B2%89%E6%B5%B8%E5%BC%8F%E7%BF%BB%E8%AF%91/amkbmndfnliijdhojkpoglbnaaahippg?hl=zh-CN) - 结合 ChatGPT 的 API，翻译文本。
-- https://www.fluentify.io/ Fluentify是一个免费的开源的“网页协作工具”。它不像ChatGPT，不需要聊天或切换页面，也不需要复制和粘贴。只需选择文本，其他一切都会自动完成。
+- [Fluentify](https://www.fluentify.io/) - 一个免费的开源的“网页协作工具”。它不像 ChatGPT，不需要聊天或切换页面，也不需要复制和粘贴。只需选择文本，其他一切都会自动完成。
 
 ### App
 
@@ -164,8 +164,8 @@
 
 ### 中文视频
 
-- [ChatGPT 保姆级使用教程：注册、体验、底层逻辑原理解读！](https://www.bilibili.com/video/BV1HT411R7Lj/) ChatGPT 介绍，偏底技术，偏底层原理。
-- [【渐构】万字科普ChatGPT-4为什么会颠覆人类社会](https://www.bilibili.com/video/BV1MY4y1R7EN/?spm_id_from=333.880.my_history.page.click&vd_source=6faef52e732ccc3a4a525fe406ce9808): 视频前25分钟深入浅出的讲解了GPT原理
+- [ChatGPT 保姆级使用教程：注册、体验、底层逻辑原理解读](https://www.bilibili.com/video/BV1HT411R7Lj/) ChatGPT 介绍，偏底技术，偏底层原理。
+- [【渐构】万字科普 ChatGPT-4 为什么会颠覆人类社会](https://www.bilibili.com/video/BV1MY4y1R7EN/?spm_id_from=333.880.my_history.page.click&vd_source=6faef52e732ccc3a4a525fe406ce9808) 视频前 25 分钟深入浅出的讲解了 GPT 原理
 
 ### 英文图文
 
@@ -204,13 +204,13 @@
 - [Descript](https://www.descript.com/) - Descript 是一个协作式音频和视频编辑器，可将音频转录到文本文件中进行编辑。
 - [Ambience Healthcare](https://www.ambiencehealthcare.com/) - Ambience AutoScribe 是一款全自动的人工智能医疗抄写员，它能实时捕捉医疗机构与患者对话的细微差别，并将其纳入 EMR 工作流程。
 - [Harvey](https://www.harvey.ai/) - Harvey 是一个智能工具，能让法律工作中研究、起草、分析和沟通等繁琐的工作变得更轻松、更高效。
-- [Mem](https://get.mem.ai/) - Mem正在构建世界上第一个自组织工作空间，Mem通过消除组织和访问信息的单调乏味和苦差事来提高知识工作者的工作效率。
+- [Mem](https://get.mem.ai/) - Mem 正在构建世界上第一个自组织工作空间，Mem 通过消除组织和访问信息的单调乏味和苦差事来提高知识工作者的工作效率。。
 - [Speak](https://www.speak.com/) - Speak 是一款帮助学习新语言的工作，主要是非英语国家学习英语。
 
 ### OpenAI 支持的公司
 
 - [Virtuzone](https://launchpad.vz.ae/) - 阿联酋领先的公司成立专家和屡获殊荣的企业服务提供商，推出 SWYFT 计划，这是一个由 OpenAI 的 ChatGPT 支持的自动商业计划生成器，允许用户在 10 分钟内生成一个完整的商业计划。
-- https://openai.com/product/gpt-4 我们和一些正在使用GPT-4构建创新产品的组织合作。
+- https://openai.com/product/gpt-4 我们和一些正在使用 GPT-4 构建创新产品的组织合作。
 
 ### OpenAI 生态与产品矩阵
 
@@ -236,7 +236,7 @@
 - [YouChat](https://you.com/search?q=who+are+you&tbm=youchat&cfr=chat) - 由 You.com 推出的聊天机器人，是一款基于 GPT-3 的可用于编写电子邮件和其他文档的文本生成器。相较于 ChatGPT，YouChat 的回复中会带有引用，进而可以帮助用户追踪每条信息的来源。
 - [Perplexity AI](https://www.perplexity.ai/) - 核心是将大规模语言模型和搜索引擎结合来进行问答，通过连续对话的形式提供用户需要的答案。相较于 ChatGPT，Perplexity AI 能够提供信息的来源，但其答案的流畅度和完整度相较于 ChatGPT 略显逊色。
 - [MOSS](https://moss.fastnlp.top/) -可执行对话生成、编程、事实问答等一系列任务。
-- [ChatGLM](https://chatglm.cn/blog?continueFlag=af5320e8f778b996afe7697670864685) 这是一个初具问答和对话功能的千亿中英语言模型， 并针对中文进行了优化。
+- [ChatGLM](https://chatglm.cn/blog?continueFlag=af5320e8f778b996afe7697670864685) 这是一个初具问答和对话功能的千亿中英语言模型，并针对中文进行了优化。
 - 中国企业正在研发的对话机器人
     - [文心一言](https://yiyan.baidu.com/welcome)：文心一言 (英文名:ERNIE Bot) 是百度基于文心大模型技术推出的生成式对话产品。
     - 科大讯飞学习机：科大讯飞表示，其生成式预训练大模型技术将率先落地于 AI 学习机产品。
@@ -274,7 +274,7 @@
 - 强化学习 Reinforcement learning
 - 基于人类反馈的强化学习 Reinforcement Learning from Human Feedback (RLHF)
 
-### ChatGPT的技术原理
+### ChatGPT 的技术原理
 
 - 2014 [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473) - 这篇论文在 RNN 中引入了注意力机制，提升 RNN 的长序列建模能力。这使得 RNN 能够更准确地翻译更长的句子。
 - 2017 [Attention Is All You Need](https://arxiv.org/abs/1706.03762) - 这篇论文介绍了原始的 Transformer 的结构，是 Transformer 系列的基础。
@@ -284,7 +284,7 @@
 - 2020 [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165) - 这篇论文引入了 GPT-3。
 - 2022 [Training lanquage models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155) - 这篇论文提出了一种 RLHF 的方式，使用监督学习对模型进行微调。这篇论文也被称为阐述 ChatGPT 思想内核的论文。可以推测，ChatGPT 是 InstructGPT 的扩展版本，它实现了在更大的数据集上的微调。
 - 2023 [GPT-4 Technical Report](https://arxiv.org/abs/2303.08774) GPT-4，一个大规模多模态模型，可以接受图像和文本输入，并产生文本输出。
-- awesome-chatgpt-papers https://www.aliyundrive.com/s/RenfDZjta8T 提取码: 5y6m
+- awesome-chatgpt-papers https://www.aliyundrive.com/s/RenfDZjta8T 提取码：5y6m
 
 ### Prompt engineering 的最近进展
 
@@ -301,7 +301,7 @@
 
 ### 社会影响
 
-- 2023 [GPTs are GPTs: An Early Look at the Labor Market Impact Potential of Large Language Models](https://arxiv.org/abs/2303.10130) 研究表明，大约80%的美国劳动力可能有至少10%的工作任务受到GPT引入的影响，而约19%的工作者可能有至少50%的任务受到影响。影响涵盖了所有工资水平，高收入工作可能面临更大的风险。
+- 2023 [GPTs are GPTs: An Early Look at the Labor Market Impact Potential of Large Language Models](https://arxiv.org/abs/2303.10130) 研究表明，大约 80% 的美国劳动力可能有至少 10% 的工作任务受到 GPT 引入的影响，而约 19% 的工作者可能有至少 50% 的任务受到影响。影响涵盖了所有工资水平，高收入工作可能面临更大的风险。。
 
 ## 贡献
 
@@ -311,7 +311,7 @@
 
 感谢所有贡献者（排名不分先后，按首字母排序）。
 
-- [Alex](https://github.com/Spehhhhh) - [@Spehhhhh](https://github.com/Spehhhhh)
+- [Alex](https://github.com/ipruning) - [@ipruning](https://github.com/ipruning)
 - [张天立](https://github.com/TL-Zhang) - [@TL-Zhang](https://github.com/TL-Zhang)
 - [林向东](https://github.com/eastling) - [@eastling](https://github.com/eastling)
 - [边心竹](https://reading.zhubai.love/) - [@bxz400](https://github.com/bxz400)

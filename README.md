@@ -27,7 +27,7 @@
     - [Chinese-Videos](#chinese-videos)
     - [English-Graphic-and-Textual](#english-graphic-and-textual)
     - [Chinese-Graphic-and-Textual](#chinese-graphic-and-textual)
-- [Vector Databases](#vector-databases)
+- [Vector Database](#vector-database)
 - [Venture Capitalists](#venture-capitalists)
     - [OpenAI Investors](#openai-investors)
     - [OpenAI Investments](#openai-investments)
@@ -41,6 +41,7 @@
     - [The technical principle of ChatGPT](#the-technical-principle-of-chatgpt)
     - [Recent advances in Prompt engineering](#recent-advances-in-prompt-engineering)
     - [Recent advances in LLMs](#recent-advances-in-llms)
+    - [Social impact](#social-impact)
 - [Contribute](#contribute)
 - [Contributors](#contributors)
 - [Contact](#contact)
@@ -57,8 +58,8 @@
 - [Awesome ChatGPT](https://github.com/humanloop/awesome-chatgpt) - Curated list of resources for ChatGPT and GPT-3 from OpenAI.
 - [Awesome ChatGPT API](https://github.com/reorx/awesome-chatgpt-api/) - Curated list of apps and tools that not only use the new ChatGPT API, but also allow users to configure their own API keys, enabling free and on-demand usage of their own quota.
 - [Aihub](https://www.aihub.cn) - Discover and explore high-quality and user-friendly AI products worldwide.
-- [Find AI Tools Using AI ](https://theresanaiforthat.com/?message=subscribed) AI tools.Updated daily.
-- [Finetune chatGPT](https://github.com/xiaowuc2/ChatGPT-Python-Applications/tree/main/finetuned-gpt) on custom dataset (`sql`, `csv`, `excel` etc)
+- [Find AI Tools Using AI](https://theresanaiforthat.com/?message=subscribed) - AI tools. Updated daily.
+- [Finetune ChatGPT](https://github.com/xiaowuc2/ChatGPT-Python-Applications/tree/main/finetuned-gpt) on custom dataset (`sql`, `csv`, `excel` etc)
 
 ### The Principles of ChatGPT
 
@@ -170,7 +171,7 @@
 ### Chinese-Videos
 
 - [ChatGPT 保姆级使用教程：注册、体验、底层逻辑原理解读！](https://www.bilibili.com/video/BV1HT411R7Lj/) ChatGPT introduction, biased bottom technology, biased bottom layer principle.
-- [【渐构】万字科普ChatGPT-4为什么会颠覆人类社会](https://www.bilibili.com/video/BV1MY4y1R7EN/?spm_id_from=333.880.my_history.page.click&vd_source=6faef52e732ccc3a4a525fe406ce9808):In the first 25 minutes of the video, it explained the principle of GPT in a simple and easy-to-understand way.
+- [【渐构】万字科普 ChatGPT-4 为什么会颠覆人类社会](https://www.bilibili.com/video/BV1MY4y1R7EN/?spm_id_from=333.880.my_history.page.click&vd_source=6faef52e732ccc3a4a525fe406ce9808):In the first 25 minutes of the video, it explained the principle of GPT in a simple and easy-to-understand way.
 
 ### English-Graphic-and-Textual
 
@@ -187,7 +188,7 @@
 - [如何用 ChatGPT 构建你的专属知识问答机器人](https://blog.frankzhao.cn/build_gpt_bot_for_doc/)
 - [ChatGPT 商务速成 - 中译版](https://www.notion.so/8ce48bcb5aa94828a64c86a2dbfc307d)
 - [如何使用 Python 快速集成 ChatGPT API](https://mp.weixin.qq.com/s?__biz=MjM5MjU2NDk0Nw==&mid=2247507931&idx=2&sn=77f75026c365b73275f7ce3f2e7d0ab4&chksm=a6a6cc6791d14571df77a1a5c249bc46ffd03269b264aadbdfa43927e809b578d501a1c58f31&mpshare=1&scene=1&srcid=0308V8ZG15g6BE1TgRXPEWYa&sharer_sharetime=1678253425412&sharer_shareid=a697a75b41763c317bec849da7e5a35a#rd)
-- [追赶ChatGPT的难点与平替](https://mp.weixin.qq.com/s/eYmssaPFODjC7xwh1jHydQ)
+- [追赶 ChatGPT 的难点与平替](https://mp.weixin.qq.com/s/eYmssaPFODjC7xwh1jHydQ)
 
 ## Vector Database
 
@@ -216,7 +217,6 @@
 - [Harvey](https://www.harvey.ai/) - Harvey is developing an intuitive interface for all legal workflows through powerful generative language models.
 - [Mem](https://get.mem.ai/) - Mem is building the world’s first self-organizing workspace.
 - [Speak](https://www.speak.com/) - Speak is on a mission to help more people become fluent in new languages, starting with English.
-
 
 ### Companies supported by OpenAI
 
@@ -265,7 +265,7 @@
 - [230311 哈尔滨工业大学 ChatGPT 调研报告](https://www.baogaoting.com/info/248610)
 - [230221 ChatGPT 团队背景研究报告](https://chatgpt.greedyai.com/forgeneral/什么是ChatGPT/ChatGPT团队背景研究报告/)
 - [ChatGPT 报告 70 份论文](https://www.aliyundrive.com/s/V94kCe9qQnC)
-- [ChatGPT作为回答复杂问题的问答系统的评价](https://arxiv.org/abs/2303.07992) [(Code)](https://github.com/liyu19980601/Complex-Question-Answering-Evaluation-of-ChatGPT)
+- [ChatGPT 作为回答复杂问题的问答系统的评价](https://arxiv.org/abs/2303.07992) [(Code)](https://github.com/liyu19980601/Complex-Question-Answering-Evaluation-of-ChatGPT)
 
 ## Literature Analysis
 
@@ -291,7 +291,7 @@
 - 2020 [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165) - This paper introduces GPT-3.
 - 2022 [Training lanquage models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155) - This paper presents an RLHF approach to using supervised learning to fine-tuning. It is also known as a paper that illustrates the kernel of ChatGPT's thinking. Presumably, ChatGPT is an extended version of InstructGPT that enables fine-tuning on larger datasets.
 - 2023 [GPT-4 Technical Report](https://arxiv.org/abs/2303.08774) We report the development of GPT-4, a large-scale, multimodal model which can accept image and text inputs and produce text outputs.
-- awesome-chatgpt-papers https://www.aliyundrive.com/s/RenfDZjta8T 提取码: 5y6m
+- awesome-chatgpt-papers https://www.aliyundrive.com/s/RenfDZjta8T 提取码：5y6m
 
 ### Recent advances in Prompt engineering
 
@@ -318,13 +318,12 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 Thank you to all contributors (in no particular order and in alphabetical order):
 
-- [Alex](https://github.com/Spehhhhh) - [@Spehhhhh](https://github.com/Spehhhhh)
+- [Alex](https://github.com/ipruning) - [@ipruning](https://github.com/ipruning)
 - [张天立](https://github.com/TL-Zhang) - [@TL-Zhang](https://github.com/TL-Zhang)
 - [林向东](https://github.com/eastling) - [@eastling](https://github.com/eastling)
 - [边心竹](https://reading.zhubai.love/) - [@bxz400](https://github.com/bxz400)
 - [郑嘻嘻](https://github.com/zhengxixuan) - [@zhengxixuan](https://github.com/zhengxixuan)
 - [黄啸锐](https://github.com/Lilhxr) - [@Lilhxr](https://github.com/Lilhxr)
-
 
 ## Contact
 
