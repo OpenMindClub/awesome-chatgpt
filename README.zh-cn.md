@@ -118,7 +118,7 @@
 - [yetone/bob-plugin-openai-translator](https://github.com/yetone/bob-plugin-openai-translator) - bob 的翻译插件
 - [Autosubtitle: Use GPT to auto generate and translate subtitles](https://github.com/rongjc/autosubtitle) 一款使用 ChatGPT 来生成和翻译字幕的工具具
 - [AnotiaWang/open-assistant-helper](https://github.com/AnotiaWang/open-assistant-helper): 使用 ChatGPT 帮助改进 Open Assistant
-- [DuckDuckGPT 🐤](https://github.com/kudoai/duckduckgpt) - 将 ChatGPT 的魔力添加到 DuckDuckGo 侧边栏(由 GPT-4 提供支持!)
+- [DuckDuckGPT 🐤](https://github.com/kudoai/duckduckgpt) - 将 ChatGPT 的魔力添加到 DuckDuckGo 侧边栏 (由 GPT-4 提供支持!)
 
 ### 浏览器插件
 
@@ -133,7 +133,7 @@
 
 ### Greasemonkey 用户脚本
 
-- [DuckDuckGPT 🐤](https://www.duckduckgpt.com/greasemonkey) - 将 ChatGPT 的魔力添加到 DuckDuckGo 侧边栏(由 GPT-4 提供支持!)
+- [DuckDuckGPT 🐤](https://www.duckduckgpt.com/greasemonkey) - 将 ChatGPT 的魔力添加到 DuckDuckGo 侧边栏 (由 GPT-4 提供支持!)
 
 ### App
 
