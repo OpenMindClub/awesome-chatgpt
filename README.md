@@ -121,7 +121,7 @@
 - [xiaowuc2/chatgpt-python-applicatins](https://github.com/xiaowuc2/ChatGPT-Python-Applications) - Applications of ChatGPT using Python with third-party extensions, integrations with other tools etc.
 - [Autosubtitle](https://github.com/rongjc/autosubtitle) - Use GPT to auto generate and translate subtitles
 - [AnotiaWang/open-assistant-helper](https://github.com/AnotiaWang/open-assistant-helper) - Solve Open Assistant tasks with ChatGPT
-- [ChatGPT Auto Refresh ↻](https://github.com/adamlui/chatgpt-auto-refresh) -  Keeps ChatGPT sessions fresh to avoid network errors + Cloudflare checks
+- [ChatGPT Auto Refresh ↻](https://github.com/adamlui/chatgpt-auto-refresh) - Keeps ChatGPT sessions fresh to avoid network errors + Cloudflare checks
 
 ### Chrome Extensions
 
