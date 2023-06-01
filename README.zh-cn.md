@@ -20,6 +20,7 @@
 - [渠道资源](#渠道资源)
     - [GitHub 项目](#github-项目)
     - [浏览器插件](#浏览器插件)
+    - [Greasemonkey 用户脚本](#greasemonkey-用户脚本)
     - [App](#app)
     - [Web App](#web-app)
 - [教程](#教程)
@@ -117,6 +118,7 @@
 - [yetone/bob-plugin-openai-translator](https://github.com/yetone/bob-plugin-openai-translator) - bob 的翻译插件
 - [Autosubtitle: Use GPT to auto generate and translate subtitles](https://github.com/rongjc/autosubtitle) 一款使用 ChatGPT 来生成和翻译字幕的工具具
 - [AnotiaWang/open-assistant-helper](https://github.com/AnotiaWang/open-assistant-helper): 使用 ChatGPT 帮助改进 Open Assistant
+- [DuckDuckGPT 🐤](https://github.com/kudoai/duckduckgpt) - 将 ChatGPT 的魔力添加到 DuckDuckGo 侧边栏(由 GPT-4 提供支持!)
 
 ### 浏览器插件
 
@@ -128,6 +130,10 @@
 - [AIPRM for ChatGPT](https://chrome.google.com/webstore/detail/aiprm-for-chatgpt/ojnbohmppadfgpejeebfnmnknjdlckgj/related) - [AIPRM](https://www.aiprm.com/) 是一款拥有多个 Prompt Templates 以及可自定义 Prompt Templates 工具。
 - [immersive-translator](https://microsoftedge.microsoft.com/addons/detail/%E6%B2%89%E6%B5%B8%E5%BC%8F%E7%BF%BB%E8%AF%91/amkbmndfnliijdhojkpoglbnaaahippg?hl=zh-CN) - 结合 ChatGPT 的 API，翻译文本。
 - [Fluentify](https://www.fluentify.io/) - 一个免费的开源的“网页协作工具”。它不像 ChatGPT，不需要聊天或切换页面，也不需要复制和粘贴。只需选择文本，其他一切都会自动完成。
+
+### Greasemonkey 用户脚本
+
+- [DuckDuckGPT 🐤](https://www.duckduckgpt.com/greasemonkey) - 将 ChatGPT 的魔力添加到 DuckDuckGo 侧边栏(由 GPT-4 提供支持!)
 
 ### App
 
