@@ -22,6 +22,7 @@
     - [浏览器插件](#浏览器插件)
     - [App](#app)
     - [Web App](#web-app)
+    - [开发者工具](#开发者工具)
 - [教程](#教程)
     - [英文视频](#英文视频)
     - [中文视频](#中文视频)
@@ -117,6 +118,7 @@
 - [yetone/bob-plugin-openai-translator](https://github.com/yetone/bob-plugin-openai-translator) - bob 的翻译插件
 - [Autosubtitle: Use GPT to auto generate and translate subtitles](https://github.com/rongjc/autosubtitle) 一款使用 ChatGPT 来生成和翻译字幕的工具具
 - [AnotiaWang/open-assistant-helper](https://github.com/AnotiaWang/open-assistant-helper): 使用 ChatGPT 帮助改进 Open Assistant
+- [chatgpt.js 🤖](https://github.com/chatgptjs) - ChatGPT 的强大客户端 JavaScript 库
 
 ### 浏览器插件
 
@@ -144,6 +146,10 @@
 - [Chat Simplifier](https://chat-simplifier.imzbb.cc/zh) - 国人开发，聊天简化器，提取对话重点。
 - [PandaGPT](https://www.pandagpt.io/) - 辅助阅读 PDF，自动回答问题。
 - [ChatMind](https://www.chatmind.tech/) - 输入问题文章/数据，一键生成思维导图，支持上下文改写扩充对话。
+
+### 开发者工具
+
+- [chatgpt.js 🤖](https://chatgpt.js.org) - ChatGPT 的强大客户端 JavaScript 库
 
 ## 教程
 
