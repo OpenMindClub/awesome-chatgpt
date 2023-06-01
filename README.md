@@ -136,6 +136,7 @@
 - [ChatGPT Widescreen 🖥️](https://chatgptevo.com/widescreen/chrome) - Add Widescreen + Full-Window modes to ChatGPT for enhanced viewing
 
 ### Greasemonkey Userscripts
+
 - [ChatGPT Widescreen 🖥️](https://chatgptevo.com/widescreen/greasemonkey) - Add Widescreen + Full-Window modes to ChatGPT for enhanced viewing
 
 ### App
