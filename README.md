@@ -122,7 +122,7 @@
 - [xiaowuc2/chatgpt-python-applicatins](https://github.com/xiaowuc2/ChatGPT-Python-Applications) - Applications of ChatGPT using Python with third-party extensions, integrations with other tools etc.
 - [Autosubtitle](https://github.com/rongjc/autosubtitle) - Use GPT to auto generate and translate subtitles
 - [AnotiaWang/open-assistant-helper](https://github.com/AnotiaWang/open-assistant-helper) - Solve Open Assistant tasks with ChatGPT
-- [chatgpt.js 🤖](https://github.com/chatgptjs) - A powerful client-side JavaScript library for ChatGPT
+- [chatgpt.js 🤖](https://github.com/chatgptjs/chatgpt.js) - A powerful client-side JavaScript library for ChatGPT
 - [ChatGPT Widescreen 🖥️](https://github.com/adamlui/chatgpt-widescreen) - Add Widescreen + Full-Window modes to ChatGPT for enhanced viewing
 
 ### Chrome Extensions
