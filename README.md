@@ -23,6 +23,7 @@
     - [Greasemonkey Userscripts](#greasemonkey-userscripts)
     - [App](#app)
     - [Web App](#web-app)
+    - [Developer Tools](#developer-tools)
 - [Courses](#courses)
     - [English-Videos](#english-videos)
     - [Chinese-Videos](#chinese-videos)
@@ -121,6 +122,7 @@
 - [xiaowuc2/chatgpt-python-applicatins](https://github.com/xiaowuc2/ChatGPT-Python-Applications) - Applications of ChatGPT using Python with third-party extensions, integrations with other tools etc.
 - [Autosubtitle](https://github.com/rongjc/autosubtitle) - Use GPT to auto generate and translate subtitles
 - [AnotiaWang/open-assistant-helper](https://github.com/AnotiaWang/open-assistant-helper) - Solve Open Assistant tasks with ChatGPT
+- [chatgpt.js 🤖](https://github.com/chatgptjs/chatgpt.js) - A powerful client-side JavaScript library for ChatGPT
 - [ChatGPT Widescreen 🖥️](https://github.com/adamlui/chatgpt-widescreen) - Add Widescreen + Full-Window modes to ChatGPT for enhanced viewing
 
 ### Chrome Extensions
@@ -161,6 +163,10 @@
 - [ChatMind](https://www.chatmind.tech/)  Input question article/data, one-click generate mind map, support context rewriting and expansion dialogue.
 - [ClipRecaps](https://cliprecaps.com/) ClipRecaps: chatGPT meets Youtube. The Ultimate Tool for Summarizing Long-Form Videos
 - [Poet.ly](https://poet.ly) - Poet.ly is a simple and fast generator of SEO-friendly articles for your blog referenced on search engines. It is based on the OpenAI GPT-4 API.
+
+## Developer Tools
+
+- [chatgpt.js 🤖](https://chatgpt.js.org) - A powerful client-side JavaScript library for ChatGPT
 
 ## Courses
 
