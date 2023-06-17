@@ -144,6 +144,10 @@
 - [Raycast AI](https://www.raycast.com/ai) - A tool that lets you control your computer with natural language commands.
 - [MindMac](https://mindmac.app) - Effortlessly manage your chats and folders while monitoring costs with intuitive macOS app, powered by ChatGPT API and designed for maximum productivity. Built-in prompt templates, support GPT-3.5 and GPT-4. Currently available in 15 languages.
 
+### Bookmarklets
+
+- [ChatGPT Export](https://github.com/yaph/chatgpt-export) - A browser bookmarklet for exporting conversations with ChatGPT as markdown files.
+
 ### Web App
 
 - [Poe](https://quorablog.quora.com/Poe-1) - Quora has launched an AI chatbot tool similar to ChatGPT. The product currently includes four different bots, namely Sage, Claude, ChatGPT, and Dragonfly, which are somewhat similar to the offerings of Character AI. These bots draw their AI capabilities from various sources, including OpenAI, Anthropic's Claude, and other AI models, making it a product that integrates multiple AI models.
