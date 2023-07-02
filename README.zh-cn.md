@@ -119,7 +119,7 @@
 - [yetone/bob-plugin-openai-translator](https://github.com/yetone/bob-plugin-openai-translator) - bob 的翻译插件
 - [Autosubtitle: Use GPT to auto generate and translate subtitles](https://github.com/rongjc/autosubtitle) 一款使用 ChatGPT 来生成和翻译字幕的工具具
 - [AnotiaWang/open-assistant-helper](https://github.com/AnotiaWang/open-assistant-helper): 使用 ChatGPT 帮助改进 Open Assistant
-- [chatgpt.js 🤖](https://github.com/chatgptjs) - ChatGPT 的强大客户端 JavaScript 库
+- [chatgpt.js 🤖](https://github.com/kudoai/chatgpt.js) - ChatGPT 的强大客户端 JavaScript 库
 - [ChatGPT 寬屏模式 🖥️](https://github.com/adamlui/chatgpt-widescreen) - 向 ChatGPT 添加宽屏 + 全屏模式以增强观看效果
 
 ### 浏览器插件
