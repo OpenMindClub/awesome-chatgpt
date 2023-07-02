@@ -135,11 +135,11 @@
 - [AIPRM for ChatGPT](https://chrome.google.com/webstore/detail/aiprm-for-chatgpt/ojnbohmppadfgpejeebfnmnknjdlckgj/related) - [AIPRM](https://www.aiprm.com/) is a tool with multiple Prompt Templates and customizable Prompt Templates. It is a tool that ranks second when searching for ChatGPT directly in Google Chrome.
 - [immersive-translator](https://microsoftedge.microsoft.com/addons/detail/%E6%B2%89%E6%B5%B8%E5%BC%8F%E7%BF%BB%E8%AF%91/amkbmndfnliijdhojkpoglbnaaahippg?hl=zh-CN) - Translation add-on using the OpenAI API.
 - https://www.fluentify.io/ Fluentify is a free and open-source “Copilot for the web”.Unlike ChatGPT, there’s no need to chat or switch pages, and you don’t have to copy and paste. Just select the text and everything else is done automatically.
-- [ChatGPT Widescreen 🖥️](https://chatgptevo.com/widescreen/chrome) - Add Widescreen + Fullscreen modes to ChatGPT for enhanced viewing
+- [ChatGPT Widescreen 🖥️](https://chatgptwidescreen.com/chrome) - Add Widescreen + Fullscreen modes to ChatGPT for enhanced viewing
 
 ### Greasemonkey Userscripts
 
-- [ChatGPT Widescreen 🖥️](https://chatgptevo.com/widescreen/greasemonkey) - Add Widescreen + Fullscreen modes to ChatGPT for enhanced viewing
+- [ChatGPT Widescreen 🖥️](https://chatgptwidescreen.com/greasemonkey) - Add Widescreen + Fullscreen modes to ChatGPT for enhanced viewing
 
 ### App
 
