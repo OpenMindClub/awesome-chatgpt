@@ -167,6 +167,7 @@
 ## Developer Tools
 
 - [chatgpt.js 🤖](https://chatgpt.js.org) - A powerful client-side JavaScript library for ChatGPT
+- [Horizon AI Template](https://github.com/horizon-ui/chatgpt-ai-template) - Trendiest Open-Source ChatGPT AI Template & Starter Kit for React & NextJS
 
 ## Courses
 
