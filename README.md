@@ -122,8 +122,8 @@
 - [xiaowuc2/chatgpt-python-applicatins](https://github.com/xiaowuc2/ChatGPT-Python-Applications) - Applications of ChatGPT using Python with third-party extensions, integrations with other tools etc.
 - [Autosubtitle](https://github.com/rongjc/autosubtitle) - Use GPT to auto generate and translate subtitles
 - [AnotiaWang/open-assistant-helper](https://github.com/AnotiaWang/open-assistant-helper) - Solve Open Assistant tasks with ChatGPT
-- [chatgpt.js 🤖](https://github.com/chatgptjs/chatgpt.js) - A powerful client-side JavaScript library for ChatGPT
-- [ChatGPT Widescreen 🖥️](https://github.com/adamlui/chatgpt-widescreen) - Add Widescreen + Full-Window modes to ChatGPT for enhanced viewing
+- [chatgpt.js 🤖](https://github.com/kudoai/chatgpt.js) - A powerful client-side JavaScript library for ChatGPT
+- [ChatGPT Widescreen 🖥️](https://github.com/adamlui/chatgpt-widescreen) - Add Widescreen + Fullscreen modes to ChatGPT for enhanced viewing
 
 ### Chrome Extensions
 
@@ -135,11 +135,11 @@
 - [AIPRM for ChatGPT](https://chrome.google.com/webstore/detail/aiprm-for-chatgpt/ojnbohmppadfgpejeebfnmnknjdlckgj/related) - [AIPRM](https://www.aiprm.com/) is a tool with multiple Prompt Templates and customizable Prompt Templates. It is a tool that ranks second when searching for ChatGPT directly in Google Chrome.
 - [immersive-translator](https://microsoftedge.microsoft.com/addons/detail/%E6%B2%89%E6%B5%B8%E5%BC%8F%E7%BF%BB%E8%AF%91/amkbmndfnliijdhojkpoglbnaaahippg?hl=zh-CN) - Translation add-on using the OpenAI API.
 - https://www.fluentify.io/ Fluentify is a free and open-source “Copilot for the web”.Unlike ChatGPT, there’s no need to chat or switch pages, and you don’t have to copy and paste. Just select the text and everything else is done automatically.
-- [ChatGPT Widescreen 🖥️](https://chatgptevo.com/widescreen/chrome) - Add Widescreen + Full-Window modes to ChatGPT for enhanced viewing
+- [ChatGPT Widescreen 🖥️](https://chatgptwidescreen.com/chrome) - Add Widescreen + Fullscreen modes to ChatGPT for enhanced viewing
 
 ### Greasemonkey Userscripts
 
-- [ChatGPT Widescreen 🖥️](https://chatgptevo.com/widescreen/greasemonkey) - Add Widescreen + Full-Window modes to ChatGPT for enhanced viewing
+- [ChatGPT Widescreen 🖥️](https://chatgptwidescreen.com/greasemonkey) - Add Widescreen + Fullscreen modes to ChatGPT for enhanced viewing
 
 ### App
 
