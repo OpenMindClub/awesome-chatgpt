@@ -121,6 +121,7 @@
 - [AnotiaWang/open-assistant-helper](https://github.com/AnotiaWang/open-assistant-helper): 使用 ChatGPT 帮助改进 Open Assistant
 - [chatgpt.js 🤖](https://github.com/kudoai/chatgpt.js) - ChatGPT 的强大客户端 JavaScript 库
 - [ChatGPT 寬屏模式 🖥️](https://github.com/adamlui/chatgpt-widescreen) - 向 ChatGPT 添加宽屏 + 全屏模式以增强观看效果
+- [ChatGPT 无穷 ∞](https://github.com/adamlui/chatgpt-infinity) - 从无所不知的 ChatGPT 生成无穷无尽的答案（以任何语言！）
 
 ### 浏览器插件
 
@@ -133,10 +134,12 @@
 - [immersive-translator](https://microsoftedge.microsoft.com/addons/detail/%E6%B2%89%E6%B5%B8%E5%BC%8F%E7%BF%BB%E8%AF%91/amkbmndfnliijdhojkpoglbnaaahippg?hl=zh-CN) - 结合 ChatGPT 的 API，翻译文本。
 - [Fluentify](https://www.fluentify.io/) - 一个免费的开源的“网页协作工具”。它不像 ChatGPT，不需要聊天或切换页面，也不需要复制和粘贴。只需选择文本，其他一切都会自动完成。
 - [ChatGPT 寬屏模式 🖥️](https://chatgptwidescreen.com/chrome) - 向 ChatGPT 添加宽屏 + 全屏模式以增强观看效果
+- [ChatGPT 无穷 ∞](https://chatgptinfinity.com/chrome) - 从无所不知的 ChatGPT 生成无穷无尽的答案（以任何语言！）
 
 ### Greasemonkey 用户脚本
 
 - [ChatGPT 寬屏模式 🖥️](https://chatgptwidescreen.com/greasemonkey) - 向 ChatGPT 添加宽屏 + 全屏模式以增强观看效果
+- [ChatGPT 无穷 ∞](https://chatgptinfinity.com/greasemonkey) - 从无所不知的 ChatGPT 生成无穷无尽的答案（以任何语言！）
 
 ### App
 
