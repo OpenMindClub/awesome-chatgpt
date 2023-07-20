@@ -125,6 +125,7 @@
 - [chatgpt.js 🤖](https://github.com/kudoai/chatgpt.js) - A powerful client-side JavaScript library for ChatGPT
 - [ChatGPT Widescreen 🖥️](https://github.com/adamlui/chatgpt-widescreen) - Add Widescreen + Fullscreen modes to ChatGPT for enhanced viewing
 - [ChatGPT Infinity ∞](https://github.com/adamlui/chatgpt-infinity) - Generate endless answers from all-knowing ChatGPT (in any language!)
+- [ChatGPT Auto-Continue ⏩](https://github.com/adamlui/chatgpt-auto-continue) - Automatically clicks "Continue generating" when responses cut off
 
 ### Chrome Extensions
 
@@ -143,6 +144,7 @@
 
 - [ChatGPT Widescreen 🖥️](https://chatgptwidescreen.com/greasemonkey) - Add Widescreen + Fullscreen modes to ChatGPT for enhanced viewing
 - [ChatGPT Infinity ∞](https://chatgptinfinity.com/greasemonkey) - Generate endless answers from all-knowing ChatGPT (in any language!)
+- [ChatGPT Auto-Continue ⏩](https://chatgptevo.com/autocontinue) - Automatically clicks "Continue generating" when responses cut off
 
 ### App
 
