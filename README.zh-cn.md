@@ -123,6 +123,7 @@
 - [ChatGPT 寬屏模式 🖥️](https://github.com/adamlui/chatgpt-widescreen) - 向 ChatGPT 添加宽屏 + 全屏模式以增强观看效果
 - [ChatGPT 无穷 ∞](https://github.com/adamlui/chatgpt-infinity) - 从无所不知的 ChatGPT 生成无穷无尽的答案（以任何语言！）
 - [ChatGPT Auto-Continue ⏩](https://github.com/adamlui/chatgpt-auto-continue) - 聊天中断时自动继续生成 ChatGPT 响应
+- [自动清除 ChatGPT 历史记录 🕶️](https://github.com/adamlui/autoclear-chatgpt-history) - 为 ChatGPT 添加聊天自动清除功能，以提高隐私性
 
 ### 浏览器插件
 
@@ -142,6 +143,7 @@
 - [ChatGPT 寬屏模式 🖥️](https://chatgptwidescreen.com/greasemonkey) - 向 ChatGPT 添加宽屏 + 全屏模式以增强观看效果
 - [ChatGPT 无穷 ∞](https://chatgptinfinity.com/greasemonkey) - 从无所不知的 ChatGPT 生成无穷无尽的答案（以任何语言！）
 - [ChatGPT Auto-Continue ⏩](https://chatgptevo.com/autocontinue) - 聊天中断时自动继续生成 ChatGPT 响应
+- [自动清除 ChatGPT 历史记录 🕶️](https://chatgptevo.com/autoclear) - 为 ChatGPT 添加聊天自动清除功能，以提高隐私性
 
 ### App
 
