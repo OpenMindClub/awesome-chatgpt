@@ -127,6 +127,7 @@
 - [ChatGPT Infinity ∞](https://github.com/adamlui/chatgpt-infinity) - Generate endless answers from all-knowing ChatGPT (in any language!)
 - [ChatGPT Auto-Continue ⏩](https://github.com/adamlui/chatgpt-auto-continue) - Automatically clicks "Continue generating" when responses cut off
 - [Autoclear ChatGPT History 🕶️](https://github.com/adamlui/autoclear-chatgpt-history) - Adds chat auto-clear functionality to ChatGPT for more privacy
+- [Meeper 📝](https://github.com/pas1ko/meeper) - Your secretary for any in-browser conference. Transcription, summary. (Chrome app)
 
 ### Chrome Extensions
 
@@ -140,6 +141,7 @@
 - https://www.fluentify.io/ Fluentify is a free and open-source “Copilot for the web”.Unlike ChatGPT, there’s no need to chat or switch pages, and you don’t have to copy and paste. Just select the text and everything else is done automatically.
 - [ChatGPT Widescreen 🖥️](https://chatgptwidescreen.com/chrome) - Add Widescreen + Fullscreen modes to ChatGPT for enhanced viewing
 - [ChatGPT Infinity ∞](https://chatgptinfinity.com/chrome) - Generate endless answers from all-knowing ChatGPT (in any language!)
+- [Meeper 📝](https://github.com/pas1ko/meeper) - Your secretary for any in-browser conference. Transcription, summary. (Chrome app)
 
 ### Greasemonkey Userscripts
 
