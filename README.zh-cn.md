@@ -124,6 +124,7 @@
 - [ChatGPT 无穷 ∞](https://github.com/adamlui/chatgpt-infinity) - 从无所不知的 ChatGPT 生成无穷无尽的答案（以任何语言！）
 - [ChatGPT Auto-Continue ⏩](https://github.com/adamlui/chatgpt-auto-continue) - 聊天中断时自动继续生成 ChatGPT 响应
 - [自动清除 ChatGPT 历史记录 🕶️](https://github.com/adamlui/autoclear-chatgpt-history) - 为 ChatGPT 添加聊天自动清除功能，以提高隐私性
+- [ChatGPT 自动刷新 ↻](https://github.com/adamlui/chatgpt-auto-refresh) - 保持 ChatGPT 会话新鲜，消除持续的网络错误 + Cloudflare 检查（全部来自后台！）
 
 ### 浏览器插件
 
@@ -144,6 +145,7 @@
 - [ChatGPT 无穷 ∞](https://chatgptinfinity.com/greasemonkey) - 从无所不知的 ChatGPT 生成无穷无尽的答案（以任何语言！）
 - [ChatGPT Auto-Continue ⏩](https://chatgptevo.com/autocontinue) - 聊天中断时自动继续生成 ChatGPT 响应
 - [自动清除 ChatGPT 历史记录 🕶️](https://chatgptevo.com/autoclear) - 为 ChatGPT 添加聊天自动清除功能，以提高隐私性
+- [ChatGPT 自动刷新 ↻](https://chatgptautorefresh.com) - 保持 ChatGPT 会话新鲜，消除持续的网络错误 + Cloudflare 检查（全部来自后台！）
 
 ### App
 
