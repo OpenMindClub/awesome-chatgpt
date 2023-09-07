@@ -61,6 +61,7 @@
 - [Awesome ChatGPT API](https://github.com/reorx/awesome-chatgpt-api/) - Curated list of apps and tools that not only use the new ChatGPT API, but also allow users to configure their own API keys, enabling free and on-demand usage of their own quota.
 - [Aihub](https://www.aihub.cn) - Discover and explore high-quality and user-friendly AI products worldwide.
 - [Find AI Tools Using AI](https://theresanaiforthat.com/?message=subscribed) - AI tools. Updated daily.
+- [AI directory with chatbot](https://hdrobots.com/) - Find AI tools using a chatbot.
 - [Finetune ChatGPT](https://github.com/xiaowuc2/ChatGPT-Python-Applications/tree/main/finetuned-gpt) on custom dataset (`sql`, `csv`, `excel` etc)
 
 ### The Principles of ChatGPT
