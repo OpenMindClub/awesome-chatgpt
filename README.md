@@ -154,7 +154,8 @@
 
 - [Raycast AI](https://www.raycast.com/ai) - A tool that lets you control your computer with natural language commands.
 - [MindMac](https://mindmac.app) - Effortlessly manage your chats and folders while monitoring costs with intuitive macOS app, powered by ChatGPT API and designed for maximum productivity. Built-in prompt templates, support GPT-3.5 and GPT-4. Currently available in 15 languages.
-
+- [Bolt AI](https://boltai.com) - Instant access to ChatGPT on any Mac app. BoltAI is a native macOS ChatGPT client that allows entrepreneurs, developers, marketers, students, and anyone else to integrate AI assistance into their daily tasks. 
+  
 ### Bookmarklets
 
 - [ChatGPT Export](https://github.com/yaph/chatgpt-export) - A browser bookmarklet for exporting conversations with ChatGPT as markdown files.
