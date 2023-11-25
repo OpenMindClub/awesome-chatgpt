@@ -111,7 +111,7 @@
 ## Channel Resources
 
 ### GitHub Projects
-
+- [mariocandela/beelzebub](https://github.com/mariocandela/beelzebub) - Go based low code Honeypot Framework with Enhanced Security, leveraging OpenAI GPT for System Virtualization
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - ChatGPT Desktop Application
 - [manno/chatgpt-linux-assistant](https://github.com/manno/chatgpt-linux-assistant) - An ai assistant in your CLI.
 - [arc53/DocsGPT](https://github.com/arc53/docsgpt) - DocsGPT is a cutting-edge open-source solution that streamlines the process of finding information in project documentation.
