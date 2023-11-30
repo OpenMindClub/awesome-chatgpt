@@ -52,7 +52,7 @@
 
 ## Meta Resources
 
-- [Wikipedia ChatGPT](https://en.wikipedia.org/w/index.php?title=ChatGPT&oldid=1144021256)
+- [Wikipedia ChatGPT](https://en.wikipedia.org/wiki/ChatGPT)
 - [42share](https://42share.io/)
 
 ### General
