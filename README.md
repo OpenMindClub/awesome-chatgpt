@@ -282,6 +282,8 @@
 
 ### Competitors: LLMs
 
+- [Mistral](https://mistral.ai/news/announcing-mistral-7b/): by Mistral AI. Mistral model leverages grouped-query attention (GQA) for faster inference, coupled with sliding window attention (SWA) to effectively handle sequences of arbitrary length with a reduced inference cost.
+- [Grok](https://x.ai/): by xAI. To be opensource soon.
 - [LaMDA](https://blog.google/technology/ai/lamda/): **Language Model for Dialogue Applications** is a family of conversational large language models developed by Google. LaMDA uses a decoder-only transformer language model.
 - [LLaMA](https://github.com/facebookresearch/llama): by Meta AI, A foundational, 65-billion-parameter large language model. LLaMA (Large Language Model Meta AI) is a state-of-the-art foundational large language model designed to help researchers advance their work in this subfield of AI.
 - [Gopher](https://arxiv.org/abs/2112.11446) - by DeepMind, a 280 billion parameter transformer language model called Gopher, is an autoregressive transformer-based dense LLM.
