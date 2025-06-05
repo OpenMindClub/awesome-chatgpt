@@ -128,6 +128,7 @@
 - [ChatGPT Auto-Continue ⏩](https://github.com/adamlui/chatgpt-auto-continue) - Automatically clicks "Continue generating" when responses cut off
 - [Autoclear ChatGPT History 🕶️](https://github.com/adamlui/autoclear-chatgpt-history) - Adds chat auto-clear functionality to ChatGPT for more privacy
 - [ChatGPT Auto Refresh ↻](https://github.com/adamlui/chatgpt-auto-refresh) - Keeps ChatGPT sessions fresh via background requests to eliminate network errors + Cloudflare checks
+- [Fellow](https://github.com/ManuelZierl/fellow) - CLI tool acting as an autonomous software engineering assistant (uses the OpenAI API to plan steps, execute commands, and maintain a log of its actions).
 
 ### Chrome Extensions
 
