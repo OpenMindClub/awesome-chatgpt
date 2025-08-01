@@ -133,7 +133,7 @@
 
 - [42share](https://42share.io/) Developed by Chinese.Sharing the ChatGPT chat history with others.
 - [sharegpt-google](https://chrome.google.com/webstore/detail/sharegpt-share-your-chatg/daiacboceoaocpibfodeljbdfacokfjb) - Sharing the ChatGPT chat history with others can generate various formats such as links, images, and PDFs.
-- [chatgpt-writer-google](https://chrome.google.com/webstore/detail/chatgpt-writer-write-mail/pdnenlnelpdomajfejgapbdpmjkfpjkp) - Use ChatGPT to generate complete emails and messagese. It is supported on all websites and has better support for Gmail.
+- [chatgpt-writer-google](https://chrome.google.com/webstore/detail/chatgpt-writer-write-mail/pdnenlnelpdomajfejgapbdpmjkfpjkp) - Use ChatGPT to generate complete emails and messages. It is supported on all websites and has better support for Gmail.
 - [chatgpt-prompt-genius-google](https://chrome.google.com/webstore/detail/chatgpt-prompt-genius/jjdnakkfjnnbbckhifcfchagnpofjffo) - Discover, share, import, and use prompts that are most suitable for ChatGPT.
 - [ChatGPT for Google](https://chrome.google.com/webstore/detail/chatgpt-for-google/jgjaeacdkonaoafenlfkkkmbaopkbilf) - You can have search engine pages directly display ChatGPT's answers.
 - [AIPRM for ChatGPT](https://chrome.google.com/webstore/detail/aiprm-for-chatgpt/ojnbohmppadfgpejeebfnmnknjdlckgj/related) - [AIPRM](https://www.aiprm.com/) is a tool with multiple Prompt Templates and customizable Prompt Templates. It is a tool that ranks second when searching for ChatGPT directly in Google Chrome.
@@ -319,7 +319,7 @@
 - 2018 [Improving language understanding by generative pre-training](https://openai.com/research/language-unsupervised) - This paper introduces another popular pre-training model, also known to later generations as GPT-1.
 - 2019 [Language models are unsupervised multitask learners](https://www.semanticscholar.org/paper/Language-Models-are-Unsupervised-Multitask-Learners-Radford-Wu/9405cc0d6169988371b2755e573cc28650d14dfe) - This paper introduces GPT-2.
 - 2020 [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165) - This paper introduces GPT-3.
-- 2022 [Training lanquage models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155) - This paper presents an RLHF approach to using supervised learning to fine-tuning. It is also known as a paper that illustrates the kernel of ChatGPT's thinking. Presumably, ChatGPT is an extended version of InstructGPT that enables fine-tuning on larger datasets.
+- 2022 [Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155) - This paper presents an RLHF approach to using supervised learning to fine-tuning. It is also known as a paper that illustrates the kernel of ChatGPT's thinking. Presumably, ChatGPT is an extended version of InstructGPT that enables fine-tuning on larger datasets.
 - 2023 [GPT-4 Technical Report](https://arxiv.org/abs/2303.08774) We report the development of GPT-4, a large-scale, multimodal model which can accept image and text inputs and produce text outputs.
 - awesome-chatgpt-papers https://www.aliyundrive.com/s/RenfDZjta8T 提取码：5y6m
 
