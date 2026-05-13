@@ -223,6 +223,7 @@
 ## Vector Database
 
 - [Weaviate](https://github.com/weaviate/weaviate)
+- [Dakera](https://github.com/Dakera-AI/dakera) - Persistent memory layer for ChatGPT-powered agents: hybrid BM25 + vector retrieval, temporal reasoning, and importance-weighted decay
 
 ## Venture Capitalists
 
