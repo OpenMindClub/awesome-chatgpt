@@ -224,6 +224,8 @@
 
 - [Weaviate](https://github.com/weaviate/weaviate)
 
+- [Dakera](https://github.com/dakera-ai/dakera-deploy) - Persistent memory layer for AI agents: hybrid BM25 + vector retrieval, temporal reasoning, and importance-weighted decay
+
 ## Venture Capitalists
 
 ### OpenAI Investors
