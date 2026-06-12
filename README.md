@@ -78,6 +78,7 @@
 - [ChatGPT Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut) - A quick reference table of ChatGPT shortcuts is divided by domain and function, allowing users to filter by tags, search by keywords, and copy with a single click to utilize prompts.Even beginners can simply copy the prompt phrases, make minor modifications, and send them to ChatGPT to obtain the desired output.
 - [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - Guides, papers, lecture, and resources for prompt engineering.
 - [Prompt Marketplace](https://promptbase.com/) - PromptBase is a marketplace for buying and selling quality prompts.
+- [CreatorSkills](https://creatorskills.co) - Marketplace of 30+ downloadable AI skills for content creators covering YouTube scripting, sponsorship analysis, and audience growth. Works with Claude and ChatGPT.
 - [Prompt 编写模式：如何将思维框架赋予机器（中文）](https://github.com/prompt-engineering/prompt-patterns#prompt-%E7%BC%96%E5%86%99%E6%A8%A1%E5%BC%8F%E5%A6%82%E4%BD%95%E5%B0%86%E6%80%9D%E7%BB%B4%E6%A1%86%E6%9E%B6%E8%B5%8B%E4%BA%88%E6%9C%BA%E5%99%A8) - Introduce a series of Prompt writing patterns to better apply Prompts to programming AI.
 - [ChatGPT 500 prompts](https://www.linkedin.com/pulse/chatgpt-500-prompts-make-you-top-1-copywriter-alexis-khvatov-) - 500 Prompts that are helpful for writers.
 
