@@ -162,7 +162,7 @@
 
 ### Web App
 
-- [Emu](https://image.tinchak0207.xyz) - Online GPT Image 2 & Nano Banana Pro image generator, no API key or relay setup required
+- [Eimu](https://eimu.art) - Online GPT Image 2 & Nano Banana Pro image generator, no API key or relay setup required
 - [Poe](https://quorablog.quora.com/Poe-1) - Quora has launched an AI chatbot tool similar to ChatGPT. The product currently includes four different bots, namely Sage, Claude, ChatGPT, and Dragonfly, which are somewhat similar to the offerings of Character AI. These bots draw their AI capabilities from various sources, including OpenAI, Anthropic's Claude, and other AI models, making it a product that integrates multiple AI models.
 - [OpenGPT - Create ChatGPT Application in seconds](https://open-gpt.app/) - Access to a wide range of ChatGPT applications, or create your own App in seconds.
 - [Mindshow.fun](https://www.mindshow.fun/#/templates) - Combining with ChatGPT, you can generate a PPT in one minutes. Support importing from Markdown and Logseq.
