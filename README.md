@@ -174,7 +174,7 @@
 - [ClipRecaps](https://cliprecaps.com/) ClipRecaps: chatGPT meets Youtube. The Ultimate Tool for Summarizing Long-Form Videos
 - [Poet.ly](https://poet.ly) - Poet.ly is a simple and fast generator of SEO-friendly articles for your blog referenced on search engines. It is based on the OpenAI GPT-4 API.
 - [VoiceSphere](https://voicesphere.co/)  Revolutionize your document and video interactions with VoiceSphere's AI-driven chat technology. Access quick, intelligent responses directly from a wide range of document formats including PDFs, DOCs, PPTs, and videos. Ideal for professionals across various industries, VoiceSphere enhances information retrieval and boosts productivity by enabling smarter, context-aware document management. 
-- [Dayora ChatGPT Journal Reader](https://www.dayora.ai/tools/chatgpt-journal-reader) - Select user-authored notes from a ChatGPT ZIP or JSON export locally and download Markdown with available dates, without an account.
+- [Dayora ChatGPT Journal Reader](https://www.dayora.ai/tools/chatgpt-journal-reader) - Select messages marked with the user role from a ChatGPT ZIP or JSON export locally and download Markdown with available dates, without an account.
 
 
 ## Developer Tools
