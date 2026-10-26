@@ -98,6 +98,7 @@
 - [ChatGPT blog](https://openai.com/blog/chatgpt/) - This is an article on the OpenAI official blog introducing ChatGPT.
 - [New Bing](https://www.bing.com/new) - The New Bing is a new generation of search engine developed by Microsoft and based on a large language model from OpenAI, capable of providing intelligent chat, creative and assistant features.
 - [Microsoft 365 Copilot](https://blogs.microsoft.com/blog/2023/03/16/introducing-microsoft-365-copilot-your-copilot-for-work/)：It combines the large language models,Including GPT-4, with your data in the Microsoft Graph and the Microsoft 365 apps
+- [Mode VC LLM Inference Cost Calculator](https://modevc.com/tools/llm-inference-calculator) - Free browser-side LLM token unit economics, prompt caching, and gross margin calculator across 8 frontier and open-weights models.
 
 ### Social Media
 
