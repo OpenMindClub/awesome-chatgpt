@@ -161,6 +161,7 @@
 - [ChatGPT Export](https://github.com/yaph/chatgpt-export) - A browser bookmarklet for exporting conversations with ChatGPT as markdown files.
 
 ### Web App
+- [HumanPen](https://humanpen.net/) - Academic & research document SaaS for document-level humanizing (DOCX/PPTX/TXT), translation (12 languages), condensing, citation format correction (12 styles), and scoped research projects (100 signup credits; commercial credit-based pricing).
 
 - [Poe](https://quorablog.quora.com/Poe-1) - Quora has launched an AI chatbot tool similar to ChatGPT. The product currently includes four different bots, namely Sage, Claude, ChatGPT, and Dragonfly, which are somewhat similar to the offerings of Character AI. These bots draw their AI capabilities from various sources, including OpenAI, Anthropic's Claude, and other AI models, making it a product that integrates multiple AI models.
 - [OpenGPT - Create ChatGPT Application in seconds](https://open-gpt.app/) - Access to a wide range of ChatGPT applications, or create your own App in seconds.
